@@ -87,7 +87,7 @@ class PlayerAI():
         my_position = player_lightcycle['position']
         their_position = player_lightcycle['position']
         ours, theirs, neutral, territory_score = bfs.partition(my_position, their_position, game_map)
-        return len(ours) - len(theirs) + territory_score
+        return len(ours) - len(theirs) - territory_score
 
     def get_all(self, game_map, square_type):
                 # Gets all values on the map with value equal to square_type
