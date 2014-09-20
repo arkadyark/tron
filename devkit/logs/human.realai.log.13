@@ -1,0 +1,210 @@
+20/09/2014 06:38:57.711 - GameLog] - [FINE] - A new game is starting
+20/09/2014 06:38:58.005 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 1
+20/09/2014 06:38:58.005 - ResponseLog] - [FINE] - 0 (3, 10) wants to move RIGHT
+20/09/2014 06:38:58.005 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 1
+20/09/2014 06:38:58.006 - ResponseLog] - [FINE] - 1 (17, 10) wants to move DOWN
+20/09/2014 06:38:58.192 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 2
+20/09/2014 06:38:58.192 - ResponseLog] - [FINE] - 0 (4, 10) wants to move RIGHT
+20/09/2014 06:38:58.192 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 2
+20/09/2014 06:38:58.193 - ResponseLog] - [FINE] - 1 (17, 11) wants to move DOWN
+20/09/2014 06:38:58.399 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 3
+20/09/2014 06:38:58.400 - ResponseLog] - [FINE] - 0 (5, 10) wants to move RIGHT
+20/09/2014 06:38:58.400 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 3
+20/09/2014 06:38:58.400 - ResponseLog] - [FINE] - 1 (17, 12) wants to move DOWN
+20/09/2014 06:38:58.605 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 4
+20/09/2014 06:38:58.605 - ResponseLog] - [FINE] - 0 (6, 10) wants to move RIGHT
+20/09/2014 06:38:58.605 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 4
+20/09/2014 06:38:58.606 - ResponseLog] - [FINE] - 1 (17, 13) wants to move DOWN
+20/09/2014 06:38:58.809 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 5
+20/09/2014 06:38:58.810 - ResponseLog] - [FINE] - 0 (7, 10) wants to move RIGHT
+20/09/2014 06:38:58.810 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 5
+20/09/2014 06:38:58.810 - ResponseLog] - [FINE] - 1 (17, 14) wants to move DOWN
+20/09/2014 06:38:59.006 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 6
+20/09/2014 06:38:59.006 - ResponseLog] - [FINE] - 0 (8, 10) wants to move RIGHT
+20/09/2014 06:38:59.007 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 6
+20/09/2014 06:38:59.007 - ResponseLog] - [FINE] - 1 (17, 15) wants to move DOWN
+20/09/2014 06:38:59.204 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 7
+20/09/2014 06:38:59.204 - ResponseLog] - [FINE] - 0 (9, 10) wants to move RIGHT
+20/09/2014 06:38:59.205 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 7
+20/09/2014 06:38:59.205 - ResponseLog] - [FINE] - 1 (17, 16) wants to move DOWN
+20/09/2014 06:38:59.395 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 8
+20/09/2014 06:38:59.395 - ResponseLog] - [FINE] - 0 (10, 10) wants to move RIGHT
+20/09/2014 06:38:59.396 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 8
+20/09/2014 06:38:59.396 - ResponseLog] - [FINE] - 1 (17, 17) wants to move DOWN
+20/09/2014 06:38:59.590 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 9
+20/09/2014 06:38:59.591 - ResponseLog] - [FINE] - 0 (11, 10) wants to move RIGHT
+20/09/2014 06:38:59.591 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 9
+20/09/2014 06:38:59.591 - ResponseLog] - [FINE] - 1 (17, 18) wants to move DOWN
+20/09/2014 06:38:59.766 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 10
+20/09/2014 06:38:59.766 - ResponseLog] - [FINE] - 0 (12, 10) wants to move RIGHT
+20/09/2014 06:38:59.767 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 10
+20/09/2014 06:38:59.767 - ResponseLog] - [FINE] - 1 (17, 19) wants to move RIGHT
+20/09/2014 06:38:59.939 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 11
+20/09/2014 06:38:59.939 - ResponseLog] - [FINE] - 0 (13, 10) wants to move RIGHT
+20/09/2014 06:38:59.939 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 11
+20/09/2014 06:38:59.939 - ResponseLog] - [FINE] - 1 (18, 19) wants to move RIGHT
+20/09/2014 06:39:00.099 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 12
+20/09/2014 06:39:00.099 - ResponseLog] - [FINE] - 0 (14, 10) wants to move RIGHT
+20/09/2014 06:39:00.099 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 12
+20/09/2014 06:39:00.100 - ResponseLog] - [FINE] - 1 (19, 19) wants to move UP
+20/09/2014 06:39:00.277 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 13
+20/09/2014 06:39:00.277 - ResponseLog] - [FINE] - 0 (15, 10) wants to move RIGHT
+20/09/2014 06:39:00.277 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 13
+20/09/2014 06:39:00.278 - ResponseLog] - [FINE] - 1 (19, 18) wants to move LEFT
+20/09/2014 06:39:00.415 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 14
+20/09/2014 06:39:00.415 - ResponseLog] - [FINE] - 0 (16, 10) wants to move RIGHT
+20/09/2014 06:39:00.416 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 14
+20/09/2014 06:39:00.416 - ResponseLog] - [FINE] - 1 (18, 18) wants to move UP
+20/09/2014 06:39:00.571 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 15
+20/09/2014 06:39:00.572 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:00.572 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 15
+20/09/2014 06:39:00.572 - ResponseLog] - [FINE] - 1 (18, 17) wants to move RIGHT
+20/09/2014 06:39:00.711 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 16
+20/09/2014 06:39:00.711 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:00.712 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 16
+20/09/2014 06:39:00.712 - ResponseLog] - [FINE] - 1 (19, 17) wants to move UP
+20/09/2014 06:39:00.868 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 17
+20/09/2014 06:39:00.868 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:00.868 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 17
+20/09/2014 06:39:00.868 - ResponseLog] - [FINE] - 1 (19, 16) wants to move LEFT
+20/09/2014 06:39:01.005 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 18
+20/09/2014 06:39:01.005 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.006 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 18
+20/09/2014 06:39:01.006 - ResponseLog] - [FINE] - 1 (18, 16) wants to move UP
+20/09/2014 06:39:01.169 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 19
+20/09/2014 06:39:01.169 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.169 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 19
+20/09/2014 06:39:01.170 - ResponseLog] - [FINE] - 1 (18, 15) wants to move RIGHT
+20/09/2014 06:39:01.309 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 20
+20/09/2014 06:39:01.309 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.309 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 20
+20/09/2014 06:39:01.309 - ResponseLog] - [FINE] - 1 (19, 15) wants to move UP
+20/09/2014 06:39:01.465 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 21
+20/09/2014 06:39:01.466 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.466 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 21
+20/09/2014 06:39:01.466 - ResponseLog] - [FINE] - 1 (19, 14) wants to move LEFT
+20/09/2014 06:39:01.605 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 22
+20/09/2014 06:39:01.605 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.605 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 22
+20/09/2014 06:39:01.606 - ResponseLog] - [FINE] - 1 (18, 14) wants to move UP
+20/09/2014 06:39:01.750 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 23
+20/09/2014 06:39:01.751 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.751 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 23
+20/09/2014 06:39:01.751 - ResponseLog] - [FINE] - 1 (18, 13) wants to move RIGHT
+20/09/2014 06:39:01.889 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 24
+20/09/2014 06:39:01.889 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:01.890 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 24
+20/09/2014 06:39:01.890 - ResponseLog] - [FINE] - 1 (19, 13) wants to move UP
+20/09/2014 06:39:02.045 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 25
+20/09/2014 06:39:02.045 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.045 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 25
+20/09/2014 06:39:02.046 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+20/09/2014 06:39:02.184 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 26
+20/09/2014 06:39:02.185 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.185 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 26
+20/09/2014 06:39:02.185 - ResponseLog] - [FINE] - 1 (18, 12) wants to move UP
+20/09/2014 06:39:02.348 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 27
+20/09/2014 06:39:02.348 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.348 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 27
+20/09/2014 06:39:02.348 - ResponseLog] - [FINE] - 1 (18, 11) wants to move RIGHT
+20/09/2014 06:39:02.486 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 28
+20/09/2014 06:39:02.486 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.486 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 28
+20/09/2014 06:39:02.486 - ResponseLog] - [FINE] - 1 (19, 11) wants to move UP
+20/09/2014 06:39:02.642 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 29
+20/09/2014 06:39:02.642 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.643 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 29
+20/09/2014 06:39:02.643 - ResponseLog] - [FINE] - 1 (19, 10) wants to move LEFT
+20/09/2014 06:39:02.764 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 30
+20/09/2014 06:39:02.839 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.839 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 30
+20/09/2014 06:39:02.839 - ResponseLog] - [FINE] - 1 (18, 10) wants to move UP
+20/09/2014 06:39:02.998 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 31
+20/09/2014 06:39:02.998 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:02.999 - ResponseLog] - [FINE] - realai responded with move MOVE_RIGHT for turn 31
+20/09/2014 06:39:02.999 - ResponseLog] - [FINE] - 1 (18, 9) wants to move RIGHT
+20/09/2014 06:39:03.119 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 32
+20/09/2014 06:39:03.120 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.120 - ResponseLog] - [FINE] - realai responded with move MOVE_UP for turn 32
+20/09/2014 06:39:03.120 - ResponseLog] - [FINE] - 1 (19, 9) wants to move UP
+20/09/2014 06:39:03.260 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 33
+20/09/2014 06:39:03.261 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.261 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 33
+20/09/2014 06:39:03.261 - ResponseLog] - [FINE] - 1 (19, 8) wants to move LEFT
+20/09/2014 06:39:03.398 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 34
+20/09/2014 06:39:03.399 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.399 - ResponseLog] - [FINE] - realai responded with move MOVE_LEFT for turn 34
+20/09/2014 06:39:03.399 - ResponseLog] - [FINE] - 1 (18, 8) wants to move LEFT
+20/09/2014 06:39:03.521 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 35
+20/09/2014 06:39:03.522 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.522 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 35
+20/09/2014 06:39:03.522 - ResponseLog] - [FINE] - 1 (17, 8) wants to move LEFT
+20/09/2014 06:39:03.686 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 36
+20/09/2014 06:39:03.686 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.686 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 36
+20/09/2014 06:39:03.687 - ResponseLog] - [FINE] - 1 (16, 8) wants to move DOWN
+20/09/2014 06:39:03.811 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 37
+20/09/2014 06:39:03.812 - ResponseLog] - [FINE] - 0 (17, 10) wants to move RIGHT
+20/09/2014 06:39:03.812 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 37
+20/09/2014 06:39:03.812 - ResponseLog] - [FINE] - 1 (16, 9) wants to move DOWN
+20/09/2014 06:39:03.914 - GameLog] - [FINE] - Player realai left
+20/09/2014 06:40:15.545 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\human.realai_15.xml
+20/09/2014 06:40:16.506 - GameLog] - [FINE] - A new game is starting
+20/09/2014 06:40:16.787 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 1
+20/09/2014 06:40:16.788 - ResponseLog] - [FINE] - 0 (3, 10) wants to move RIGHT
+20/09/2014 06:40:16.788 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 1
+20/09/2014 06:40:16.789 - ResponseLog] - [FINE] - 1 (17, 10) wants to move DOWN
+20/09/2014 06:40:16.977 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 2
+20/09/2014 06:40:16.977 - ResponseLog] - [FINE] - 0 (4, 10) wants to move RIGHT
+20/09/2014 06:40:16.977 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 2
+20/09/2014 06:40:16.978 - ResponseLog] - [FINE] - 1 (17, 11) wants to move DOWN
+20/09/2014 06:40:17.165 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 3
+20/09/2014 06:40:17.165 - ResponseLog] - [FINE] - 0 (5, 10) wants to move RIGHT
+20/09/2014 06:40:17.165 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 3
+20/09/2014 06:40:17.166 - ResponseLog] - [FINE] - 1 (17, 12) wants to move DOWN
+20/09/2014 06:40:17.354 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 4
+20/09/2014 06:40:17.355 - ResponseLog] - [FINE] - 0 (6, 10) wants to move RIGHT
+20/09/2014 06:40:17.355 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 4
+20/09/2014 06:40:17.355 - ResponseLog] - [FINE] - 1 (17, 13) wants to move DOWN
+20/09/2014 06:40:17.547 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 5
+20/09/2014 06:40:17.547 - ResponseLog] - [FINE] - 0 (7, 10) wants to move RIGHT
+20/09/2014 06:40:17.547 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 5
+20/09/2014 06:40:17.547 - ResponseLog] - [FINE] - 1 (17, 14) wants to move DOWN
+20/09/2014 06:40:17.759 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 6
+20/09/2014 06:40:17.760 - ResponseLog] - [FINE] - 0 (8, 10) wants to move RIGHT
+20/09/2014 06:40:17.760 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 6
+20/09/2014 06:40:17.760 - ResponseLog] - [FINE] - 1 (17, 15) wants to move DOWN
+20/09/2014 06:40:17.951 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 7
+20/09/2014 06:40:17.952 - ResponseLog] - [FINE] - 0 (9, 10) wants to move RIGHT
+20/09/2014 06:40:17.952 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 7
+20/09/2014 06:40:17.952 - ResponseLog] - [FINE] - 1 (17, 16) wants to move DOWN
+20/09/2014 06:40:18.141 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 8
+20/09/2014 06:40:18.142 - ResponseLog] - [FINE] - 0 (10, 10) wants to move RIGHT
+20/09/2014 06:40:18.142 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 8
+20/09/2014 06:40:18.142 - ResponseLog] - [FINE] - 1 (17, 17) wants to move DOWN
+20/09/2014 06:40:18.324 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 9
+20/09/2014 06:40:18.325 - ResponseLog] - [FINE] - 0 (11, 10) wants to move RIGHT
+20/09/2014 06:40:18.325 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 9
+20/09/2014 06:40:18.325 - ResponseLog] - [FINE] - 1 (17, 18) wants to move DOWN
+20/09/2014 06:40:18.500 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 10
+20/09/2014 06:40:18.500 - ResponseLog] - [FINE] - 0 (12, 10) wants to move RIGHT
+20/09/2014 06:40:18.500 - ResponseLog] - [FINE] - realai responded with move MOVE_DOWN for turn 10
+20/09/2014 06:40:18.501 - ResponseLog] - [FINE] - 1 (17, 19) wants to move DOWN
+20/09/2014 06:40:18.607 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 11
+20/09/2014 06:40:18.607 - ResponseLog] - [FINE] - 0 (13, 10) wants to move RIGHT
+20/09/2014 06:40:18.607 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 11
+20/09/2014 06:40:18.608 - ResponseLog] - [FINE] - 1 (17, 20) wants to move DOWN
+20/09/2014 06:40:18.713 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 12
+20/09/2014 06:40:18.713 - ResponseLog] - [FINE] - 0 (14, 10) wants to move RIGHT
+20/09/2014 06:40:18.714 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 12
+20/09/2014 06:40:18.714 - ResponseLog] - [FINE] - 1 (17, 20) wants to move DOWN
+20/09/2014 06:40:18.832 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 13
+20/09/2014 06:40:18.853 - ResponseLog] - [FINE] - 0 (15, 10) wants to move RIGHT
+20/09/2014 06:40:18.854 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 13
+20/09/2014 06:40:18.854 - ResponseLog] - [FINE] - 1 (17, 20) wants to move DOWN
+20/09/2014 06:40:18.969 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 14
+20/09/2014 06:40:18.969 - ResponseLog] - [FINE] - 0 (16, 10) wants to move RIGHT
+20/09/2014 06:40:18.969 - ResponseLog] - [FINE] - realai responded with move SAME_DIRECTION for turn 14
+20/09/2014 06:40:18.969 - ResponseLog] - [FINE] - 1 (17, 20) wants to move DOWN
+20/09/2014 06:40:19.073 - GameLog] - [FINE] - Player realai left
+20/09/2014 06:42:13.138 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\human.realai_16.xml
