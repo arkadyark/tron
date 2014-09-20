@@ -35,59 +35,16 @@ class PlayerAI():
         print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
         return next_move
 
-##    def get_move_greedy(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
-##        my_position = player_lightcycle['position']
-##        opponent_position = opponent_lightcycle['position']
-##        opponent_direction = opponent_lightcycle['direction']
-##        my_x = my_position[0]
-##        my_y = my_position[1]
-##        my_direction = player_lightcycle['direction']
-##        directions = {Direction.UP : (0, 1), Direction.DOWN : (0, -1), Direction.LEFT : (-1, 0), Direction.RIGHT : (1, 0)}
-##        left_turns = {Direction.UP : Direction.LEFT, Direction.DOWN : Direction.RIGHT, \
-##                      Direction.LEFT : Direction.DOWN, Direction.RIGHT : Direction.UP}
-##        right_turns = {Direction.UP : Direction.RIGHT, Direction.DOWN : Direction.LEFT, \
-##                      Direction.LEFT : Direction.UP, Direction.RIGHT : Direction.DOWN}
-##        directions_to_actions = {Direction.UP : PlayerActions.MOVE_UP, Direction.DOWN : PlayerActions.MOVE_DOWN, \
-##                      Direction.LEFT : PlayerActions.MOVE_LEFT, Direction.RIGHT : PlayerActions.MOVE_RIGHT}
-##        next_pos = my_x + directions[my_direction][0], \
-##                            my_y + directions[my_direction][1]
-##        next_player_cycle = {'direction':my_direction, 'isInvincible':player_lightcycle['isInvincible'], \
-##                                'hasPowerup':game_map[next_pos[0]][next_pos[1]] == POWERUP or player_lightcycle['hasPowerup'],\
-##                            'powerupType':"a", 'position':next_pos, 'player_number':1}
-##        opponent_next_pos = opponent_position[0] + directions[opponent_direction][0], \
-##                            opponent_position[0] + directions[opponent_direction][1]
-##        next_opponent_cycle = {'direction':opponent_direction, 'isInvincible':opponent_lightcycle['isInvincible'], \
-##                                'hasPowerup':game_map[opponent_next_pos[0]][opponent_next_pos[1]] == POWERUP or opponent_lightcycle['hasPowerup'],\
-##                            'powerupType':"a", 'position':opponent_next_pos, 'player_number':0}
-##        same_score = self.heuristic(game_map, next_player_cycle, next_opponent_cycle)
-##        next_pos = my_x + directions[right_turns[my_direction]][0], \
-##                            my_y + directions[right_turns[my_direction]][1]
-##        next_player_cycle = {'direction':right_turns[my_direction], 'isInvincible':player_lightcycle['isInvincible'], \
-##                                'hasPowerup':game_map[next_pos[0]][next_pos[1]] == POWERUP or player_lightcycle['hasPowerup'],\
-##                            'powerupType':"a", 'position':next_pos, 'player_number':1}
-##        right_action = directions_to_actions[right_turns[my_direction]]
-##        right_score = self.heuristic(game_map, next_player_cycle, next_opponent_cycle)
-##        next_pos = my_x + directions[left_turns[my_direction]][0], \
-##                            my_y + directions[left_turns[my_direction]][1]
-##        next_player_cycle = {'direction':left_turns[my_direction], 'isInvincible':player_lightcycle['isInvincible'], \
-##                                'hasPowerup':game_map[next_pos[0]][next_pos[1]] == POWERUP or player_lightcycle['hasPowerup'],\
-##                            'powerupType':"a", 'position':next_pos, 'player_number':1}
-##        left_action = directions_to_actions[left_turns[my_direction]]
-##        left_score = self.heuristic(game_map, next_player_cycle, next_opponent_cycle)
-##        if same_score > left_score and same_score > right_score:
-##            return PlayerActions.SAME_DIRECTION
-##        elif left_score > right_score:
-##            return left_action
-##        else:
-##            return right_action
-##                                
-##            
-##
     def heuristic(self, game_map, player_lightcycle, opponent_lightcycle):
         my_position = player_lightcycle['position']
+        my_x = my_position[0]
+        my_y = my_position[1]
         their_position = player_lightcycle['position']
-        ours, theirs, neutral, territory_score = bfs.partition(my_position, their_position, game_map)
-        return len(ours) - len(theirs) - territory_score
+        if my_x >= self.width or my_x < 0 or my_y >= self.height or my_y < 0:
+            return -1000
+        else:
+            ours, theirs, neutral, territory_score = bfs.partition(my_position, their_position, game_map)
+            return len(ours) - len(theirs) - territory_score
 
     def get_all(self, game_map, square_type):
                 # Gets all values on the map with value equal to square_type
