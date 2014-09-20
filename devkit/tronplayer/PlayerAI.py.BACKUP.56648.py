@@ -1,8 +1,11 @@
 import random
 from tronclient.Client import *
 from Enums import *
+<<<<<<< HEAD
+=======
 from alphabeta import * 
 import bfs
+>>>>>>> 281a818c4f35a35fddcd42a4dd07ab28300b3bc0
 import time
 
 class PlayerAI():
@@ -33,9 +36,7 @@ class PlayerAI():
         startTime = time.time()
         next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 5, self.heuristic)
 
-        print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
-        return next_move
-
+<<<<<<< HEAD
     def get_move_greedy(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         my_position = player_lightcycle['position']
         opponent_position = opponent_lightcycle['position']
@@ -89,6 +90,10 @@ class PlayerAI():
         their_position = player_lightcycle['position']
         ours, theirs, neutral = partition.partition(my_position, their_position, board)
         return len(ours) - len(theirs)
+=======
+        print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
+        return next_move
+>>>>>>> 281a818c4f35a35fddcd42a4dd07ab28300b3bc0
 
     def get_all(self, game_map, square_type):
                 # Gets all values on the map with value equal to square_type

@@ -1,8 +1,7 @@
 import random
 from tronclient.Client import *
 from Enums import *
-from alphabeta import * 
-import bfs
+import partition
 import time
 
 class PlayerAI():
@@ -13,12 +12,6 @@ class PlayerAI():
         self.powerups = []
         return
 
-    def heuristic(self, board, player_lightcycle, opponent_lightcycle):
-        my_position = player_lightcycle['position']
-        their_position = player_lightcycle['position']
-        ours, theirs, neutral = partition.partition(my_position, their_position, board)
-        return len(ours) - len(theirs)
-
     def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
         self.width = len(game_map[0])
         self.height = len(game_map)
@@ -28,18 +21,13 @@ class PlayerAI():
         print self.powerups
         print self.walls
 
-
     def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         startTime = time.time()
-        next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 5, self.heuristic)
-
+        return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
         print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
-        return next_move
 
     def get_move_greedy(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         my_position = player_lightcycle['position']
-        opponent_position = opponent_lightcycle['position']
-        opponent_direction = opponent_lightcycle['direction']
         my_x = my_position[0]
         my_y = my_position[1]
         my_direction = player_lightcycle['direction']
@@ -48,43 +36,16 @@ class PlayerAI():
                       Direction.LEFT : Direction.DOWN, Direction.RIGHT : Direction.UP}
         right_turns = {Direction.UP : Direction.RIGHT, Direction.DOWN : Direction.LEFT, \
                       Direction.LEFT : Direction.UP, Direction.RIGHT : Direction.DOWN}
-        directions_to_actions = {Direction.UP : PlayerActions.MOVE_UP, Direction.DOWN : PlayerActions.MOVE_DOWN, \
-                      Direction.LEFT : PlayerActions.MOVE_LEFT, Direction.RIGHT : PlayerActions.MOVE_RIGHT}
+
         next_pos = my_x + directions[my_direction][0], \
                             my_y + directions[my_direction][1]
-        next_player_cycle = {'direction':my_direction, 'isInvincible':player_lightcycle['isInvincible'], \
-                                hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
-                            powerupType:"a", position:next_pos, player_number:1}
-        opponent_next_pos = opponent_position[0] + directions[opponent_direction][0], \
-                            opponent_position[0] + directions[opponent_direction][1]
-        next_opponent_cycle = {'direction':opponent_direction, 'isInvincible':opponent_lightcycle['isInvincible'], \
-                                hasPowerup:game_map[opponent_next_pos] == POWERUP or opponent_lightcycle['hasPowerup'],\
-                            powerupType:"a", position:opponent_next_pos, player_number:0}
-        same_score = heuristic(game_map, next_player_lightcycle, next_opponent_lightcycle)
-        next_pos = my_x + directions[right_turns[my_direction]][0], \
-                            my_y + directions[right_turns[my_direction]][1]
-        next_player_cycle = {'direction':right_turns[my_direction], 'isInvincible':player_lightcycle['isInvincible'], \
-                                hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
-                            powerupType:"a", position:next_pos, player_number:1}
-        right_action = directions_to_actions[directions[right_turns[my_direction]][0]]
-        right_score = heuristic(game_map, next_player_lightcycle, next_opponent_lightcycle)
-        next_pos = my_x + directions[left_turns[my_direction]][0], \
-                            my_y + directions[left_turns[my_direction]][1]
-        next_player_cycle = {'direction':left_turns[my_direction], 'isInvincible':player_lightcycle['isInvincible'], \
-                                hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
-                            powerupType:"a", position:next_pos, player_number:1}
-        left_action = directions_to_actions[directions[left_turns[my_direction]][0]]
-        left_score = heuristic(game_map, next_player_lightcycle, next_opponent_lightcycle)
-        if same_score > left_score and same_score > right_score:
-            return PlayerActions.SAME_DIRECTION
-        elif left_score > right_score:
-            return left_action
-        else:
-            return right_action
+        next_player_cycle = {'direction':my_direction, 'isInvincible':false, \
+                                hasPowerup:game_map[my_x + directions[my_direction][0], \
+                                                    my_y + directions[my_direction][1]},
                                 
             
 
-    def heuristic(self, game_map, player_lightcycle, opponent_lightcycle):
+    def heuristic(self, board, player_lightcycle, opponent_lightcycle):
         my_position = player_lightcycle['position']
         their_position = player_lightcycle['position']
         ours, theirs, neutral = partition.partition(my_position, their_position, board)

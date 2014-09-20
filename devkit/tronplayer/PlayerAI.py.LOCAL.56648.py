@@ -1,8 +1,6 @@
 import random
 from tronclient.Client import *
 from Enums import *
-from alphabeta import * 
-import bfs
 import time
 
 class PlayerAI():
@@ -13,12 +11,6 @@ class PlayerAI():
         self.powerups = []
         return
 
-    def heuristic(self, board, player_lightcycle, opponent_lightcycle):
-        my_position = player_lightcycle['position']
-        their_position = player_lightcycle['position']
-        ours, theirs, neutral = partition.partition(my_position, their_position, board)
-        return len(ours) - len(theirs)
-
     def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
         self.width = len(game_map[0])
         self.height = len(game_map)
@@ -28,13 +20,10 @@ class PlayerAI():
         print self.powerups
         print self.walls
 
-
     def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         startTime = time.time()
-        next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 5, self.heuristic)
-
+        return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
         print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
-        return next_move
 
     def get_move_greedy(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         my_position = player_lightcycle['position']
