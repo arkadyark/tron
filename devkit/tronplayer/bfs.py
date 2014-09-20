@@ -7,7 +7,7 @@ possible_moves = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 def partition(player_pos, opponent_pos, game_map):
     player_distances = bfs(player_pos, game_map)
     ours, theirs, neutral = bfs2(opponent_pos, game_map, player_distances)
-    territory_score = getTerritoryScore(ours)
+    territory_score = getTerritoryScore(ours, game_map)
     return ours, theirs, neutral, territory_score
 
 def bfs(pos, game_map):
