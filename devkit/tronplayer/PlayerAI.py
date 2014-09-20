@@ -1,38 +1,57 @@
 import random
 from tronclient.Client import *
 from Enums import *
+import partition
+import time
 
 class PlayerAI():
 
-	def __init__(self):
-		return
+    def __init__(self):
+        self.trails = []
+        self.walls = []
+        self.powerups = []
+        return
 
-	def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
-                self.width = len(game_map[0])
-                self.height = len(game_map)
-		self.walls = self.get_all(game_map, WALL)
-		self.powerups = self.get_all(game_map, POWERUP)
-		print self.width, self.height
-		print self.powerups
-		print self.walls
+    def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
+        self.width = len(game_map[0])
+        self.height = len(game_map)
+        self.walls = self.get_all(game_map, WALL)
+        self.powerups = self.get_all(game_map, POWERUP)
+        print self.width, self.height
+        print self.powerups
+        print self.walls
 
-	def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
-		my_position = player_lightcycle['position']
-		my_x = my_position[0]
-		my_y = my_position[1]
-		my_direction = player_lightcycle['direction']
-		
-		randMove = random.randint(0, 3)
-		if randMove == 0:
-			return PlayerActions.MOVE_LEFT
-		elif randMove == 1:
-			return PlayerActions.MOVE_RIGHT
-		elif randMove == 2:
-			return PlayerActions.MOVE_DOWN
-		else:
-			return PlayerActions.MOVE_UP
+    def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
+        startTime = time.time()
+        return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+        print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
 
-	def get_all(self, game_map, square_type):
+    def get_move_greedy(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
+        my_position = player_lightcycle['position']
+        my_x = my_position[0]
+        my_y = my_position[1]
+        my_direction = player_lightcycle['direction']
+        directions = {Direction.UP : (0, 1), Direction.DOWN : (0, -1), Direction.LEFT : (-1, 0), Direction.RIGHT : (1, 0)}
+        left_turns = {Direction.UP : Direction.LEFT, Direction.DOWN : Direction.RIGHT, \
+                      Direction.LEFT : Direction.DOWN, Direction.RIGHT : Direction.UP}
+        right_turns = {Direction.UP : Direction.RIGHT, Direction.DOWN : Direction.LEFT, \
+                      Direction.LEFT : Direction.UP, Direction.RIGHT : Direction.DOWN}
+
+        next_pos = my_x + directions[my_direction][0], \
+                            my_y + directions[my_direction][1]
+        next_player_cycle = {'direction':my_direction, 'isInvincible':false, \
+                                hasPowerup:game_map[my_x + directions[my_direction][0], \
+                                                    my_y + directions[my_direction][1]},
+                                
+            
+
+    def heuristic(self, board, player_lightcycle, opponent_lightcycle):
+        my_position = player_lightcycle['position']
+        their_position = player_lightcycle['position']
+        ours, theirs, neutral = partition.partition(my_position, their_position, board)
+        return len(ours) - len(theirs)
+
+    def get_all(self, game_map, square_type):
                 # Gets all values on the map with value equal to square_type
                 vals = []
                 for i in xrange(self.height):
