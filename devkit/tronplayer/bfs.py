@@ -16,7 +16,7 @@ def bfs(pos, game_map):
     fringe.put((pos, []))
     distances = {pos:0}
     # Keep track of nodes visited, don't revisit nodes
-    visited = [pos]
+    visited = {pos} 
     while not fringe.empty():
         node = fringe.get()
         nodeCoords = node[0]
@@ -39,7 +39,7 @@ def bfs2(pos, game_map, player_distances):
     theirs = [pos]
     neutral = []
     # Keep track of nodes visited, don't revisit nodes
-    visited = [pos]
+    visited = {pos}
     while not fringe.empty():
         node = fringe.get()
         nodeCoords = node[0]
@@ -52,11 +52,10 @@ def bfs2(pos, game_map, player_distances):
                 successorPath = nodePath + [successor]
                 fringe.put((successor, successorPath))
                 # Assign the node by comparing path lengths
-                path_length = len(successorPath)
                 player_path_length = player_distances[successor]
-                if path_length > player_path_length:
+                if path_length + 1 > player_path_length:
                     ours.append(successor)
-                elif path_length < player_path_length:
+                elif path_length + 1 < player_path_length:
                     theirs.append(successor)
                 else:
                     neutral.append(successor)
