@@ -6,14 +6,12 @@ import cProfile
 possible_moves = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
 def partition(player_pos, opponent_pos, game_map):
-    player_distances = _bfs(player_pos, game_map)
-    ours, theirs, neutral = _bfs2(opponent_pos, game_map, player_distances)
+    player_distances = bfs(player_pos, game_map)
+    ours, theirs, neutral = bfs2(opponent_pos, game_map, player_distances)
     territory_score = getTerritoryScore(ours, game_map)
-    
     return ours, theirs, neutral, territory_score
-    
-    
-def _bfs(pos, game_map):
+
+def bfs(pos, game_map):
     # Calculates shortest path distances from pos to all nodes
     fringe = Queue()
     fringe.put((pos, []))
@@ -30,10 +28,10 @@ def _bfs(pos, game_map):
             if successor not in visited:
                 visited.add(successor)
                 successorPath = nodePath + [successor]
-                fringe.put((successor, successorPath))      
+                fringe.put((successor, successorPath))
     return distances
 
-def _bfs2(pos, game_map, player_distances):
+def bfs2(pos, game_map, player_distances):
     # Assigns each square as either ours (closest to player), theirs (closest to opponent),
     # or neutral (equal)
     fringe = Queue()
