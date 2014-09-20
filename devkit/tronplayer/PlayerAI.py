@@ -13,12 +13,6 @@ class PlayerAI():
         self.powerups = []
         return
 
-    def heuristic(self, game_map, player_lightcycle, opponent_lightcycle):
-        my_position = player_lightcycle['position']
-        their_position = player_lightcycle['position']
-        ours, theirs, neutral = bfs.partition(my_position, their_position, game_map)
-        return len(ours) - len(theirs)
-
     def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
         self.width = len(game_map[0])
         self.height = len(game_map)
