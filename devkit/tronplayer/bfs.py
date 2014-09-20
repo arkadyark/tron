@@ -7,7 +7,8 @@ possible_moves = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 def partition(player_pos, opponent_pos, game_map):
     player_distances = bfs(player_pos, game_map)
     ours, theirs, neutral = bfs2(opponent_pos, game_map, player_distances)
-    return ours, theirs, neutral
+    territory_score = getTerritoryScore(ours)
+    return ours, theirs, neutral, territory_score
 
 def bfs(pos, game_map):
     # Calculates shortest path distances from pos to all nodes
@@ -73,3 +74,8 @@ def getSuccessors(pos, game_map):
             if next_move_type == POWERUP or next_move_type == EMPTY:
                 successors.append(next_move)
     return successors
+
+def getTerritoryScore(territory, game_map):
+    def numNeighbors(pos):
+        return len(getSuccessors(pos, game_map))
+    return sum(map(numNeighbors, territory))
