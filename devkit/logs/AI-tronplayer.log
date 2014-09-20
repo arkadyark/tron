@@ -248,3 +248,1076 @@ INFO:root:20/09/2014 12:19:08 calling getMove for turn 95 for player 1
 INFO:root:20/09/2014 12:19:08 message sent for move 95: took 0 milliseconds
 INFO:root:20/09/2014 12:19:08 calling getMove for turn 96 for player 1
 INFO:root:20/09/2014 12:19:08 message sent for move 96: took 1 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 12:45:15 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 12:45:15 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 2: took 45 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 5: took 7 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 6: took 1 milliseconds
+INFO:root:20/09/2014 12:45:16 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 12:45:16 message sent for move 7: took 17 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 8: took 2 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 9: took 5 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 10: took 8 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 11: took 4 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 12: took 5 milliseconds
+INFO:root:20/09/2014 12:45:17 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 12:45:17 message sent for move 13: took 4 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 12:46:32 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 12:46:32 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 12:46:32 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 12:46:32 message sent for move 2: took 2 milliseconds
+INFO:root:20/09/2014 12:46:32 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 12:46:32 message sent for move 3: took 2 milliseconds
+INFO:root:20/09/2014 12:46:32 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 12:46:32 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 5: took 3 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 6: took 27 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 7: took 2 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 8: took 3 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 10: took 28 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 11: took 16 milliseconds
+INFO:root:20/09/2014 12:46:33 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 12:46:33 message sent for move 12: took 2 milliseconds
+INFO:root:20/09/2014 12:46:34 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 12:46:34 message sent for move 13: took 2 milliseconds
+INFO:root:20/09/2014 12:46:34 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 12:46:34 message sent for move 14: took 1 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 11, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:02:12 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:02:12 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:02:12 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:02:12 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 5: took 1 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 8: took 3 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 10: took 2 milliseconds
+INFO:root:20/09/2014 13:02:13 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:02:13 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 12: took 3 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 15: took 1 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 16: took 1 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 17: took 0 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 18: took 0 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 19: took 0 milliseconds
+INFO:root:20/09/2014 13:02:14 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 13:02:14 message sent for move 20: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 21 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 21: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 22 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 22: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 23 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 23: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 24 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 24: took 1 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 25 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 25: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 26 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 26: took 2 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 27 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 27: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 28 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 28: took 1 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 29 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 29: took 0 milliseconds
+INFO:root:20/09/2014 13:02:15 calling getMove for turn 30 for player 1
+INFO:root:20/09/2014 13:02:15 message sent for move 30: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 31 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 31: took 1 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 32 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 32: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 33 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 33: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 34 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 34: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 35 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 35: took 1 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 36 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 36: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 37 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 37: took 1 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 38 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 38: took 0 milliseconds
+INFO:root:20/09/2014 13:02:16 calling getMove for turn 39 for player 1
+INFO:root:20/09/2014 13:02:16 message sent for move 39: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 40 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 40: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 41 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 41: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 42 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 42: took 3 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 43 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 43: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 44 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 44: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 45 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 45: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 46 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 46: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 47 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 47: took 0 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 48 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 48: took 1 milliseconds
+INFO:root:20/09/2014 13:02:17 calling getMove for turn 49 for player 1
+INFO:root:20/09/2014 13:02:17 message sent for move 49: took 1 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 50 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 50: took 2 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 51 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 51: took 0 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 52 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 52: took 0 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 53 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 53: took 1 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 54 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 54: took 0 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 55 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 55: took 1 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 56 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 56: took 0 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 57 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 57: took 0 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 58 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 58: took 1 milliseconds
+INFO:root:20/09/2014 13:02:18 calling getMove for turn 59 for player 1
+INFO:root:20/09/2014 13:02:18 message sent for move 59: took 0 milliseconds
+INFO:root:20/09/2014 13:02:19 calling getMove for turn 60 for player 1
+INFO:root:20/09/2014 13:02:19 message sent for move 60: took 0 milliseconds
+INFO:root:20/09/2014 13:02:19 calling getMove for turn 61 for player 1
+INFO:root:20/09/2014 13:02:19 message sent for move 61: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 11, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 2: took 2 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:03:36 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:03:36 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 15: took 1 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 16: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 17: took 0 milliseconds
+INFO:root:20/09/2014 13:03:37 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 13:03:37 message sent for move 18: took 1 milliseconds
+INFO:root:20/09/2014 13:03:38 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 13:03:38 message sent for move 19: took 0 milliseconds
+INFO:root:20/09/2014 13:03:38 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 13:03:38 message sent for move 20: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 12, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 6: took 3 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:04:32 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:04:32 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:04:33 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:04:33 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:04:33 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:04:33 message sent for move 11: took 7 milliseconds
+INFO:root:20/09/2014 13:04:33 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:04:33 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:04:33 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:04:33 message sent for move 13: took 2 milliseconds
+INFO:root:20/09/2014 13:04:33 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:04:33 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 12, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:06:15 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:06:15 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 12: took 1 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 15: took 0 milliseconds
+INFO:root:20/09/2014 13:06:16 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:06:16 message sent for move 16: took 0 milliseconds
+INFO:root:20/09/2014 13:06:17 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:06:17 message sent for move 17: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 13, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:07:21 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:07:21 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:07:21 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:07:21 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 3: took 2 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 6: took 40 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 10: took 3 milliseconds
+INFO:root:20/09/2014 13:07:22 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:07:22 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 15: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 16: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 17: took 0 milliseconds
+INFO:root:20/09/2014 13:07:23 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 13:07:23 message sent for move 18: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 13, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:08:48 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:08:48 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:08:48 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:08:48 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:08:48 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:08:48 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 6: took 1 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 7: took 3 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 10: took 1 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 11: took 4 milliseconds
+INFO:root:20/09/2014 13:08:49 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:08:49 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:08:50 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:08:50 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:08:50 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:08:50 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 13, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:10:44 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:10:44 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:10:44 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:10:44 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 10: took 1 milliseconds
+INFO:root:20/09/2014 13:10:45 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:10:45 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:10:46 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:10:46 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:10:46 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:10:46 message sent for move 13: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:11:01 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:11:01 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:11:01 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:11:01 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:11:01 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:11:01 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:11:01 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:11:01 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 10: took 1 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:11:02 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:11:02 message sent for move 13: took 1 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 13, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:11:29 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:11:29 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 12: took 1 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:11:30 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:11:30 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:11:58 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:11:58 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 13:11:58 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:11:58 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:11:58 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:11:58 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:11:58 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:11:58 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:11:59 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:11:59 message sent for move 12: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, Enums.POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:12:13 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:12:13 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:12:14 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:12:14 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 3: took 2 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:12:58 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:12:58 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 14: took 1 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 15: took 1 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 16: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 17: took 0 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 18: took 1 milliseconds
+INFO:root:20/09/2014 13:12:59 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 13:12:59 message sent for move 19: took 0 milliseconds
+INFO:root:20/09/2014 13:13:00 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 13:13:00 message sent for move 20: took 0 milliseconds
+INFO:root:20/09/2014 13:13:00 calling getMove for turn 21 for player 1
+INFO:root:20/09/2014 13:13:00 message sent for move 21: took 1 milliseconds
+INFO:root:20/09/2014 13:13:00 calling getMove for turn 22 for player 1
+INFO:root:20/09/2014 13:13:00 message sent for move 22: took 0 milliseconds
+INFO:root:20/09/2014 13:13:00 calling getMove for turn 23 for player 1
+INFO:root:20/09/2014 13:13:00 message sent for move 23: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 3: took 2 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:13:11 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:13:11 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:13:12 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:13:12 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:13:12 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:13:12 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:13:12 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:13:12 message sent for move 12: took 1 milliseconds
+INFO:root:20/09/2014 13:13:12 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:13:12 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:13:12 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:13:12 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = self.get_all(game_map, POWERUP)
+TypeError: get_all() takes exactly 2 arguments (3 given)
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:13:29 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:13:29 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 14: took 1 milliseconds
+INFO:root:20/09/2014 13:13:30 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:13:30 message sent for move 15: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 14, in new_game
+    self.powerups = get_all(game_map, POWERUP)
+NameError: global name 'get_all' is not defined
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:13:46 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:13:46 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 14: took 1 milliseconds
+INFO:root:20/09/2014 13:13:47 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:13:47 message sent for move 15: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:14:01 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:14:01 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 15: took 0 milliseconds
+INFO:root:20/09/2014 13:14:02 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:14:02 message sent for move 16: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 13:14:25 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:14:25 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:14:25 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:14:25 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 6: took 2 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 9: took 2 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:14:26 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:14:26 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:14:27 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:14:27 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:14:27 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:14:27 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:14:27 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:14:27 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 12, in new_game
+    self.powerups = self.get_all(game_map, POWERUP)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 38, in get_all
+    if game_map[i][j] == square_type:
+TypeError: list indices must be integers, not list
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 6: took 1 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:16:01 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:16:01 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:16:02 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:16:02 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:16:02 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:16:02 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:16:02 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:16:02 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:16:02 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:16:02 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:16:02 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:16:02 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:17:39 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:17:39 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:17:39 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:17:39 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:17:39 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:17:39 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:17:39 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:17:39 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:17:40 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:17:40 message sent for move 13: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 2: took 2 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 5: took 1 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:18:24 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:18:24 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:18:25 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:18:25 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:18:25 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:18:25 message sent for move 12: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:18:35 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:18:35 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:18:35 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:18:35 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:18:35 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:18:35 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:18:35 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:18:35 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 5: took 1 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 8: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 11: took 1 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:18:36 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:18:36 message sent for move 13: took 1 milliseconds
+INFO:root:20/09/2014 13:18:37 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:18:37 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 2: took 1 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 7: took 2 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:19:45 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:19:45 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:19:46 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:19:46 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:19:46 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:19:46 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:19:46 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:19:46 message sent for move 13: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:20:31 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:20:31 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:20:31 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:20:31 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:20:31 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:20:31 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 6: took 1 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:20:32 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:20:32 message sent for move 13: took 1 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+ERROR:root:Uh-oh
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 110, in runClient
+    self.ai.new_game(gmap, players[1], players[0])
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 15, in new_game
+    print self.powerups
+AttributeError: PlayerAI instance has no attribute 'powerups'
+INFO:root:20/09/2014 13:20:50 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:20:50 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:20:50 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:20:50 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:20:50 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:20:50 message sent for move 3: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 6: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 7: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 9: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:20:51 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:20:51 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:20:52 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:20:52 message sent for move 14: took 0 milliseconds
+INFO:root:20/09/2014 13:20:52 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 13:20:52 message sent for move 15: took 0 milliseconds
+INFO:root:20/09/2014 13:20:52 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 13:20:52 message sent for move 16: took 0 milliseconds
+INFO:root:20/09/2014 13:20:52 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 13:20:52 message sent for move 17: took 0 milliseconds
+INFO:root:20/09/2014 13:20:52 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 13:20:52 message sent for move 18: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 1: took 0 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 2: took 0 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 5: took 0 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 6: took 1 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 7: took 1 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 8: took 1 milliseconds
+INFO:root:20/09/2014 13:21:21 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 13:21:21 message sent for move 9: took 1 milliseconds
+INFO:root:20/09/2014 13:21:22 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 13:21:22 message sent for move 10: took 0 milliseconds
+INFO:root:20/09/2014 13:21:22 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 13:21:22 message sent for move 11: took 0 milliseconds
+INFO:root:20/09/2014 13:21:22 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 13:21:22 message sent for move 12: took 0 milliseconds
+INFO:root:20/09/2014 13:21:22 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 13:21:22 message sent for move 13: took 0 milliseconds
+INFO:root:20/09/2014 13:21:22 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 13:21:22 message sent for move 14: took 0 milliseconds

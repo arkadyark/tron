@@ -1,5 +1,6 @@
 import random
 from tronclient.Client import *
+from Enums import *
 
 class PlayerAI():
 
@@ -7,10 +8,15 @@ class PlayerAI():
 		return
 
 	def new_game(self, game_map, player_lightcycle, opponent_lightcycle):
-		return
+                self.width = len(game_map[0])
+                self.height = len(game_map)
+		self.walls = self.get_all(game_map, WALL)
+		self.powerups = self.get_all(game_map, POWERUP)
+		print self.width, self.height
+		print self.powerups
+		print self.walls
 
 	def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
-
 		my_position = player_lightcycle['position']
 		my_x = my_position[0]
 		my_y = my_position[1]
@@ -25,6 +31,15 @@ class PlayerAI():
 			return PlayerActions.MOVE_DOWN
 		else:
 			return PlayerActions.MOVE_UP
+
+	def get_all(self, game_map, square_type):
+                # Gets all values on the map with value equal to square_type
+                vals = []
+                for i in xrange(self.height):
+                        for j in xrange(self.width):
+                                if game_map[i][j] == square_type:
+                                        vals.append((i, j))
+                return vals
 '''
 
 8888888 8888888888 8 888888888o.      ,o888888o.     b.             8 
