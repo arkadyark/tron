@@ -128,7 +128,7 @@ class TronClient():
                                         print "\nERROR FROM PLAYER: " + playername
 					print e
 					exc_type, exc_value, exc_traceback = sys.exc_info()
-					traceback.print_exception(exc_type, exc_value, exc_traceback, limit=10, file=sys.stdout)
+					traceback.print_exception(exc_type, exc_value, exc_traceback, limit=20, file=sys.stdout)
 					print "\n"
 					logging.exception("{0} Unexpected error during turn {1}:".format(time.strftime("%d/%m/%Y %H:%M:%S"), msg.responseID))
 					move = SAME_DIRECTION

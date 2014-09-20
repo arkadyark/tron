@@ -8,7 +8,7 @@ def _get_possible_moves(board, lightcycle):
     """Returns a list of possible moves"""
     
     result = []
-    for diff in ((0, 1, PlayerActions.MOVE_DOWN), (1, 0, PlayerActions.MOVE_RIGHT), (-1, 0, PlayerActions.MOVE_LEFT), (1, 0, PlayerActions.MOVE_RIGHT)):
+    for diff in ((0, 1, PlayerActions.MOVE_DOWN), (1, 0, PlayerActions.MOVE_RIGHT), (0, -1, PlayerActions.MOVE_UP), (-1, 0, PlayerActions.MOVE_LEFT)):
         if board [lightcycle['position'][0] + diff[0]] [lightcycle['position'][1] + diff[1]] in (EMPTY, POWERUP):
             result += [diff]
     return result
@@ -48,13 +48,11 @@ def _alphabeta (state, depth, heuristic, alpha, beta, player):
             _make_move (new_state[0], player_lightcycle, move)
 
             previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
-
             if candidate_alpha > alpha:
                 alpha = candidate_alpha
                 best_move = move[2]
             if beta <= alpha:
                 break
-            
         return best_move, alpha
 
     #Same code as the maximizing player, but the minimizing player is trying to minimize the score. 

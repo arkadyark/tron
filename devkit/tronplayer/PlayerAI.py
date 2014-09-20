@@ -2,8 +2,10 @@ import random
 from tronclient.Client import *
 from Enums import *
 from alphabeta import * 
-from bfs import partition
+import bfs
 import time
+
+ALPHA_BETA_DEPTH = 5
 
 class PlayerAI():
 
@@ -25,7 +27,7 @@ class PlayerAI():
 
     def get_move(self, game_map, player_lightcycle, opponent_lightcycle, moveNumber):
         startTime = time.time()
-        next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+        next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), ALPHA_BETA_DEPTH, self.heuristic)
         print "Took " + str(time.time() - startTime) + "ms to calculate next move!"
         return next_move
 
@@ -33,11 +35,12 @@ class PlayerAI():
         my_position = player_lightcycle['position']
         my_x = my_position[0]
         my_y = my_position[1]
+        my_position_type = game_map[my_x][my_y]
         their_position = player_lightcycle['position']
-        if my_x >= self.width or my_x < 0 or my_y >= self.height or my_y < 0:
-            return -1000
+        if my_position_type != POWERUP and my_position_type != EMPTY:
+            return -10000
         else:
-            ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+            ours, theirs, neutral, territory_score = bfs.partition(my_position, their_position, game_map)
             return len(ours) - len(theirs) - territory_score
 
     def get_all(self, game_map, square_type):

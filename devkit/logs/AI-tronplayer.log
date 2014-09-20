@@ -2865,3 +2865,857 @@ INFO:root:20/09/2014 17:13:19 calling getMove for turn 49 for player 1
 INFO:root:20/09/2014 17:13:19 message sent for move 49: took 124 milliseconds
 INFO:root:20/09/2014 17:13:19 calling getMove for turn 50 for player 1
 INFO:root:20/09/2014 17:13:19 message sent for move 50: took 134 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 1 for player 1
+ERROR:root:20/09/2014 18:18:41 Unexpected error during turn 1:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:41 writing response back for turn 1 for player 1
+INFO:root:20/09/2014 18:18:41 message sent for move 1: took 4 milliseconds
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 2 for player 1
+ERROR:root:20/09/2014 18:18:41 Unexpected error during turn 2:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:41 writing response back for turn 2 for player 1
+INFO:root:20/09/2014 18:18:41 message sent for move 2: took 34 milliseconds
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 3 for player 1
+ERROR:root:20/09/2014 18:18:41 Unexpected error during turn 3:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:41 writing response back for turn 3 for player 1
+INFO:root:20/09/2014 18:18:41 message sent for move 3: took 4 milliseconds
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 4 for player 1
+ERROR:root:20/09/2014 18:18:41 Unexpected error during turn 4:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:41 writing response back for turn 4 for player 1
+INFO:root:20/09/2014 18:18:41 message sent for move 4: took 5 milliseconds
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 5 for player 1
+ERROR:root:20/09/2014 18:18:41 Unexpected error during turn 5:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:41 writing response back for turn 5 for player 1
+INFO:root:20/09/2014 18:18:41 message sent for move 5: took 4 milliseconds
+INFO:root:20/09/2014 18:18:41 calling getMove for turn 6 for player 1
+ERROR:root:20/09/2014 18:18:42 Unexpected error during turn 6:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:42 writing response back for turn 6 for player 1
+INFO:root:20/09/2014 18:18:42 message sent for move 6: took 5 milliseconds
+INFO:root:20/09/2014 18:18:42 calling getMove for turn 7 for player 1
+ERROR:root:20/09/2014 18:18:42 Unexpected error during turn 7:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 12, in partition
+    player_distances = _bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 37, in _bfs
+    visited.append(successor)
+AttributeError: 'set' object has no attribute 'append'
+INFO:root:20/09/2014 18:18:42 writing response back for turn 7 for player 1
+INFO:root:20/09/2014 18:18:42 message sent for move 7: took 4 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:19:00 calling getMove for turn 1 for player 1
+ERROR:root:20/09/2014 18:19:00 Unexpected error during turn 1:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:00 writing response back for turn 1 for player 1
+INFO:root:20/09/2014 18:19:00 message sent for move 1: took 5 milliseconds
+INFO:root:20/09/2014 18:19:00 calling getMove for turn 2 for player 1
+ERROR:root:20/09/2014 18:19:00 Unexpected error during turn 2:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:00 writing response back for turn 2 for player 1
+INFO:root:20/09/2014 18:19:00 message sent for move 2: took 6 milliseconds
+INFO:root:20/09/2014 18:19:00 calling getMove for turn 3 for player 1
+ERROR:root:20/09/2014 18:19:00 Unexpected error during turn 3:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:00 writing response back for turn 3 for player 1
+INFO:root:20/09/2014 18:19:00 message sent for move 3: took 8 milliseconds
+INFO:root:20/09/2014 18:19:01 calling getMove for turn 4 for player 1
+ERROR:root:20/09/2014 18:19:01 Unexpected error during turn 4:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:01 writing response back for turn 4 for player 1
+INFO:root:20/09/2014 18:19:01 message sent for move 4: took 6 milliseconds
+INFO:root:20/09/2014 18:19:01 calling getMove for turn 5 for player 1
+ERROR:root:20/09/2014 18:19:01 Unexpected error during turn 5:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:01 writing response back for turn 5 for player 1
+INFO:root:20/09/2014 18:19:01 message sent for move 5: took 9 milliseconds
+INFO:root:20/09/2014 18:19:01 calling getMove for turn 6 for player 1
+ERROR:root:20/09/2014 18:19:01 Unexpected error during turn 6:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:01 writing response back for turn 6 for player 1
+INFO:root:20/09/2014 18:19:01 message sent for move 6: took 9 milliseconds
+INFO:root:20/09/2014 18:19:01 calling getMove for turn 7 for player 1
+ERROR:root:20/09/2014 18:19:01 Unexpected error during turn 7:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 28, in get_move
+    next_move = alphabeta((game_map, player_lightcycle, opponent_lightcycle), 2, self.heuristic)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 82, in alphabeta
+    return _alphabeta (initial_state, depth, heuristic_function, -10000, 10000, _MAXIMIZING_PLAYER) [0]
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 50, in _alphabeta
+    previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 71, in _alphabeta
+    previous_move, candidate_beta = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MAXIMIZING_PLAYER)
+  File "/Users/arkadyark/tron/devkit/tronplayer/alphabeta.py", line 34, in _alphabeta
+    return None, heuristic (board, player_lightcycle, opponent_lightcycle)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in heuristic
+    ours, theirs, neutral, territory_score = partition(my_position, their_position, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 8, in partition
+    player_distances = bfs(player_pos, game_map)
+  File "/Users/arkadyark/tron/devkit/tronplayer/bfs.py", line 28, in bfs
+    visited.put(successor)
+AttributeError: 'set' object has no attribute 'put'
+INFO:root:20/09/2014 18:19:01 writing response back for turn 7 for player 1
+INFO:root:20/09/2014 18:19:01 message sent for move 7: took 6 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:19:14 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:19:14 message sent for move 1: took 170 milliseconds
+INFO:root:20/09/2014 18:19:14 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:19:14 message sent for move 2: took 151 milliseconds
+INFO:root:20/09/2014 18:19:14 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:19:14 message sent for move 3: took 135 milliseconds
+INFO:root:20/09/2014 18:19:14 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:19:14 message sent for move 4: took 136 milliseconds
+INFO:root:20/09/2014 18:19:15 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:19:15 message sent for move 5: took 135 milliseconds
+INFO:root:20/09/2014 18:19:15 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:19:15 message sent for move 6: took 136 milliseconds
+INFO:root:20/09/2014 18:19:15 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:19:15 message sent for move 7: took 126 milliseconds
+INFO:root:20/09/2014 18:19:15 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:19:15 message sent for move 8: took 109 milliseconds
+INFO:root:20/09/2014 18:19:16 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:19:16 message sent for move 9: took 138 milliseconds
+INFO:root:20/09/2014 18:19:16 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:19:16 message sent for move 10: took 91 milliseconds
+INFO:root:20/09/2014 18:19:16 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:19:16 message sent for move 11: took 85 milliseconds
+INFO:root:20/09/2014 18:19:16 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:24:28 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:24:29 message sent for move 1: took 139 milliseconds
+INFO:root:20/09/2014 18:24:29 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:24:29 message sent for move 2: took 142 milliseconds
+INFO:root:20/09/2014 18:24:29 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:24:29 message sent for move 3: took 180 milliseconds
+INFO:root:20/09/2014 18:24:29 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:24:29 message sent for move 4: took 242 milliseconds
+INFO:root:20/09/2014 18:24:30 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:24:30 message sent for move 5: took 303 milliseconds
+INFO:root:20/09/2014 18:24:30 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:24:30 message sent for move 6: took 224 milliseconds
+INFO:root:20/09/2014 18:24:30 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:24:30 message sent for move 7: took 189 milliseconds
+INFO:root:20/09/2014 18:24:31 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:24:31 message sent for move 8: took 137 milliseconds
+INFO:root:20/09/2014 18:24:31 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:24:31 message sent for move 9: took 150 milliseconds
+INFO:root:20/09/2014 18:24:31 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:24:31 message sent for move 10: took 117 milliseconds
+INFO:root:20/09/2014 18:24:31 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:24:31 message sent for move 11: took 91 milliseconds
+INFO:root:20/09/2014 18:24:32 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:24:59 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:24:59 message sent for move 1: took 215 milliseconds
+INFO:root:20/09/2014 18:24:59 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:24:59 message sent for move 2: took 210 milliseconds
+INFO:root:20/09/2014 18:24:59 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:25:00 message sent for move 3: took 205 milliseconds
+INFO:root:20/09/2014 18:25:00 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:25:00 message sent for move 4: took 255 milliseconds
+INFO:root:20/09/2014 18:25:00 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:25:00 message sent for move 5: took 162 milliseconds
+INFO:root:20/09/2014 18:25:00 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:25:01 message sent for move 6: took 131 milliseconds
+INFO:root:20/09/2014 18:25:01 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:25:01 message sent for move 7: took 149 milliseconds
+INFO:root:20/09/2014 18:25:01 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:25:01 message sent for move 8: took 137 milliseconds
+INFO:root:20/09/2014 18:25:01 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:25:01 message sent for move 9: took 109 milliseconds
+INFO:root:20/09/2014 18:25:01 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:25:02 message sent for move 10: took 119 milliseconds
+INFO:root:20/09/2014 18:25:02 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:25:02 message sent for move 11: took 88 milliseconds
+INFO:root:20/09/2014 18:25:02 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:27:40 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:27:40 message sent for move 1: took 175 milliseconds
+INFO:root:20/09/2014 18:27:40 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:27:40 message sent for move 2: took 157 milliseconds
+INFO:root:20/09/2014 18:27:40 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:27:40 message sent for move 3: took 133 milliseconds
+INFO:root:20/09/2014 18:27:41 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:27:41 message sent for move 4: took 148 milliseconds
+INFO:root:20/09/2014 18:27:41 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:27:41 message sent for move 5: took 142 milliseconds
+INFO:root:20/09/2014 18:27:41 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:27:41 message sent for move 6: took 149 milliseconds
+INFO:root:20/09/2014 18:27:41 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:27:41 message sent for move 7: took 130 milliseconds
+INFO:root:20/09/2014 18:27:41 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:27:42 message sent for move 8: took 127 milliseconds
+INFO:root:20/09/2014 18:27:42 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:27:42 message sent for move 9: took 144 milliseconds
+INFO:root:20/09/2014 18:27:42 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:27:42 message sent for move 10: took 116 milliseconds
+INFO:root:20/09/2014 18:27:42 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:27:42 message sent for move 11: took 103 milliseconds
+INFO:root:20/09/2014 18:27:42 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:28:55 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:28:56 message sent for move 1: took 158 milliseconds
+INFO:root:20/09/2014 18:28:56 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:28:56 message sent for move 2: took 288 milliseconds
+INFO:root:20/09/2014 18:28:56 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:28:56 message sent for move 3: took 173 milliseconds
+INFO:root:20/09/2014 18:28:57 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:28:57 message sent for move 4: took 283 milliseconds
+INFO:root:20/09/2014 18:28:57 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:28:57 message sent for move 5: took 238 milliseconds
+INFO:root:20/09/2014 18:28:57 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:28:57 message sent for move 6: took 175 milliseconds
+INFO:root:20/09/2014 18:28:58 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:28:58 message sent for move 7: took 139 milliseconds
+INFO:root:20/09/2014 18:28:58 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:28:58 message sent for move 8: took 169 milliseconds
+INFO:root:20/09/2014 18:28:58 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:28:58 message sent for move 9: took 191 milliseconds
+INFO:root:20/09/2014 18:28:58 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:28:58 message sent for move 10: took 114 milliseconds
+INFO:root:20/09/2014 18:28:59 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:28:59 message sent for move 11: took 78 milliseconds
+INFO:root:20/09/2014 18:28:59 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:29:46 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:29:46 message sent for move 1: took 219 milliseconds
+INFO:root:20/09/2014 18:29:46 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:29:46 message sent for move 2: took 170 milliseconds
+INFO:root:20/09/2014 18:29:46 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:29:46 message sent for move 3: took 131 milliseconds
+INFO:root:20/09/2014 18:29:46 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:29:47 message sent for move 4: took 174 milliseconds
+INFO:root:20/09/2014 18:29:47 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:29:47 message sent for move 5: took 281 milliseconds
+INFO:root:20/09/2014 18:29:47 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:29:47 message sent for move 6: took 125 milliseconds
+INFO:root:20/09/2014 18:29:47 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:29:47 message sent for move 7: took 141 milliseconds
+INFO:root:20/09/2014 18:29:48 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:29:48 message sent for move 8: took 117 milliseconds
+INFO:root:20/09/2014 18:29:48 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:29:48 message sent for move 9: took 134 milliseconds
+INFO:root:20/09/2014 18:29:48 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:29:48 message sent for move 10: took 104 milliseconds
+INFO:root:20/09/2014 18:29:48 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:29:48 message sent for move 11: took 67 milliseconds
+INFO:root:20/09/2014 18:29:48 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:30:27 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:30:27 message sent for move 1: took 178 milliseconds
+INFO:root:20/09/2014 18:30:27 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:30:27 message sent for move 2: took 133 milliseconds
+INFO:root:20/09/2014 18:30:27 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:30:27 message sent for move 3: took 134 milliseconds
+INFO:root:20/09/2014 18:30:27 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:30:28 message sent for move 4: took 141 milliseconds
+INFO:root:20/09/2014 18:30:28 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:30:28 message sent for move 5: took 132 milliseconds
+INFO:root:20/09/2014 18:30:28 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:30:28 message sent for move 6: took 150 milliseconds
+INFO:root:20/09/2014 18:30:28 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:30:28 message sent for move 7: took 147 milliseconds
+INFO:root:20/09/2014 18:30:28 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:30:29 message sent for move 8: took 140 milliseconds
+INFO:root:20/09/2014 18:30:29 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:30:29 message sent for move 9: took 174 milliseconds
+INFO:root:20/09/2014 18:30:29 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:30:29 message sent for move 10: took 155 milliseconds
+INFO:root:20/09/2014 18:30:29 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:30:29 message sent for move 11: took 133 milliseconds
+INFO:root:20/09/2014 18:30:29 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:31:17 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:31:18 message sent for move 1: took 182 milliseconds
+INFO:root:20/09/2014 18:31:18 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:31:18 message sent for move 2: took 141 milliseconds
+INFO:root:20/09/2014 18:31:18 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:31:18 message sent for move 3: took 142 milliseconds
+INFO:root:20/09/2014 18:31:18 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:31:18 message sent for move 4: took 145 milliseconds
+INFO:root:20/09/2014 18:31:18 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:31:19 message sent for move 5: took 135 milliseconds
+INFO:root:20/09/2014 18:31:19 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:31:19 message sent for move 6: took 133 milliseconds
+INFO:root:20/09/2014 18:31:19 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:31:19 message sent for move 7: took 145 milliseconds
+INFO:root:20/09/2014 18:31:19 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:31:19 message sent for move 8: took 130 milliseconds
+INFO:root:20/09/2014 18:31:19 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:31:20 message sent for move 9: took 150 milliseconds
+INFO:root:20/09/2014 18:31:20 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:31:20 message sent for move 10: took 131 milliseconds
+INFO:root:20/09/2014 18:31:20 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:31:20 message sent for move 11: took 113 milliseconds
+INFO:root:20/09/2014 18:31:20 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:32:01 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:32:02 message sent for move 1: took 190 milliseconds
+INFO:root:20/09/2014 18:32:02 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:32:02 message sent for move 2: took 129 milliseconds
+INFO:root:20/09/2014 18:32:02 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:32:02 message sent for move 3: took 131 milliseconds
+INFO:root:20/09/2014 18:32:02 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:32:02 message sent for move 4: took 120 milliseconds
+INFO:root:20/09/2014 18:32:02 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:32:03 message sent for move 5: took 132 milliseconds
+INFO:root:20/09/2014 18:32:03 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:32:03 message sent for move 6: took 117 milliseconds
+INFO:root:20/09/2014 18:32:03 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:32:03 message sent for move 7: took 138 milliseconds
+INFO:root:20/09/2014 18:32:03 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:32:03 message sent for move 8: took 133 milliseconds
+INFO:root:20/09/2014 18:32:03 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:32:03 message sent for move 9: took 128 milliseconds
+INFO:root:20/09/2014 18:32:04 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:32:04 message sent for move 10: took 149 milliseconds
+INFO:root:20/09/2014 18:32:04 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:32:04 message sent for move 11: took 111 milliseconds
+INFO:root:20/09/2014 18:32:04 calling getMove for turn 12 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:36:11 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:36:11 message sent for move 1: took 171 milliseconds
+INFO:root:20/09/2014 18:36:11 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:36:11 message sent for move 2: took 119 milliseconds
+INFO:root:20/09/2014 18:36:11 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:36:12 message sent for move 3: took 277 milliseconds
+INFO:root:20/09/2014 18:36:12 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:36:12 message sent for move 4: took 267 milliseconds
+INFO:root:20/09/2014 18:36:12 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:36:12 message sent for move 5: took 306 milliseconds
+INFO:root:20/09/2014 18:36:12 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:36:13 message sent for move 6: took 223 milliseconds
+INFO:root:20/09/2014 18:36:13 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:36:13 message sent for move 7: took 147 milliseconds
+INFO:root:20/09/2014 18:36:13 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:36:13 message sent for move 8: took 168 milliseconds
+INFO:root:20/09/2014 18:36:13 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:36:13 message sent for move 9: took 104 milliseconds
+INFO:root:20/09/2014 18:36:13 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:36:14 message sent for move 10: took 57 milliseconds
+INFO:root:20/09/2014 18:36:14 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:36:14 message sent for move 11: took 96 milliseconds
+INFO:root:20/09/2014 18:36:14 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 18:36:14 message sent for move 12: took 64 milliseconds
+INFO:root:20/09/2014 18:36:14 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 18:36:14 message sent for move 13: took 194 milliseconds
+INFO:root:20/09/2014 18:36:14 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 18:36:14 message sent for move 14: took 35 milliseconds
+INFO:root:20/09/2014 18:36:14 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 15: took 66 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 16: took 68 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 17: took 57 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 18: took 62 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 19: took 61 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 18:36:15 message sent for move 20: took 52 milliseconds
+INFO:root:20/09/2014 18:36:15 calling getMove for turn 21 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 21: took 50 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 22 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 22: took 37 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 23 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 23: took 52 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 24 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 24: took 60 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 25 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 25: took 57 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 26 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 26: took 62 milliseconds
+INFO:root:20/09/2014 18:36:16 calling getMove for turn 27 for player 1
+INFO:root:20/09/2014 18:36:16 message sent for move 27: took 67 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 28 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 28: took 36 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 29 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 29: took 41 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 30 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 30: took 23 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 31 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 31: took 42 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 32 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 32: took 50 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 33 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 33: took 64 milliseconds
+INFO:root:20/09/2014 18:36:17 calling getMove for turn 34 for player 1
+INFO:root:20/09/2014 18:36:17 message sent for move 34: took 37 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 35 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 35: took 53 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 36 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 36: took 34 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 37 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 37: took 62 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 38 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 38: took 32 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 39 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 39: took 34 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 40 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 40: took 6 milliseconds
+INFO:root:20/09/2014 18:36:18 calling getMove for turn 41 for player 1
+INFO:root:20/09/2014 18:36:18 message sent for move 41: took 8 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 42 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 42: took 6 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 43 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 43: took 9 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 44 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 44: took 7 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 45 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 45: took 10 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 46 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 46: took 12 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 47 for player 1
+INFO:root:20/09/2014 18:36:19 message sent for move 47: took 9 milliseconds
+INFO:root:20/09/2014 18:36:19 calling getMove for turn 48 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:37:22 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:37:27 message sent for move 1: took 43 milliseconds
+INFO:root:20/09/2014 18:37:27 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:37:31 message sent for move 2: took 830 milliseconds
+INFO:root:20/09/2014 18:37:31 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:37:35 message sent for move 3: took 94 milliseconds
+INFO:root:20/09/2014 18:37:35 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:37:38 message sent for move 4: took 484 milliseconds
+INFO:root:20/09/2014 18:37:38 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:37:40 message sent for move 5: took 305 milliseconds
+INFO:root:20/09/2014 18:37:40 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:37:43 message sent for move 6: took 143 milliseconds
+INFO:root:20/09/2014 18:37:43 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:37:45 message sent for move 7: took 307 milliseconds
+INFO:root:20/09/2014 18:37:45 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:37:47 message sent for move 8: took 796 milliseconds
+INFO:root:20/09/2014 18:37:47 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:37:48 message sent for move 9: took 474 milliseconds
+INFO:root:20/09/2014 18:37:49 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:37:50 message sent for move 10: took 240 milliseconds
+INFO:root:20/09/2014 18:37:50 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:37:51 message sent for move 11: took 487 milliseconds
+INFO:root:20/09/2014 18:37:51 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 18:37:53 message sent for move 12: took 268 milliseconds
+INFO:root:20/09/2014 18:37:53 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 18:37:54 message sent for move 13: took 875 milliseconds
+INFO:root:20/09/2014 18:37:54 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 18:37:54 message sent for move 14: took 419 milliseconds
+INFO:root:20/09/2014 18:37:54 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 18:37:55 message sent for move 15: took 682 milliseconds
+INFO:root:20/09/2014 18:37:55 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 18:37:56 message sent for move 16: took 466 milliseconds
+INFO:root:20/09/2014 18:37:56 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 18:37:56 message sent for move 17: took 465 milliseconds
+INFO:root:20/09/2014 18:37:56 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 18:37:57 message sent for move 18: took 500 milliseconds
+INFO:root:20/09/2014 18:37:57 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 18:37:57 message sent for move 19: took 492 milliseconds
+INFO:root:20/09/2014 18:37:58 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 18:37:58 message sent for move 20: took 445 milliseconds
+INFO:root:20/09/2014 18:37:58 calling getMove for turn 21 for player 1
+INFO:root:20/09/2014 18:37:58 message sent for move 21: took 348 milliseconds
+INFO:root:20/09/2014 18:37:59 calling getMove for turn 22 for player 1
+INFO:root:20/09/2014 18:37:59 message sent for move 22: took 301 milliseconds
+INFO:root:20/09/2014 18:37:59 calling getMove for turn 23 for player 1
+INFO:root:20/09/2014 18:37:59 message sent for move 23: took 320 milliseconds
+INFO:root:20/09/2014 18:37:59 calling getMove for turn 24 for player 1
+INFO:root:20/09/2014 18:38:00 message sent for move 24: took 323 milliseconds
+INFO:root:20/09/2014 18:38:00 calling getMove for turn 25 for player 1
+INFO:root:20/09/2014 18:38:00 message sent for move 25: took 351 milliseconds
+INFO:root:20/09/2014 18:38:00 calling getMove for turn 26 for player 1
+INFO:root:20/09/2014 18:38:01 message sent for move 26: took 318 milliseconds
+INFO:root:20/09/2014 18:38:01 calling getMove for turn 27 for player 1
+INFO:root:20/09/2014 18:38:01 message sent for move 27: took 270 milliseconds
+INFO:root:20/09/2014 18:38:01 calling getMove for turn 28 for player 1
+INFO:root:20/09/2014 18:38:01 message sent for move 28: took 214 milliseconds
+INFO:root:20/09/2014 18:38:01 calling getMove for turn 29 for player 1
+INFO:root:20/09/2014 18:38:02 message sent for move 29: took 172 milliseconds
+INFO:root:20/09/2014 18:38:02 calling getMove for turn 30 for player 1
+INFO:root:20/09/2014 18:38:02 message sent for move 30: took 85 milliseconds
+INFO:root:20/09/2014 18:38:02 calling getMove for turn 31 for player 1
+INFO:root:20/09/2014 18:38:02 message sent for move 31: took 301 milliseconds
+INFO:root:20/09/2014 18:38:02 calling getMove for turn 32 for player 1
+INFO:root:20/09/2014 18:38:03 message sent for move 32: took 286 milliseconds
+INFO:root:20/09/2014 18:38:03 calling getMove for turn 33 for player 1
+INFO:root:20/09/2014 18:38:03 message sent for move 33: took 436 milliseconds
+INFO:root:20/09/2014 18:38:03 calling getMove for turn 34 for player 1
+INFO:root:20/09/2014 18:38:04 message sent for move 34: took 349 milliseconds
+INFO:root:20/09/2014 18:38:04 calling getMove for turn 35 for player 1
+INFO:root:20/09/2014 18:38:04 message sent for move 35: took 275 milliseconds
+INFO:root:20/09/2014 18:38:04 calling getMove for turn 36 for player 1
+INFO:root:20/09/2014 18:38:04 message sent for move 36: took 311 milliseconds
+INFO:root:20/09/2014 18:38:04 calling getMove for turn 37 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 37: took 244 milliseconds
+INFO:root:20/09/2014 18:38:05 calling getMove for turn 38 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 38: took 170 milliseconds
+INFO:root:20/09/2014 18:38:05 calling getMove for turn 39 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 39: took 90 milliseconds
+INFO:root:20/09/2014 18:38:05 calling getMove for turn 40 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 40: took 16 milliseconds
+INFO:root:20/09/2014 18:38:05 calling getMove for turn 41 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 41: took 17 milliseconds
+INFO:root:20/09/2014 18:38:05 calling getMove for turn 42 for player 1
+INFO:root:20/09/2014 18:38:05 message sent for move 42: took 16 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 43 for player 1
+INFO:root:20/09/2014 18:38:06 message sent for move 43: took 25 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 44 for player 1
+INFO:root:20/09/2014 18:38:06 message sent for move 44: took 16 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 45 for player 1
+INFO:root:20/09/2014 18:38:06 message sent for move 45: took 20 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 46 for player 1
+INFO:root:20/09/2014 18:38:06 message sent for move 46: took 19 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 47 for player 1
+INFO:root:20/09/2014 18:38:06 message sent for move 47: took 20 milliseconds
+INFO:root:20/09/2014 18:38:06 calling getMove for turn 48 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:38:56 calling getMove for turn 1 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:40:15 calling getMove for turn 1 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:41:21 calling getMove for turn 1 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:42:14 calling getMove for turn 1 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:43:29 calling getMove for turn 1 for player 1
+INFO:root:20/09/2014 18:43:34 message sent for move 1: took 503 milliseconds
+INFO:root:20/09/2014 18:43:34 calling getMove for turn 2 for player 1
+INFO:root:20/09/2014 18:43:38 message sent for move 2: took 989 milliseconds
+INFO:root:20/09/2014 18:43:38 calling getMove for turn 3 for player 1
+INFO:root:20/09/2014 18:43:41 message sent for move 3: took 723 milliseconds
+INFO:root:20/09/2014 18:43:41 calling getMove for turn 4 for player 1
+INFO:root:20/09/2014 18:43:44 message sent for move 4: took 562 milliseconds
+INFO:root:20/09/2014 18:43:44 calling getMove for turn 5 for player 1
+INFO:root:20/09/2014 18:43:46 message sent for move 5: took 513 milliseconds
+INFO:root:20/09/2014 18:43:47 calling getMove for turn 6 for player 1
+INFO:root:20/09/2014 18:43:49 message sent for move 6: took 407 milliseconds
+INFO:root:20/09/2014 18:43:49 calling getMove for turn 7 for player 1
+INFO:root:20/09/2014 18:43:51 message sent for move 7: took 297 milliseconds
+INFO:root:20/09/2014 18:43:51 calling getMove for turn 8 for player 1
+INFO:root:20/09/2014 18:43:53 message sent for move 8: took 836 milliseconds
+INFO:root:20/09/2014 18:43:53 calling getMove for turn 9 for player 1
+INFO:root:20/09/2014 18:43:55 message sent for move 9: took 546 milliseconds
+INFO:root:20/09/2014 18:43:55 calling getMove for turn 10 for player 1
+INFO:root:20/09/2014 18:43:56 message sent for move 10: took 123 milliseconds
+INFO:root:20/09/2014 18:43:56 calling getMove for turn 11 for player 1
+INFO:root:20/09/2014 18:43:57 message sent for move 11: took 981 milliseconds
+INFO:root:20/09/2014 18:43:57 calling getMove for turn 12 for player 1
+INFO:root:20/09/2014 18:43:58 message sent for move 12: took 766 milliseconds
+INFO:root:20/09/2014 18:43:58 calling getMove for turn 13 for player 1
+INFO:root:20/09/2014 18:43:59 message sent for move 13: took 769 milliseconds
+INFO:root:20/09/2014 18:43:59 calling getMove for turn 14 for player 1
+INFO:root:20/09/2014 18:43:59 message sent for move 14: took 329 milliseconds
+INFO:root:20/09/2014 18:44:00 calling getMove for turn 15 for player 1
+INFO:root:20/09/2014 18:44:00 message sent for move 15: took 612 milliseconds
+INFO:root:20/09/2014 18:44:00 calling getMove for turn 16 for player 1
+INFO:root:20/09/2014 18:44:01 message sent for move 16: took 471 milliseconds
+INFO:root:20/09/2014 18:44:01 calling getMove for turn 17 for player 1
+INFO:root:20/09/2014 18:44:01 message sent for move 17: took 430 milliseconds
+INFO:root:20/09/2014 18:44:01 calling getMove for turn 18 for player 1
+INFO:root:20/09/2014 18:44:02 message sent for move 18: took 427 milliseconds
+INFO:root:20/09/2014 18:44:02 calling getMove for turn 19 for player 1
+INFO:root:20/09/2014 18:44:02 message sent for move 19: took 452 milliseconds
+INFO:root:20/09/2014 18:44:02 calling getMove for turn 20 for player 1
+INFO:root:20/09/2014 18:44:03 message sent for move 20: took 561 milliseconds
+INFO:root:20/09/2014 18:44:03 calling getMove for turn 21 for player 1
+INFO:root:20/09/2014 18:44:04 message sent for move 21: took 383 milliseconds
+INFO:root:20/09/2014 18:44:04 calling getMove for turn 22 for player 1
+INFO:root:20/09/2014 18:44:04 message sent for move 22: took 319 milliseconds
+INFO:root:20/09/2014 18:44:04 calling getMove for turn 23 for player 1
+INFO:root:20/09/2014 18:44:04 message sent for move 23: took 307 milliseconds
+INFO:root:20/09/2014 18:44:04 calling getMove for turn 24 for player 1
+INFO:root:20/09/2014 18:44:05 message sent for move 24: took 253 milliseconds
+INFO:root:20/09/2014 18:44:05 calling getMove for turn 25 for player 1
+INFO:root:20/09/2014 18:44:05 message sent for move 25: took 357 milliseconds
+INFO:root:20/09/2014 18:44:05 calling getMove for turn 26 for player 1
+INFO:root:20/09/2014 18:44:06 message sent for move 26: took 256 milliseconds
+INFO:root:20/09/2014 18:44:06 calling getMove for turn 27 for player 1
+INFO:root:20/09/2014 18:44:06 message sent for move 27: took 272 milliseconds
+INFO:root:20/09/2014 18:44:06 calling getMove for turn 28 for player 1
+INFO:root:20/09/2014 18:44:06 message sent for move 28: took 219 milliseconds
+INFO:root:20/09/2014 18:44:06 calling getMove for turn 29 for player 1
+INFO:root:20/09/2014 18:44:07 message sent for move 29: took 152 milliseconds
+INFO:root:20/09/2014 18:44:07 calling getMove for turn 30 for player 1
+INFO:root:20/09/2014 18:44:07 message sent for move 30: took 110 milliseconds
+INFO:root:20/09/2014 18:44:07 calling getMove for turn 31 for player 1
+INFO:root:20/09/2014 18:44:07 message sent for move 31: took 231 milliseconds
+INFO:root:20/09/2014 18:44:07 calling getMove for turn 32 for player 1
+INFO:root:20/09/2014 18:44:07 message sent for move 32: took 278 milliseconds
+INFO:root:20/09/2014 18:44:08 calling getMove for turn 33 for player 1
+INFO:root:20/09/2014 18:44:08 message sent for move 33: took 306 milliseconds
+INFO:root:20/09/2014 18:44:08 calling getMove for turn 34 for player 1
+INFO:root:20/09/2014 18:44:08 message sent for move 34: took 232 milliseconds
+INFO:root:20/09/2014 18:44:08 calling getMove for turn 35 for player 1
+INFO:root:20/09/2014 18:44:09 message sent for move 35: took 287 milliseconds
+INFO:root:20/09/2014 18:44:09 calling getMove for turn 36 for player 1
+INFO:root:20/09/2014 18:44:09 message sent for move 36: took 288 milliseconds
+INFO:root:20/09/2014 18:44:09 calling getMove for turn 37 for player 1
+INFO:root:20/09/2014 18:44:09 message sent for move 37: took 254 milliseconds
+INFO:root:20/09/2014 18:44:09 calling getMove for turn 38 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 38: took 194 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 39 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 39: took 75 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 40 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 40: took 15 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 41 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 41: took 18 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 42 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 42: took 14 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 43 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 43: took 16 milliseconds
+INFO:root:20/09/2014 18:44:10 calling getMove for turn 44 for player 1
+INFO:root:20/09/2014 18:44:10 message sent for move 44: took 12 milliseconds
+INFO:root:20/09/2014 18:44:11 calling getMove for turn 45 for player 1
+INFO:root:20/09/2014 18:44:11 message sent for move 45: took 17 milliseconds
+INFO:root:20/09/2014 18:44:11 calling getMove for turn 46 for player 1
+INFO:root:20/09/2014 18:44:11 message sent for move 46: took 15 milliseconds
+INFO:root:20/09/2014 18:44:11 calling getMove for turn 47 for player 1
+INFO:root:20/09/2014 18:44:11 message sent for move 47: took 19 milliseconds
+INFO:root:20/09/2014 18:44:11 calling getMove for turn 48 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:44:51 calling getMove for turn 1 for player 1
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 18:46:11 calling getMove for turn 1 for player 1
