@@ -1321,3 +1321,173 @@ INFO:root:20/09/2014 13:21:22 calling getMove for turn 13 for player 1
 INFO:root:20/09/2014 13:21:22 message sent for move 13: took 0 milliseconds
 INFO:root:20/09/2014 13:21:22 calling getMove for turn 14 for player 1
 INFO:root:20/09/2014 13:21:22 message sent for move 14: took 0 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 16:47:45 calling getMove for turn 1 for player 1
+ERROR:root:20/09/2014 16:47:45 Unexpected error during turn 1:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:45 writing response back for turn 1 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 1: took 3 milliseconds
+INFO:root:20/09/2014 16:47:46 calling getMove for turn 2 for player 1
+ERROR:root:20/09/2014 16:47:46 Unexpected error during turn 2:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:46 writing response back for turn 2 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 2: took 12 milliseconds
+INFO:root:20/09/2014 16:47:46 calling getMove for turn 3 for player 1
+ERROR:root:20/09/2014 16:47:46 Unexpected error during turn 3:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:46 writing response back for turn 3 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 3: took 13 milliseconds
+INFO:root:20/09/2014 16:47:46 calling getMove for turn 4 for player 1
+ERROR:root:20/09/2014 16:47:46 Unexpected error during turn 4:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:46 writing response back for turn 4 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 4: took 0 milliseconds
+INFO:root:20/09/2014 16:47:46 calling getMove for turn 5 for player 1
+ERROR:root:20/09/2014 16:47:46 Unexpected error during turn 5:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:46 writing response back for turn 5 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 5: took 4 milliseconds
+INFO:root:20/09/2014 16:47:46 calling getMove for turn 6 for player 1
+ERROR:root:20/09/2014 16:47:46 Unexpected error during turn 6:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:46 writing response back for turn 6 for player 1
+INFO:root:20/09/2014 16:47:46 message sent for move 6: took 2 milliseconds
+INFO:root:20/09/2014 16:47:47 calling getMove for turn 7 for player 1
+ERROR:root:20/09/2014 16:47:47 Unexpected error during turn 7:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 40, in get_move_greedy
+    directions_to_actions = {Direction.UP : PlayerAction.MOVE_UP, Direction.DOWN : PlayerAction.MOVE_DOWN, \
+NameError: global name 'PlayerAction' is not defined
+INFO:root:20/09/2014 16:47:47 writing response back for turn 7 for player 1
+INFO:root:20/09/2014 16:47:47 message sent for move 7: took 11 milliseconds
+INFO:root:=============STARTING A NEW GAME=============
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 1 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 1:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 1 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 1: took 1 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 2 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 2:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 2 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 2: took 4 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 3 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 3:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 3 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 3: took 1 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 4 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 4:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 4 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 4: took 1 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 5 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 5:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 5 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 5: took 3 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 6 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 6:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 6 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 6: took 2 milliseconds
+INFO:root:20/09/2014 16:48:18 calling getMove for turn 7 for player 1
+ERROR:root:20/09/2014 16:48:18 Unexpected error during turn 7:
+Traceback (most recent call last):
+  File "/Users/arkadyark/tron/devkit/lib/tronclient/Client.py", line 125, in runClient
+    move = ai.get_move(map_info, players[1], players[0], msg.responseID)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 25, in get_move
+    return self.get_move_greedy(game_map, player_lightcycle, opponent_lightcycle, moveNumber)
+  File "/Users/arkadyark/tron/devkit/tronplayer/PlayerAI.py", line 45, in get_move_greedy
+    hasPowerup:game_map[next_pos] == POWERUP or player_lightcycle['hasPowerup'],\
+TypeError: list indices must be integers, not tuple
+INFO:root:20/09/2014 16:48:18 writing response back for turn 7 for player 1
+INFO:root:20/09/2014 16:48:18 message sent for move 7: took 2 milliseconds
