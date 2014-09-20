@@ -6,9 +6,8 @@ _MINIMIZING_PLAYER = 222
 
 def _get_possible_moves(board, lightcycle):
     """Returns a list of possible moves"""
-    
     result = []
-    for diff in ((0, 1, PlayerActions.MOVE_DOWN), (1, 0, PlayerActions.MOVE_RIGHT), (-1, 0, PlayerActions.MOVE_LEFT), (1, 0, PlayerActions.MOVE_RIGHT)):
+    for diff in ((0, 1, PlayerActions.MOVE_DOWN), (1, 0, PlayerActions.MOVE_RIGHT), (-1, 0, PlayerActions.MOVE_LEFT), (0, -1, PlayerActions.MOVE_UP)):
         if board [lightcycle['position'][0] + diff[0]] [lightcycle['position'][1] + diff[1]] in (EMPTY, POWERUP):
             result += [diff]
     return result
@@ -46,8 +45,10 @@ def _alphabeta (state, depth, heuristic, alpha, beta, player):
         for move in moves:
             new_state = copy.deepcopy (state)
             _make_move (new_state[0], player_lightcycle, move)
-
+            
             previous_move, candidate_alpha = _alphabeta (new_state, depth - 1, heuristic, alpha, beta, _MINIMIZING_PLAYER)
+            if previous_move != None:
+                print "Not none", previous_move, candidate_alpha
 
             if candidate_alpha > alpha:
                 alpha = candidate_alpha

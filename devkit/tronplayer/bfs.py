@@ -6,16 +6,10 @@ import cProfile
 possible_moves = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
 def partition(player_pos, opponent_pos, game_map):
-    pr = cProfile.Profile()
-    pr.enable()
-    
     player_distances = _bfs(player_pos, game_map)
     ours, theirs, neutral = _bfs2(opponent_pos, game_map, player_distances)
     territory_score = getTerritoryScore(ours, game_map)
     
-    pr.disable()
-    pr.print_stats()
-
     return ours, theirs, neutral, territory_score
     
     
@@ -34,7 +28,7 @@ def _bfs(pos, game_map):
         distances[nodeCoords] = len(nodePath)
         for successor in getSuccessors(nodeCoords, game_map):
             if successor not in visited:
-                visited.append(successor)
+                visited.add(successor)
                 successorPath = nodePath + [successor]
                 fringe.put((successor, successorPath))      
     return distances
@@ -57,7 +51,7 @@ def _bfs2(pos, game_map, player_distances):
         path_length = len(nodePath)
         for successor in getSuccessors(nodeCoords, game_map):
             if successor not in visited:
-                visited.append(successor)
+                visited.add(successor)
                 successorPath = nodePath + [successor]
                 fringe.put((successor, successorPath))
                 # Assign the node by comparing path lengths
