@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<matches>
+  <match>
+    <score>
+      <playername>greedy</playername>
+      <value>845</value>
+    </score>
+    <score>
+      <playername>potentiallyfinal</playername>
+      <value>645</value>
+    </score>
+  </match>
+</matches>

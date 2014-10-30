@@ -1,0 +1,16 @@
+Variations on minimax: 
+expectimax: add a third possibility: randomness. take the weighted average of the possibilities weighed by their liklihoods of happening
+
+Expectimax is very dependent on the heuristic function
+
+
+Key concepts of Markov decision processes
+	To handle infinite games: either decay rewards or set a depth limit. 
+V*(s) = max for all a (sum for s' (T(s,a,s') * [R(s,a,s')+gamma*V*(s')]))
+
+value at current state = maximum of (sum of [reward at new outcome + decay * value at new outcome] over all possible outcomes)
+
+
+
+
+http://www.proctorsilex.com/use-and-care.php

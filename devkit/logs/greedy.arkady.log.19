@@ -1,0 +1,2172 @@
+21/09/2014 09:15:32.974 - GameLog] - [FINE] - A new game is starting
+21/09/2014 09:15:33.175 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 1
+21/09/2014 09:15:33.176 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 09:15:33.176 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 1
+21/09/2014 09:15:33.177 - ResponseLog] - [FINE] - 1 (19, 11) wants to move UP
+21/09/2014 09:15:33.277 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 2
+21/09/2014 09:15:33.278 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.278 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 2
+21/09/2014 09:15:33.279 - ResponseLog] - [FINE] - 1 (19, 10) wants to move LEFT
+21/09/2014 09:15:33.371 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 3
+21/09/2014 09:15:33.372 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.372 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 3
+21/09/2014 09:15:33.372 - ResponseLog] - [FINE] - 1 (18, 10) wants to move LEFT
+21/09/2014 09:15:33.479 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 4
+21/09/2014 09:15:33.479 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.479 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 4
+21/09/2014 09:15:33.480 - ResponseLog] - [FINE] - 1 (17, 10) wants to move LEFT
+21/09/2014 09:15:33.599 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 5
+21/09/2014 09:15:33.600 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.601 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 5
+21/09/2014 09:15:33.601 - ResponseLog] - [FINE] - 1 (16, 10) wants to move LEFT
+21/09/2014 09:15:33.714 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 6
+21/09/2014 09:15:33.714 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.715 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 6
+21/09/2014 09:15:33.715 - ResponseLog] - [FINE] - 1 (15, 10) wants to move LEFT
+21/09/2014 09:15:33.822 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 7
+21/09/2014 09:15:33.822 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.822 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 7
+21/09/2014 09:15:33.823 - ResponseLog] - [FINE] - 1 (14, 10) wants to move UP
+21/09/2014 09:15:33.919 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 8
+21/09/2014 09:15:33.919 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:33.920 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 8
+21/09/2014 09:15:33.920 - ResponseLog] - [FINE] - 1 (14, 9) wants to move LEFT
+21/09/2014 09:15:34.001 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 9
+21/09/2014 09:15:34.001 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.002 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 9
+21/09/2014 09:15:34.002 - ResponseLog] - [FINE] - 1 (13, 9) wants to move LEFT
+21/09/2014 09:15:34.076 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 10
+21/09/2014 09:15:34.076 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.076 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 10
+21/09/2014 09:15:34.077 - ResponseLog] - [FINE] - 1 (12, 9) wants to move UP
+21/09/2014 09:15:34.147 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 11
+21/09/2014 09:15:34.148 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.148 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 11
+21/09/2014 09:15:34.148 - ResponseLog] - [FINE] - 1 (12, 8) wants to move UP
+21/09/2014 09:15:34.244 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 12
+21/09/2014 09:15:34.245 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.245 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 12
+21/09/2014 09:15:34.245 - ResponseLog] - [FINE] - 1 (12, 7) wants to move LEFT
+21/09/2014 09:15:34.336 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 13
+21/09/2014 09:15:34.337 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.337 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 13
+21/09/2014 09:15:34.338 - ResponseLog] - [FINE] - 1 (11, 7) wants to move LEFT
+21/09/2014 09:15:34.433 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 14
+21/09/2014 09:15:34.433 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.434 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 14
+21/09/2014 09:15:34.434 - ResponseLog] - [FINE] - 1 (10, 7) wants to move LEFT
+21/09/2014 09:15:34.525 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 15
+21/09/2014 09:15:34.526 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.526 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 15
+21/09/2014 09:15:34.527 - ResponseLog] - [FINE] - 1 (9, 7) wants to move UP
+21/09/2014 09:15:34.627 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 16
+21/09/2014 09:15:34.627 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.628 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 16
+21/09/2014 09:15:34.628 - ResponseLog] - [FINE] - 1 (9, 6) wants to move UP
+21/09/2014 09:15:34.727 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 17
+21/09/2014 09:15:34.728 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.728 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 17
+21/09/2014 09:15:34.728 - ResponseLog] - [FINE] - 1 (9, 5) wants to move LEFT
+21/09/2014 09:15:34.860 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 18
+21/09/2014 09:15:34.861 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.861 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 18
+21/09/2014 09:15:34.861 - ResponseLog] - [FINE] - 1 (8, 5) wants to move UP
+21/09/2014 09:15:34.956 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 19
+21/09/2014 09:15:34.957 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:34.958 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 19
+21/09/2014 09:15:34.958 - ResponseLog] - [FINE] - 1 (8, 4) wants to move LEFT
+21/09/2014 09:15:35.067 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 20
+21/09/2014 09:15:35.068 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.068 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 20
+21/09/2014 09:15:35.068 - ResponseLog] - [FINE] - 1 (7, 4) wants to move UP
+21/09/2014 09:15:35.165 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 21
+21/09/2014 09:15:35.165 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.166 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 21
+21/09/2014 09:15:35.166 - ResponseLog] - [FINE] - 1 (7, 3) wants to move LEFT
+21/09/2014 09:15:35.276 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 22
+21/09/2014 09:15:35.277 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.277 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 22
+21/09/2014 09:15:35.277 - ResponseLog] - [FINE] - 1 (6, 3) wants to move DOWN
+21/09/2014 09:15:35.369 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 23
+21/09/2014 09:15:35.370 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.370 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 23
+21/09/2014 09:15:35.370 - ResponseLog] - [FINE] - 1 (6, 4) wants to move DOWN
+21/09/2014 09:15:35.479 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 24
+21/09/2014 09:15:35.480 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.481 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 24
+21/09/2014 09:15:35.481 - ResponseLog] - [FINE] - 1 (6, 5) wants to move DOWN
+21/09/2014 09:15:35.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 25
+21/09/2014 09:15:35.585 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.585 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 25
+21/09/2014 09:15:35.585 - ResponseLog] - [FINE] - 1 (6, 6) wants to move RIGHT
+21/09/2014 09:15:35.665 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 26
+21/09/2014 09:15:35.666 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.666 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 26
+21/09/2014 09:15:35.666 - ResponseLog] - [FINE] - 1 (7, 6) wants to move DOWN
+21/09/2014 09:15:35.761 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 27
+21/09/2014 09:15:35.800 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:35.801 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 27
+21/09/2014 09:15:35.801 - ResponseLog] - [FINE] - 1 (7, 7) wants to move DOWN
+21/09/2014 09:15:36.094 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 28
+21/09/2014 09:15:36.094 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.094 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 28
+21/09/2014 09:15:36.095 - ResponseLog] - [FINE] - 1 (7, 8) wants to move LEFT
+21/09/2014 09:15:36.189 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 29
+21/09/2014 09:15:36.190 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.190 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 29
+21/09/2014 09:15:36.190 - ResponseLog] - [FINE] - 1 (6, 8) wants to move DOWN
+21/09/2014 09:15:36.296 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 30
+21/09/2014 09:15:36.296 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.297 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 30
+21/09/2014 09:15:36.297 - ResponseLog] - [FINE] - 1 (6, 9) wants to move DOWN
+21/09/2014 09:15:36.391 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 31
+21/09/2014 09:15:36.392 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.392 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 31
+21/09/2014 09:15:36.392 - ResponseLog] - [FINE] - 1 (6, 10) wants to move LEFT
+21/09/2014 09:15:36.456 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 32
+21/09/2014 09:15:36.457 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.457 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 32
+21/09/2014 09:15:36.457 - ResponseLog] - [FINE] - 1 (5, 10) wants to move UP
+21/09/2014 09:15:36.532 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 33
+21/09/2014 09:15:36.533 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.533 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 33
+21/09/2014 09:15:36.534 - ResponseLog] - [FINE] - 1 (5, 9) wants to move LEFT
+21/09/2014 09:15:36.617 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 34
+21/09/2014 09:15:36.618 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.618 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 34
+21/09/2014 09:15:36.619 - ResponseLog] - [FINE] - 1 (4, 9) wants to move LEFT
+21/09/2014 09:15:36.712 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 35
+21/09/2014 09:15:36.713 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:15:36.713 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 35
+21/09/2014 09:15:36.713 - ResponseLog] - [FINE] - 1 (3, 9) wants to move DOWN
+21/09/2014 09:15:36.783 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 36
+21/09/2014 09:15:36.783 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:36.784 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 36
+21/09/2014 09:15:36.784 - ResponseLog] - [FINE] - 1 (3, 10) wants to move LEFT
+21/09/2014 09:15:36.873 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 37
+21/09/2014 09:15:36.873 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:36.873 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 37
+21/09/2014 09:15:36.874 - ResponseLog] - [FINE] - 1 (2, 10) wants to move DOWN
+21/09/2014 09:15:36.955 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 38
+21/09/2014 09:15:36.956 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:36.956 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 38
+21/09/2014 09:15:36.956 - ResponseLog] - [FINE] - 1 (2, 11) wants to move DOWN
+21/09/2014 09:15:37.044 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 39
+21/09/2014 09:15:37.045 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.045 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 39
+21/09/2014 09:15:37.046 - ResponseLog] - [FINE] - 1 (2, 12) wants to move RIGHT
+21/09/2014 09:15:37.115 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 40
+21/09/2014 09:15:37.116 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.116 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 40
+21/09/2014 09:15:37.117 - ResponseLog] - [FINE] - 1 (3, 12) wants to move DOWN
+21/09/2014 09:15:37.211 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 41
+21/09/2014 09:15:37.212 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.212 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 41
+21/09/2014 09:15:37.212 - ResponseLog] - [FINE] - 1 (3, 13) wants to move RIGHT
+21/09/2014 09:15:37.299 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 42
+21/09/2014 09:15:37.300 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.301 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 42
+21/09/2014 09:15:37.301 - ResponseLog] - [FINE] - 1 (4, 13) wants to move RIGHT
+21/09/2014 09:15:37.395 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 43
+21/09/2014 09:15:37.396 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.396 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 43
+21/09/2014 09:15:37.396 - ResponseLog] - [FINE] - 1 (5, 13) wants to move RIGHT
+21/09/2014 09:15:37.502 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 44
+21/09/2014 09:15:37.503 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.503 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 44
+21/09/2014 09:15:37.504 - ResponseLog] - [FINE] - 1 (6, 13) wants to move RIGHT
+21/09/2014 09:15:37.618 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 45
+21/09/2014 09:15:37.619 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.619 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 45
+21/09/2014 09:15:37.619 - ResponseLog] - [FINE] - 1 (7, 13) wants to move DOWN
+21/09/2014 09:15:37.715 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 46
+21/09/2014 09:15:37.716 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.716 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 46
+21/09/2014 09:15:37.716 - ResponseLog] - [FINE] - 1 (7, 14) wants to move RIGHT
+21/09/2014 09:15:37.797 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 47
+21/09/2014 09:15:37.798 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.798 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 47
+21/09/2014 09:15:37.798 - ResponseLog] - [FINE] - 1 (8, 14) wants to move UP
+21/09/2014 09:15:37.880 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 48
+21/09/2014 09:15:37.881 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.881 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 48
+21/09/2014 09:15:37.881 - ResponseLog] - [FINE] - 1 (8, 13) wants to move RIGHT
+21/09/2014 09:15:37.958 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 49
+21/09/2014 09:15:37.959 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:37.959 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 49
+21/09/2014 09:15:37.959 - ResponseLog] - [FINE] - 1 (9, 13) wants to move RIGHT
+21/09/2014 09:15:38.031 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 50
+21/09/2014 09:15:38.031 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.032 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 50
+21/09/2014 09:15:38.032 - ResponseLog] - [FINE] - 1 (10, 13) wants to move RIGHT
+21/09/2014 09:15:38.113 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 51
+21/09/2014 09:15:38.114 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.114 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 51
+21/09/2014 09:15:38.115 - ResponseLog] - [FINE] - 1 (11, 13) wants to move UP
+21/09/2014 09:15:38.197 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 52
+21/09/2014 09:15:38.198 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.198 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 52
+21/09/2014 09:15:38.199 - ResponseLog] - [FINE] - 1 (11, 12) wants to move RIGHT
+21/09/2014 09:15:38.293 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 53
+21/09/2014 09:15:38.293 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.295 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 53
+21/09/2014 09:15:38.296 - ResponseLog] - [FINE] - 1 (12, 12) wants to move RIGHT
+21/09/2014 09:15:38.392 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 54
+21/09/2014 09:15:38.393 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.393 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 54
+21/09/2014 09:15:38.393 - ResponseLog] - [FINE] - 1 (13, 12) wants to move RIGHT
+21/09/2014 09:15:38.493 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 55
+21/09/2014 09:15:38.493 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.494 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 55
+21/09/2014 09:15:38.494 - ResponseLog] - [FINE] - 1 (14, 12) wants to move RIGHT
+21/09/2014 09:15:38.593 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 56
+21/09/2014 09:15:38.594 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.594 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 56
+21/09/2014 09:15:38.594 - ResponseLog] - [FINE] - 1 (15, 12) wants to move RIGHT
+21/09/2014 09:15:38.692 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 57
+21/09/2014 09:15:38.693 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.693 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 57
+21/09/2014 09:15:38.693 - ResponseLog] - [FINE] - 1 (16, 12) wants to move DOWN
+21/09/2014 09:15:38.795 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 58
+21/09/2014 09:15:38.796 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.796 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 58
+21/09/2014 09:15:38.797 - ResponseLog] - [FINE] - 1 (16, 13) wants to move RIGHT
+21/09/2014 09:15:38.896 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 59
+21/09/2014 09:15:38.897 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.897 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 59
+21/09/2014 09:15:38.897 - ResponseLog] - [FINE] - 1 (17, 13) wants to move RIGHT
+21/09/2014 09:15:38.997 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 60
+21/09/2014 09:15:38.997 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:38.998 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 60
+21/09/2014 09:15:38.998 - ResponseLog] - [FINE] - 1 (18, 13) wants to move DOWN
+21/09/2014 09:15:39.100 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 61
+21/09/2014 09:15:39.101 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.101 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 61
+21/09/2014 09:15:39.101 - ResponseLog] - [FINE] - 1 (18, 14) wants to move RIGHT
+21/09/2014 09:15:39.202 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 62
+21/09/2014 09:15:39.203 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.203 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 62
+21/09/2014 09:15:39.203 - ResponseLog] - [FINE] - 1 (19, 14) wants to move UP
+21/09/2014 09:15:39.285 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 63
+21/09/2014 09:15:39.286 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.286 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 63
+21/09/2014 09:15:39.286 - ResponseLog] - [FINE] - 1 (19, 13) wants to move RIGHT
+21/09/2014 09:15:39.376 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 64
+21/09/2014 09:15:39.377 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.377 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 64
+21/09/2014 09:15:39.378 - ResponseLog] - [FINE] - 1 (20, 13) wants to move DOWN
+21/09/2014 09:15:39.458 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 65
+21/09/2014 09:15:39.459 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.459 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 65
+21/09/2014 09:15:39.459 - ResponseLog] - [FINE] - 1 (20, 14) wants to move DOWN
+21/09/2014 09:15:39.552 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 66
+21/09/2014 09:15:39.552 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.553 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 66
+21/09/2014 09:15:39.553 - ResponseLog] - [FINE] - 1 (20, 15) wants to move DOWN
+21/09/2014 09:15:39.655 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 67
+21/09/2014 09:15:39.656 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.656 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 67
+21/09/2014 09:15:39.656 - ResponseLog] - [FINE] - 1 (20, 16) wants to move DOWN
+21/09/2014 09:15:39.753 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 68
+21/09/2014 09:15:39.754 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.754 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 68
+21/09/2014 09:15:39.755 - ResponseLog] - [FINE] - 1 (20, 17) wants to move DOWN
+21/09/2014 09:15:39.851 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 69
+21/09/2014 09:15:39.851 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.852 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 69
+21/09/2014 09:15:39.852 - ResponseLog] - [FINE] - 1 (20, 18) wants to move DOWN
+21/09/2014 09:15:39.948 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 70
+21/09/2014 09:15:39.948 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:39.949 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 70
+21/09/2014 09:15:39.949 - ResponseLog] - [FINE] - 1 (20, 19) wants to move DOWN
+21/09/2014 09:15:40.042 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 71
+21/09/2014 09:15:40.042 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.042 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 71
+21/09/2014 09:15:40.043 - ResponseLog] - [FINE] - 1 (20, 20) wants to move LEFT
+21/09/2014 09:15:40.135 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 72
+21/09/2014 09:15:40.135 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.136 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 72
+21/09/2014 09:15:40.136 - ResponseLog] - [FINE] - 1 (19, 20) wants to move LEFT
+21/09/2014 09:15:40.228 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 73
+21/09/2014 09:15:40.228 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.229 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 73
+21/09/2014 09:15:40.229 - ResponseLog] - [FINE] - 1 (18, 20) wants to move LEFT
+21/09/2014 09:15:40.325 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 74
+21/09/2014 09:15:40.326 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.326 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 74
+21/09/2014 09:15:40.326 - ResponseLog] - [FINE] - 1 (17, 20) wants to move LEFT
+21/09/2014 09:15:40.421 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 75
+21/09/2014 09:15:40.422 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.422 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 75
+21/09/2014 09:15:40.422 - ResponseLog] - [FINE] - 1 (16, 20) wants to move LEFT
+21/09/2014 09:15:40.516 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 76
+21/09/2014 09:15:40.517 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.517 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 76
+21/09/2014 09:15:40.518 - ResponseLog] - [FINE] - 1 (15, 20) wants to move LEFT
+21/09/2014 09:15:40.601 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 77
+21/09/2014 09:15:40.602 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.602 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 77
+21/09/2014 09:15:40.602 - ResponseLog] - [FINE] - 1 (14, 20) wants to move LEFT
+21/09/2014 09:15:40.677 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 78
+21/09/2014 09:15:40.678 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.679 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 78
+21/09/2014 09:15:40.679 - ResponseLog] - [FINE] - 1 (13, 20) wants to move LEFT
+21/09/2014 09:15:40.770 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 79
+21/09/2014 09:15:40.771 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.772 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 79
+21/09/2014 09:15:40.772 - ResponseLog] - [FINE] - 1 (12, 20) wants to move LEFT
+21/09/2014 09:15:40.873 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 80
+21/09/2014 09:15:40.873 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.874 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 80
+21/09/2014 09:15:40.874 - ResponseLog] - [FINE] - 1 (11, 20) wants to move UP
+21/09/2014 09:15:40.971 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 81
+21/09/2014 09:15:40.972 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:40.972 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 81
+21/09/2014 09:15:40.973 - ResponseLog] - [FINE] - 1 (11, 19) wants to move LEFT
+21/09/2014 09:15:41.077 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 82
+21/09/2014 09:15:41.077 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.078 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 82
+21/09/2014 09:15:41.078 - ResponseLog] - [FINE] - 1 (10, 19) wants to move LEFT
+21/09/2014 09:15:41.189 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 83
+21/09/2014 09:15:41.189 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.190 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 83
+21/09/2014 09:15:41.190 - ResponseLog] - [FINE] - 1 (9, 19) wants to move LEFT
+21/09/2014 09:15:41.301 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 84
+21/09/2014 09:15:41.301 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.302 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 84
+21/09/2014 09:15:41.302 - ResponseLog] - [FINE] - 1 (8, 19) wants to move LEFT
+21/09/2014 09:15:41.412 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 85
+21/09/2014 09:15:41.413 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.414 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 85
+21/09/2014 09:15:41.414 - ResponseLog] - [FINE] - 1 (7, 19) wants to move LEFT
+21/09/2014 09:15:41.525 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 86
+21/09/2014 09:15:41.525 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.526 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 86
+21/09/2014 09:15:41.526 - ResponseLog] - [FINE] - 1 (6, 19) wants to move UP
+21/09/2014 09:15:41.639 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 87
+21/09/2014 09:15:41.640 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.640 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 87
+21/09/2014 09:15:41.641 - ResponseLog] - [FINE] - 1 (6, 18) wants to move LEFT
+21/09/2014 09:15:41.725 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 88
+21/09/2014 09:15:41.725 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.726 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 88
+21/09/2014 09:15:41.726 - ResponseLog] - [FINE] - 1 (5, 18) wants to move LEFT
+21/09/2014 09:15:41.803 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 89
+21/09/2014 09:15:41.804 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.804 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 89
+21/09/2014 09:15:41.804 - ResponseLog] - [FINE] - 1 (4, 18) wants to move LEFT
+21/09/2014 09:15:41.894 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 90
+21/09/2014 09:15:41.895 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.895 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 90
+21/09/2014 09:15:41.895 - ResponseLog] - [FINE] - 1 (3, 18) wants to move LEFT
+21/09/2014 09:15:41.988 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 91
+21/09/2014 09:15:41.989 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:41.989 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 91
+21/09/2014 09:15:41.989 - ResponseLog] - [FINE] - 1 (2, 18) wants to move UP
+21/09/2014 09:15:42.064 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 92
+21/09/2014 09:15:42.065 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.065 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 92
+21/09/2014 09:15:42.066 - ResponseLog] - [FINE] - 1 (2, 17) wants to move UP
+21/09/2014 09:15:42.143 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 93
+21/09/2014 09:15:42.144 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.144 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 93
+21/09/2014 09:15:42.145 - ResponseLog] - [FINE] - 1 (2, 16) wants to move UP
+21/09/2014 09:15:42.233 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 94
+21/09/2014 09:15:42.234 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.234 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 94
+21/09/2014 09:15:42.235 - ResponseLog] - [FINE] - 1 (2, 15) wants to move RIGHT
+21/09/2014 09:15:42.312 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 95
+21/09/2014 09:15:42.313 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.313 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 95
+21/09/2014 09:15:42.313 - ResponseLog] - [FINE] - 1 (3, 15) wants to move RIGHT
+21/09/2014 09:15:42.387 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 96
+21/09/2014 09:15:42.388 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.388 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 96
+21/09/2014 09:15:42.389 - ResponseLog] - [FINE] - 1 (4, 15) wants to move RIGHT
+21/09/2014 09:15:42.462 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 97
+21/09/2014 09:15:42.463 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.463 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 97
+21/09/2014 09:15:42.463 - ResponseLog] - [FINE] - 1 (5, 15) wants to move UP
+21/09/2014 09:15:42.526 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 98
+21/09/2014 09:15:42.527 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.527 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 98
+21/09/2014 09:15:42.528 - ResponseLog] - [FINE] - 1 (5, 14) wants to move LEFT
+21/09/2014 09:15:42.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 99
+21/09/2014 09:15:42.585 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.585 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 99
+21/09/2014 09:15:42.585 - ResponseLog] - [FINE] - 1 (4, 14) wants to move LEFT
+21/09/2014 09:15:42.646 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 100
+21/09/2014 09:15:42.647 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.647 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 100
+21/09/2014 09:15:42.647 - ResponseLog] - [FINE] - 1 (3, 14) wants to move LEFT
+21/09/2014 09:15:42.714 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 101
+21/09/2014 09:15:42.715 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.715 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 101
+21/09/2014 09:15:42.716 - ResponseLog] - [FINE] - 1 (2, 14) wants to move UP
+21/09/2014 09:15:42.776 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 102
+21/09/2014 09:15:42.776 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.777 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 102
+21/09/2014 09:15:42.777 - ResponseLog] - [FINE] - 1 (2, 13) wants to move LEFT
+21/09/2014 09:15:42.839 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 103
+21/09/2014 09:15:42.840 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.841 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 103
+21/09/2014 09:15:42.841 - ResponseLog] - [FINE] - 1 (1, 13) wants to move UP
+21/09/2014 09:15:42.897 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 104
+21/09/2014 09:15:42.897 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.898 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 104
+21/09/2014 09:15:42.898 - ResponseLog] - [FINE] - 1 (1, 12) wants to move UP
+21/09/2014 09:15:42.954 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 105
+21/09/2014 09:15:42.954 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:42.955 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 105
+21/09/2014 09:15:42.955 - ResponseLog] - [FINE] - 1 (1, 11) wants to move UP
+21/09/2014 09:15:43.016 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 106
+21/09/2014 09:15:43.017 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.017 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 106
+21/09/2014 09:15:43.018 - ResponseLog] - [FINE] - 1 (1, 10) wants to move UP
+21/09/2014 09:15:43.084 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 107
+21/09/2014 09:15:43.085 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.085 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 107
+21/09/2014 09:15:43.086 - ResponseLog] - [FINE] - 1 (1, 9) wants to move UP
+21/09/2014 09:15:43.160 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 108
+21/09/2014 09:15:43.161 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.161 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 108
+21/09/2014 09:15:43.161 - ResponseLog] - [FINE] - 1 (1, 8) wants to move UP
+21/09/2014 09:15:43.238 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 109
+21/09/2014 09:15:43.239 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.239 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 109
+21/09/2014 09:15:43.240 - ResponseLog] - [FINE] - 1 (1, 7) wants to move RIGHT
+21/09/2014 09:15:43.332 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 110
+21/09/2014 09:15:43.333 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.333 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 110
+21/09/2014 09:15:43.333 - ResponseLog] - [FINE] - 1 (2, 7) wants to move UP
+21/09/2014 09:15:43.422 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 111
+21/09/2014 09:15:43.422 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.422 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 111
+21/09/2014 09:15:43.423 - ResponseLog] - [FINE] - 1 (2, 6) wants to move UP
+21/09/2014 09:15:43.514 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 112
+21/09/2014 09:15:43.515 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.515 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 112
+21/09/2014 09:15:43.516 - ResponseLog] - [FINE] - 1 (2, 5) wants to move UP
+21/09/2014 09:15:43.613 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 113
+21/09/2014 09:15:43.614 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.614 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 113
+21/09/2014 09:15:43.614 - ResponseLog] - [FINE] - 1 (2, 4) wants to move UP
+21/09/2014 09:15:43.706 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 114
+21/09/2014 09:15:43.706 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.707 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 114
+21/09/2014 09:15:43.707 - ResponseLog] - [FINE] - 1 (2, 3) wants to move RIGHT
+21/09/2014 09:15:43.799 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 115
+21/09/2014 09:15:43.800 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.800 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 115
+21/09/2014 09:15:43.800 - ResponseLog] - [FINE] - 1 (3, 3) wants to move UP
+21/09/2014 09:15:43.886 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 116
+21/09/2014 09:15:43.886 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.886 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 116
+21/09/2014 09:15:43.887 - ResponseLog] - [FINE] - 1 (3, 2) wants to move RIGHT
+21/09/2014 09:15:43.973 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 117
+21/09/2014 09:15:43.974 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:43.974 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 117
+21/09/2014 09:15:43.975 - ResponseLog] - [FINE] - 1 (4, 2) wants to move DOWN
+21/09/2014 09:15:44.050 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 118
+21/09/2014 09:15:44.051 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.051 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 118
+21/09/2014 09:15:44.052 - ResponseLog] - [FINE] - 1 (4, 3) wants to move DOWN
+21/09/2014 09:15:44.133 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 119
+21/09/2014 09:15:44.133 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.134 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 119
+21/09/2014 09:15:44.134 - ResponseLog] - [FINE] - 1 (4, 4) wants to move DOWN
+21/09/2014 09:15:44.218 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 120
+21/09/2014 09:15:44.219 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.219 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 120
+21/09/2014 09:15:44.219 - ResponseLog] - [FINE] - 1 (4, 5) wants to move DOWN
+21/09/2014 09:15:44.304 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 121
+21/09/2014 09:15:44.305 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.305 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 121
+21/09/2014 09:15:44.306 - ResponseLog] - [FINE] - 1 (4, 6) wants to move DOWN
+21/09/2014 09:15:44.388 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 122
+21/09/2014 09:15:44.389 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.389 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 122
+21/09/2014 09:15:44.390 - ResponseLog] - [FINE] - 1 (4, 7) wants to move RIGHT
+21/09/2014 09:15:44.453 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 123
+21/09/2014 09:15:44.454 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.454 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 123
+21/09/2014 09:15:44.455 - ResponseLog] - [FINE] - 1 (5, 7) wants to move UP
+21/09/2014 09:15:44.511 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 124
+21/09/2014 09:15:44.511 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.512 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 124
+21/09/2014 09:15:44.512 - ResponseLog] - [FINE] - 1 (5, 6) wants to move UP
+21/09/2014 09:15:44.568 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 125
+21/09/2014 09:15:44.569 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.569 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 125
+21/09/2014 09:15:44.570 - ResponseLog] - [FINE] - 1 (5, 5) wants to move UP
+21/09/2014 09:15:44.627 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 126
+21/09/2014 09:15:44.627 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.628 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 126
+21/09/2014 09:15:44.628 - ResponseLog] - [FINE] - 1 (5, 4) wants to move UP
+21/09/2014 09:15:44.689 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 127
+21/09/2014 09:15:44.690 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.690 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 127
+21/09/2014 09:15:44.691 - ResponseLog] - [FINE] - 1 (5, 3) wants to move UP
+21/09/2014 09:15:44.763 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 128
+21/09/2014 09:15:44.763 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.763 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 128
+21/09/2014 09:15:44.764 - ResponseLog] - [FINE] - 1 (5, 2) wants to move RIGHT
+21/09/2014 09:15:44.834 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 129
+21/09/2014 09:15:44.834 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.835 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 129
+21/09/2014 09:15:44.835 - ResponseLog] - [FINE] - 1 (6, 2) wants to move RIGHT
+21/09/2014 09:15:44.909 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 130
+21/09/2014 09:15:44.909 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.910 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 130
+21/09/2014 09:15:44.910 - ResponseLog] - [FINE] - 1 (7, 2) wants to move RIGHT
+21/09/2014 09:15:44.983 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 131
+21/09/2014 09:15:44.984 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:44.985 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 131
+21/09/2014 09:15:44.985 - ResponseLog] - [FINE] - 1 (8, 2) wants to move RIGHT
+21/09/2014 09:15:45.059 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 132
+21/09/2014 09:15:45.060 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.061 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 132
+21/09/2014 09:15:45.061 - ResponseLog] - [FINE] - 1 (9, 2) wants to move RIGHT
+21/09/2014 09:15:45.147 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 133
+21/09/2014 09:15:45.147 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.148 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 133
+21/09/2014 09:15:45.148 - ResponseLog] - [FINE] - 1 (10, 2) wants to move RIGHT
+21/09/2014 09:15:45.239 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 134
+21/09/2014 09:15:45.240 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.240 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 134
+21/09/2014 09:15:45.240 - ResponseLog] - [FINE] - 1 (11, 2) wants to move RIGHT
+21/09/2014 09:15:45.331 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 135
+21/09/2014 09:15:45.332 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.332 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 135
+21/09/2014 09:15:45.333 - ResponseLog] - [FINE] - 1 (12, 2) wants to move RIGHT
+21/09/2014 09:15:45.422 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 136
+21/09/2014 09:15:45.423 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.423 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 136
+21/09/2014 09:15:45.423 - ResponseLog] - [FINE] - 1 (13, 2) wants to move RIGHT
+21/09/2014 09:15:45.515 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 137
+21/09/2014 09:15:45.515 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.516 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 137
+21/09/2014 09:15:45.516 - ResponseLog] - [FINE] - 1 (14, 2) wants to move RIGHT
+21/09/2014 09:15:45.614 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 138
+21/09/2014 09:15:45.614 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.615 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 138
+21/09/2014 09:15:45.615 - ResponseLog] - [FINE] - 1 (15, 2) wants to move RIGHT
+21/09/2014 09:15:45.702 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 139
+21/09/2014 09:15:45.702 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.702 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 139
+21/09/2014 09:15:45.703 - ResponseLog] - [FINE] - 1 (16, 2) wants to move DOWN
+21/09/2014 09:15:45.796 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 140
+21/09/2014 09:15:45.797 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.797 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 140
+21/09/2014 09:15:45.797 - ResponseLog] - [FINE] - 1 (16, 3) wants to move DOWN
+21/09/2014 09:15:45.893 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 141
+21/09/2014 09:15:45.893 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.893 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 141
+21/09/2014 09:15:45.894 - ResponseLog] - [FINE] - 1 (16, 4) wants to move RIGHT
+21/09/2014 09:15:45.976 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 142
+21/09/2014 09:15:45.977 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:45.977 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 142
+21/09/2014 09:15:45.977 - ResponseLog] - [FINE] - 1 (17, 4) wants to move RIGHT
+21/09/2014 09:15:46.056 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 143
+21/09/2014 09:15:46.056 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.056 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 143
+21/09/2014 09:15:46.057 - ResponseLog] - [FINE] - 1 (18, 4) wants to move RIGHT
+21/09/2014 09:15:46.145 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 144
+21/09/2014 09:15:46.146 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.146 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 144
+21/09/2014 09:15:46.146 - ResponseLog] - [FINE] - 1 (19, 4) wants to move DOWN
+21/09/2014 09:15:46.214 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 145
+21/09/2014 09:15:46.214 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.215 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 145
+21/09/2014 09:15:46.215 - ResponseLog] - [FINE] - 1 (19, 5) wants to move RIGHT
+21/09/2014 09:15:46.298 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 146
+21/09/2014 09:15:46.298 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.299 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 146
+21/09/2014 09:15:46.299 - ResponseLog] - [FINE] - 1 (20, 5) wants to move DOWN
+21/09/2014 09:15:46.375 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 147
+21/09/2014 09:15:46.375 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.376 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 147
+21/09/2014 09:15:46.376 - ResponseLog] - [FINE] - 1 (20, 6) wants to move DOWN
+21/09/2014 09:15:46.461 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 148
+21/09/2014 09:15:46.462 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.462 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 148
+21/09/2014 09:15:46.462 - ResponseLog] - [FINE] - 1 (20, 7) wants to move DOWN
+21/09/2014 09:15:46.554 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 149
+21/09/2014 09:15:46.555 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.555 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 149
+21/09/2014 09:15:46.556 - ResponseLog] - [FINE] - 1 (20, 8) wants to move LEFT
+21/09/2014 09:15:46.638 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 150
+21/09/2014 09:15:46.638 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.639 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 150
+21/09/2014 09:15:46.639 - ResponseLog] - [FINE] - 1 (19, 8) wants to move LEFT
+21/09/2014 09:15:46.730 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 151
+21/09/2014 09:15:46.731 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.731 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 151
+21/09/2014 09:15:46.731 - ResponseLog] - [FINE] - 1 (18, 8) wants to move LEFT
+21/09/2014 09:15:46.817 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 152
+21/09/2014 09:15:46.817 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.818 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 152
+21/09/2014 09:15:46.818 - ResponseLog] - [FINE] - 1 (17, 8) wants to move LEFT
+21/09/2014 09:15:46.909 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 153
+21/09/2014 09:15:46.909 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.910 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 153
+21/09/2014 09:15:46.910 - ResponseLog] - [FINE] - 1 (16, 8) wants to move UP
+21/09/2014 09:15:46.990 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 154
+21/09/2014 09:15:46.991 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:46.991 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 154
+21/09/2014 09:15:46.992 - ResponseLog] - [FINE] - 1 (16, 7) wants to move LEFT
+21/09/2014 09:15:47.082 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 155
+21/09/2014 09:15:47.082 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.083 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 155
+21/09/2014 09:15:47.083 - ResponseLog] - [FINE] - 1 (15, 7) wants to move UP
+21/09/2014 09:15:47.168 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 156
+21/09/2014 09:15:47.169 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.169 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 156
+21/09/2014 09:15:47.170 - ResponseLog] - [FINE] - 1 (15, 6) wants to move LEFT
+21/09/2014 09:15:47.259 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 157
+21/09/2014 09:15:47.259 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.259 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 157
+21/09/2014 09:15:47.260 - ResponseLog] - [FINE] - 1 (14, 6) wants to move UP
+21/09/2014 09:15:47.349 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 158
+21/09/2014 09:15:47.350 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.350 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 158
+21/09/2014 09:15:47.351 - ResponseLog] - [FINE] - 1 (14, 5) wants to move LEFT
+21/09/2014 09:15:47.439 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 159
+21/09/2014 09:15:47.439 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.440 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 159
+21/09/2014 09:15:47.440 - ResponseLog] - [FINE] - 1 (13, 5) wants to move LEFT
+21/09/2014 09:15:47.530 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 160
+21/09/2014 09:15:47.530 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.531 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 160
+21/09/2014 09:15:47.531 - ResponseLog] - [FINE] - 1 (12, 5) wants to move LEFT
+21/09/2014 09:15:47.625 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 161
+21/09/2014 09:15:47.626 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.626 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 161
+21/09/2014 09:15:47.626 - ResponseLog] - [FINE] - 1 (11, 5) wants to move UP
+21/09/2014 09:15:47.710 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 162
+21/09/2014 09:15:47.710 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.711 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 162
+21/09/2014 09:15:47.711 - ResponseLog] - [FINE] - 1 (11, 4) wants to move LEFT
+21/09/2014 09:15:47.774 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 163
+21/09/2014 09:15:47.775 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.775 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 163
+21/09/2014 09:15:47.775 - ResponseLog] - [FINE] - 1 (10, 4) wants to move DOWN
+21/09/2014 09:15:47.832 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 164
+21/09/2014 09:15:47.832 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.833 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 164
+21/09/2014 09:15:47.833 - ResponseLog] - [FINE] - 1 (10, 5) wants to move DOWN
+21/09/2014 09:15:47.889 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 165
+21/09/2014 09:15:47.889 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.890 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 165
+21/09/2014 09:15:47.890 - ResponseLog] - [FINE] - 1 (10, 6) wants to move RIGHT
+21/09/2014 09:15:47.946 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 166
+21/09/2014 09:15:47.947 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:47.947 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 166
+21/09/2014 09:15:47.948 - ResponseLog] - [FINE] - 1 (11, 6) wants to move RIGHT
+21/09/2014 09:15:48.004 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 167
+21/09/2014 09:15:48.004 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.005 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 167
+21/09/2014 09:15:48.005 - ResponseLog] - [FINE] - 1 (12, 6) wants to move RIGHT
+21/09/2014 09:15:48.061 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 168
+21/09/2014 09:15:48.062 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.062 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 168
+21/09/2014 09:15:48.063 - ResponseLog] - [FINE] - 1 (13, 6) wants to move DOWN
+21/09/2014 09:15:48.120 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 169
+21/09/2014 09:15:48.120 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.121 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 169
+21/09/2014 09:15:48.121 - ResponseLog] - [FINE] - 1 (13, 7) wants to move RIGHT
+21/09/2014 09:15:48.177 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 170
+21/09/2014 09:15:48.178 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.178 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 170
+21/09/2014 09:15:48.178 - ResponseLog] - [FINE] - 1 (14, 7) wants to move DOWN
+21/09/2014 09:15:48.234 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 171
+21/09/2014 09:15:48.234 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.234 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 171
+21/09/2014 09:15:48.235 - ResponseLog] - [FINE] - 1 (14, 8) wants to move RIGHT
+21/09/2014 09:15:48.292 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 172
+21/09/2014 09:15:48.292 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.293 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 172
+21/09/2014 09:15:48.293 - ResponseLog] - [FINE] - 1 (15, 8) wants to move DOWN
+21/09/2014 09:15:48.349 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 173
+21/09/2014 09:15:48.350 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.350 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 173
+21/09/2014 09:15:48.351 - ResponseLog] - [FINE] - 1 (15, 9) wants to move RIGHT
+21/09/2014 09:15:48.406 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 174
+21/09/2014 09:15:48.407 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.407 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 174
+21/09/2014 09:15:48.408 - ResponseLog] - [FINE] - 1 (16, 9) wants to move RIGHT
+21/09/2014 09:15:48.464 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 175
+21/09/2014 09:15:48.464 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.465 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 175
+21/09/2014 09:15:48.465 - ResponseLog] - [FINE] - 1 (17, 9) wants to move RIGHT
+21/09/2014 09:15:48.522 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 176
+21/09/2014 09:15:48.522 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.523 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 176
+21/09/2014 09:15:48.523 - ResponseLog] - [FINE] - 1 (18, 9) wants to move RIGHT
+21/09/2014 09:15:48.583 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 177
+21/09/2014 09:15:48.584 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.584 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 177
+21/09/2014 09:15:48.584 - ResponseLog] - [FINE] - 1 (19, 9) wants to move RIGHT
+21/09/2014 09:15:48.656 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 178
+21/09/2014 09:15:48.657 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.657 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 178
+21/09/2014 09:15:48.657 - ResponseLog] - [FINE] - 1 (20, 9) wants to move DOWN
+21/09/2014 09:15:48.727 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 179
+21/09/2014 09:15:48.727 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.727 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 179
+21/09/2014 09:15:48.728 - ResponseLog] - [FINE] - 1 (20, 10) wants to move DOWN
+21/09/2014 09:15:48.798 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 180
+21/09/2014 09:15:48.799 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.799 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 180
+21/09/2014 09:15:48.799 - ResponseLog] - [FINE] - 1 (20, 11) wants to move RIGHT
+21/09/2014 09:15:48.866 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 181
+21/09/2014 09:15:48.866 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.866 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 181
+21/09/2014 09:15:48.867 - ResponseLog] - [FINE] - 1 (21, 11) wants to move DOWN
+21/09/2014 09:15:48.928 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 182
+21/09/2014 09:15:48.929 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.929 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 182
+21/09/2014 09:15:48.929 - ResponseLog] - [FINE] - 1 (21, 12) wants to move LEFT
+21/09/2014 09:15:48.985 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 183
+21/09/2014 09:15:48.985 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:48.986 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 183
+21/09/2014 09:15:48.986 - ResponseLog] - [FINE] - 1 (20, 12) wants to move LEFT
+21/09/2014 09:15:49.042 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 184
+21/09/2014 09:15:49.043 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.043 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 184
+21/09/2014 09:15:49.043 - ResponseLog] - [FINE] - 1 (19, 12) wants to move LEFT
+21/09/2014 09:15:49.098 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 185
+21/09/2014 09:15:49.099 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.099 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 185
+21/09/2014 09:15:49.100 - ResponseLog] - [FINE] - 1 (18, 12) wants to move LEFT
+21/09/2014 09:15:49.157 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 186
+21/09/2014 09:15:49.157 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.157 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 186
+21/09/2014 09:15:49.158 - ResponseLog] - [FINE] - 1 (17, 12) wants to move UP
+21/09/2014 09:15:49.214 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 187
+21/09/2014 09:15:49.214 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.215 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 187
+21/09/2014 09:15:49.215 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 09:15:49.270 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 188
+21/09/2014 09:15:49.271 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.271 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 188
+21/09/2014 09:15:49.272 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 09:15:49.328 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 189
+21/09/2014 09:15:49.329 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.329 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 189
+21/09/2014 09:15:49.329 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 09:15:49.389 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 190
+21/09/2014 09:15:49.390 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.390 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 190
+21/09/2014 09:15:49.390 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 09:15:49.448 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 191
+21/09/2014 09:15:49.448 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.449 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 191
+21/09/2014 09:15:49.449 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 09:15:49.509 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 192
+21/09/2014 09:15:49.510 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.510 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 192
+21/09/2014 09:15:49.510 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 09:15:49.579 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 193
+21/09/2014 09:15:49.580 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.580 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 193
+21/09/2014 09:15:49.581 - ResponseLog] - [FINE] - 1 (11, 11) wants to move LEFT
+21/09/2014 09:15:49.657 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 194
+21/09/2014 09:15:49.658 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.658 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 194
+21/09/2014 09:15:49.659 - ResponseLog] - [FINE] - 1 (10, 11) wants to move LEFT
+21/09/2014 09:15:49.740 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 195
+21/09/2014 09:15:49.741 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.741 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 195
+21/09/2014 09:15:49.742 - ResponseLog] - [FINE] - 1 (9, 11) wants to move LEFT
+21/09/2014 09:15:49.826 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 196
+21/09/2014 09:15:49.876 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.876 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 196
+21/09/2014 09:15:49.876 - ResponseLog] - [FINE] - 1 (8, 11) wants to move UP
+21/09/2014 09:15:49.944 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 197
+21/09/2014 09:15:49.944 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:49.944 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 197
+21/09/2014 09:15:49.945 - ResponseLog] - [FINE] - 1 (8, 10) wants to move RIGHT
+21/09/2014 09:15:50.013 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 198
+21/09/2014 09:15:50.014 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.014 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 198
+21/09/2014 09:15:50.015 - ResponseLog] - [FINE] - 1 (9, 10) wants to move RIGHT
+21/09/2014 09:15:50.082 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 199
+21/09/2014 09:15:50.083 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.083 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 199
+21/09/2014 09:15:50.083 - ResponseLog] - [FINE] - 1 (10, 10) wants to move RIGHT
+21/09/2014 09:15:50.138 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 200
+21/09/2014 09:15:50.139 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.139 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 200
+21/09/2014 09:15:50.139 - ResponseLog] - [FINE] - 1 (11, 10) wants to move UP
+21/09/2014 09:15:50.198 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 201
+21/09/2014 09:15:50.199 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.199 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 201
+21/09/2014 09:15:50.199 - ResponseLog] - [FINE] - 1 (11, 9) wants to move LEFT
+21/09/2014 09:15:50.257 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 202
+21/09/2014 09:15:50.257 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.257 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 202
+21/09/2014 09:15:50.258 - ResponseLog] - [FINE] - 1 (10, 9) wants to move LEFT
+21/09/2014 09:15:50.317 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 203
+21/09/2014 09:15:50.318 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.318 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 203
+21/09/2014 09:15:50.318 - ResponseLog] - [FINE] - 1 (9, 9) wants to move LEFT
+21/09/2014 09:15:50.379 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 204
+21/09/2014 09:15:50.380 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.380 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 204
+21/09/2014 09:15:50.380 - ResponseLog] - [FINE] - 1 (8, 9) wants to move LEFT
+21/09/2014 09:15:50.435 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 205
+21/09/2014 09:15:50.436 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.436 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 205
+21/09/2014 09:15:50.436 - ResponseLog] - [FINE] - 1 (7, 9) wants to move DOWN
+21/09/2014 09:15:50.495 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 206
+21/09/2014 09:15:50.496 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.496 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 206
+21/09/2014 09:15:50.497 - ResponseLog] - [FINE] - 1 (7, 10) wants to move DOWN
+21/09/2014 09:15:50.561 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 207
+21/09/2014 09:15:50.562 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.562 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 207
+21/09/2014 09:15:50.563 - ResponseLog] - [FINE] - 1 (7, 11) wants to move LEFT
+21/09/2014 09:15:50.622 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 208
+21/09/2014 09:15:50.623 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.623 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 208
+21/09/2014 09:15:50.623 - ResponseLog] - [FINE] - 1 (6, 11) wants to move DOWN
+21/09/2014 09:15:50.689 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 209
+21/09/2014 09:15:50.689 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.690 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 209
+21/09/2014 09:15:50.690 - ResponseLog] - [FINE] - 1 (6, 12) wants to move RIGHT
+21/09/2014 09:15:50.745 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 210
+21/09/2014 09:15:50.746 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.746 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 210
+21/09/2014 09:15:50.746 - ResponseLog] - [FINE] - 1 (7, 12) wants to move RIGHT
+21/09/2014 09:15:50.798 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 211
+21/09/2014 09:15:50.799 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.799 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 211
+21/09/2014 09:15:50.799 - ResponseLog] - [FINE] - 1 (8, 12) wants to move RIGHT
+21/09/2014 09:15:50.849 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 212
+21/09/2014 09:15:50.850 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:15:50.850 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 212
+21/09/2014 09:15:50.850 - ResponseLog] - [FINE] - 1 (9, 12) wants to move RIGHT
+21/09/2014 09:15:50.857 - GameLog] - [FINE] - Player greedy left
+21/09/2014 09:15:50.900 - GameLog] - [FINE] - Player arkady left
+21/09/2014 09:15:59.760 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\greedy.arkady_45.xml
+21/09/2014 09:16:01.277 - GameLog] - [FINE] - A new game is starting
+21/09/2014 09:16:01.453 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 1
+21/09/2014 09:16:01.454 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 09:16:01.454 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 1
+21/09/2014 09:16:01.455 - ResponseLog] - [FINE] - 1 (19, 11) wants to move LEFT
+21/09/2014 09:16:01.564 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 2
+21/09/2014 09:16:01.565 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 09:16:01.565 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 2
+21/09/2014 09:16:01.566 - ResponseLog] - [FINE] - 1 (18, 11) wants to move LEFT
+21/09/2014 09:16:01.665 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 3
+21/09/2014 09:16:01.666 - ResponseLog] - [FINE] - 0 (5, 11) wants to move RIGHT
+21/09/2014 09:16:01.666 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 3
+21/09/2014 09:16:01.666 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 09:16:01.764 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 4
+21/09/2014 09:16:01.764 - ResponseLog] - [FINE] - 0 (6, 11) wants to move UP
+21/09/2014 09:16:01.765 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 4
+21/09/2014 09:16:01.765 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 09:16:01.875 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 5
+21/09/2014 09:16:01.875 - ResponseLog] - [FINE] - 0 (6, 10) wants to move RIGHT
+21/09/2014 09:16:01.876 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 5
+21/09/2014 09:16:01.876 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 09:16:01.983 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_UP for turn 6
+21/09/2014 09:16:01.983 - ResponseLog] - [FINE] - 0 (7, 10) wants to move UP
+21/09/2014 09:16:01.983 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 6
+21/09/2014 09:16:01.984 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 09:16:02.087 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 7
+21/09/2014 09:16:02.088 - ResponseLog] - [FINE] - 0 (7, 9) wants to move UP
+21/09/2014 09:16:02.088 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 7
+21/09/2014 09:16:02.089 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 09:16:02.189 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 8
+21/09/2014 09:16:02.190 - ResponseLog] - [FINE] - 0 (7, 8) wants to move UP
+21/09/2014 09:16:02.190 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 8
+21/09/2014 09:16:02.190 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 09:16:02.282 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 9
+21/09/2014 09:16:02.283 - ResponseLog] - [FINE] - 0 (7, 7) wants to move UP
+21/09/2014 09:16:02.283 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 9
+21/09/2014 09:16:02.283 - ResponseLog] - [FINE] - 1 (11, 11) wants to move LEFT
+21/09/2014 09:16:02.388 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 10
+21/09/2014 09:16:02.389 - ResponseLog] - [FINE] - 0 (7, 6) wants to move UP
+21/09/2014 09:16:02.389 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 10
+21/09/2014 09:16:02.390 - ResponseLog] - [FINE] - 1 (10, 11) wants to move LEFT
+21/09/2014 09:16:02.493 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 11
+21/09/2014 09:16:02.494 - ResponseLog] - [FINE] - 0 (7, 5) wants to move LEFT
+21/09/2014 09:16:02.494 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 11
+21/09/2014 09:16:02.494 - ResponseLog] - [FINE] - 1 (9, 11) wants to move LEFT
+21/09/2014 09:16:02.597 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 12
+21/09/2014 09:16:02.598 - ResponseLog] - [FINE] - 0 (6, 5) wants to move LEFT
+21/09/2014 09:16:02.598 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 12
+21/09/2014 09:16:02.598 - ResponseLog] - [FINE] - 1 (8, 11) wants to move LEFT
+21/09/2014 09:16:02.706 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 13
+21/09/2014 09:16:02.707 - ResponseLog] - [FINE] - 0 (5, 5) wants to move LEFT
+21/09/2014 09:16:02.707 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 13
+21/09/2014 09:16:02.707 - ResponseLog] - [FINE] - 1 (7, 11) wants to move DOWN
+21/09/2014 09:16:02.814 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 14
+21/09/2014 09:16:02.815 - ResponseLog] - [FINE] - 0 (4, 5) wants to move LEFT
+21/09/2014 09:16:02.815 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 14
+21/09/2014 09:16:02.816 - ResponseLog] - [FINE] - 1 (7, 12) wants to move RIGHT
+21/09/2014 09:16:02.921 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 15
+21/09/2014 09:16:02.921 - ResponseLog] - [FINE] - 0 (3, 5) wants to move DOWN
+21/09/2014 09:16:02.922 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 15
+21/09/2014 09:16:02.922 - ResponseLog] - [FINE] - 1 (8, 12) wants to move RIGHT
+21/09/2014 09:16:03.021 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 16
+21/09/2014 09:16:03.021 - ResponseLog] - [FINE] - 0 (3, 6) wants to move DOWN
+21/09/2014 09:16:03.022 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 16
+21/09/2014 09:16:03.022 - ResponseLog] - [FINE] - 1 (9, 12) wants to move RIGHT
+21/09/2014 09:16:03.125 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 17
+21/09/2014 09:16:03.126 - ResponseLog] - [FINE] - 0 (3, 7) wants to move LEFT
+21/09/2014 09:16:03.126 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 17
+21/09/2014 09:16:03.127 - ResponseLog] - [FINE] - 1 (10, 12) wants to move RIGHT
+21/09/2014 09:16:03.227 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_DOWN for turn 18
+21/09/2014 09:16:03.228 - ResponseLog] - [FINE] - 0 (2, 7) wants to move DOWN
+21/09/2014 09:16:03.228 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 18
+21/09/2014 09:16:03.228 - ResponseLog] - [FINE] - 1 (11, 12) wants to move RIGHT
+21/09/2014 09:16:03.325 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 19
+21/09/2014 09:16:03.325 - ResponseLog] - [FINE] - 0 (2, 8) wants to move RIGHT
+21/09/2014 09:16:03.326 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 19
+21/09/2014 09:16:03.326 - ResponseLog] - [FINE] - 1 (12, 12) wants to move RIGHT
+21/09/2014 09:16:03.421 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 20
+21/09/2014 09:16:03.421 - ResponseLog] - [FINE] - 0 (3, 8) wants to move RIGHT
+21/09/2014 09:16:03.422 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 20
+21/09/2014 09:16:03.422 - ResponseLog] - [FINE] - 1 (13, 12) wants to move RIGHT
+21/09/2014 09:16:03.533 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 21
+21/09/2014 09:16:03.534 - ResponseLog] - [FINE] - 0 (4, 8) wants to move RIGHT
+21/09/2014 09:16:03.534 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 21
+21/09/2014 09:16:03.534 - ResponseLog] - [FINE] - 1 (14, 12) wants to move RIGHT
+21/09/2014 09:16:03.651 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 22
+21/09/2014 09:16:03.652 - ResponseLog] - [FINE] - 0 (5, 8) wants to move RIGHT
+21/09/2014 09:16:03.652 - ResponseLog] - [FINE] - greedy responded with move ACTIVATE_POWERUP_MOVE_RIGHT for turn 22
+21/09/2014 09:16:03.652 - ResponseLog] - [FINE] - 1 (15, 12) wants to move RIGHT
+21/09/2014 09:16:03.726 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 23
+21/09/2014 09:16:03.727 - ResponseLog] - [FINE] - 0 (6, 8) wants to move UP
+21/09/2014 09:16:03.727 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 23
+21/09/2014 09:16:03.727 - ResponseLog] - [FINE] - 1 (16, 12) wants to move RIGHT
+21/09/2014 09:16:03.800 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 24
+21/09/2014 09:16:03.800 - ResponseLog] - [FINE] - 0 (6, 7) wants to move LEFT
+21/09/2014 09:16:03.801 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 24
+21/09/2014 09:16:03.801 - ResponseLog] - [FINE] - 1 (17, 12) wants to move RIGHT
+21/09/2014 09:16:03.875 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 25
+21/09/2014 09:16:03.876 - ResponseLog] - [FINE] - 0 (5, 7) wants to move UP
+21/09/2014 09:16:03.876 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 25
+21/09/2014 09:16:03.877 - ResponseLog] - [FINE] - 1 (18, 12) wants to move RIGHT
+21/09/2014 09:16:03.956 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 26
+21/09/2014 09:16:03.957 - ResponseLog] - [FINE] - 0 (5, 6) wants to move RIGHT
+21/09/2014 09:16:03.957 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 26
+21/09/2014 09:16:03.958 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 09:16:04.047 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 27
+21/09/2014 09:16:04.047 - ResponseLog] - [FINE] - 0 (6, 6) wants to move RIGHT
+21/09/2014 09:16:04.048 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 27
+21/09/2014 09:16:04.048 - ResponseLog] - [FINE] - 1 (19, 13) wants to move LEFT
+21/09/2014 09:16:04.110 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 28
+21/09/2014 09:16:04.111 - ResponseLog] - [FINE] - 0 (7, 6) wants to move RIGHT
+21/09/2014 09:16:04.111 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 28
+21/09/2014 09:16:04.111 - ResponseLog] - [FINE] - 1 (18, 13) wants to move LEFT
+21/09/2014 09:16:04.191 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 29
+21/09/2014 09:16:04.192 - ResponseLog] - [FINE] - 0 (8, 6) wants to move UP
+21/09/2014 09:16:04.192 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 29
+21/09/2014 09:16:04.193 - ResponseLog] - [FINE] - 1 (17, 13) wants to move LEFT
+21/09/2014 09:16:04.275 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 30
+21/09/2014 09:16:04.276 - ResponseLog] - [FINE] - 0 (8, 5) wants to move RIGHT
+21/09/2014 09:16:04.276 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 30
+21/09/2014 09:16:04.276 - ResponseLog] - [FINE] - 1 (16, 13) wants to move LEFT
+21/09/2014 09:16:04.372 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 31
+21/09/2014 09:16:04.372 - ResponseLog] - [FINE] - 0 (9, 5) wants to move UP
+21/09/2014 09:16:04.373 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 31
+21/09/2014 09:16:04.373 - ResponseLog] - [FINE] - 1 (15, 13) wants to move LEFT
+21/09/2014 09:16:04.469 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 32
+21/09/2014 09:16:04.470 - ResponseLog] - [FINE] - 0 (9, 4) wants to move LEFT
+21/09/2014 09:16:04.470 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 32
+21/09/2014 09:16:04.471 - ResponseLog] - [FINE] - 1 (14, 13) wants to move LEFT
+21/09/2014 09:16:04.539 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 33
+21/09/2014 09:16:04.540 - ResponseLog] - [FINE] - 0 (8, 4) wants to move LEFT
+21/09/2014 09:16:04.540 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 33
+21/09/2014 09:16:04.540 - ResponseLog] - [FINE] - 1 (13, 13) wants to move LEFT
+21/09/2014 09:16:04.602 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 34
+21/09/2014 09:16:04.602 - ResponseLog] - [FINE] - 0 (7, 4) wants to move LEFT
+21/09/2014 09:16:04.603 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 34
+21/09/2014 09:16:04.603 - ResponseLog] - [FINE] - 1 (12, 13) wants to move LEFT
+21/09/2014 09:16:04.676 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 35
+21/09/2014 09:16:04.677 - ResponseLog] - [FINE] - 0 (6, 4) wants to move LEFT
+21/09/2014 09:16:04.677 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 35
+21/09/2014 09:16:04.678 - ResponseLog] - [FINE] - 1 (11, 13) wants to move LEFT
+21/09/2014 09:16:04.758 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 36
+21/09/2014 09:16:04.759 - ResponseLog] - [FINE] - 0 (5, 4) wants to move LEFT
+21/09/2014 09:16:04.759 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 36
+21/09/2014 09:16:04.759 - ResponseLog] - [FINE] - 1 (10, 13) wants to move LEFT
+21/09/2014 09:16:04.839 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 37
+21/09/2014 09:16:04.840 - ResponseLog] - [FINE] - 0 (4, 4) wants to move LEFT
+21/09/2014 09:16:04.840 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 37
+21/09/2014 09:16:04.840 - ResponseLog] - [FINE] - 1 (9, 13) wants to move LEFT
+21/09/2014 09:16:04.925 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 38
+21/09/2014 09:16:04.925 - ResponseLog] - [FINE] - 0 (3, 4) wants to move LEFT
+21/09/2014 09:16:04.925 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 38
+21/09/2014 09:16:04.926 - ResponseLog] - [FINE] - 1 (8, 13) wants to move LEFT
+21/09/2014 09:16:05.017 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 39
+21/09/2014 09:16:05.017 - ResponseLog] - [FINE] - 0 (2, 4) wants to move UP
+21/09/2014 09:16:05.018 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 39
+21/09/2014 09:16:05.018 - ResponseLog] - [FINE] - 1 (7, 13) wants to move LEFT
+21/09/2014 09:16:05.108 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 40
+21/09/2014 09:16:05.109 - ResponseLog] - [FINE] - 0 (2, 3) wants to move UP
+21/09/2014 09:16:05.109 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 40
+21/09/2014 09:16:05.110 - ResponseLog] - [FINE] - 1 (6, 13) wants to move LEFT
+21/09/2014 09:16:05.196 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 41
+21/09/2014 09:16:05.197 - ResponseLog] - [FINE] - 0 (2, 2) wants to move RIGHT
+21/09/2014 09:16:05.197 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 41
+21/09/2014 09:16:05.198 - ResponseLog] - [FINE] - 1 (5, 13) wants to move LEFT
+21/09/2014 09:16:05.280 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 42
+21/09/2014 09:16:05.280 - ResponseLog] - [FINE] - 0 (3, 2) wants to move RIGHT
+21/09/2014 09:16:05.281 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 42
+21/09/2014 09:16:05.281 - ResponseLog] - [FINE] - 1 (4, 13) wants to move LEFT
+21/09/2014 09:16:05.369 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 43
+21/09/2014 09:16:05.370 - ResponseLog] - [FINE] - 0 (4, 2) wants to move RIGHT
+21/09/2014 09:16:05.371 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 43
+21/09/2014 09:16:05.371 - ResponseLog] - [FINE] - 1 (3, 13) wants to move LEFT
+21/09/2014 09:16:05.451 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 44
+21/09/2014 09:16:05.452 - ResponseLog] - [FINE] - 0 (5, 2) wants to move RIGHT
+21/09/2014 09:16:05.453 - ResponseLog] - [FINE] - greedy responded with move ACTIVATE_POWERUP_MOVE_LEFT for turn 44
+21/09/2014 09:16:05.453 - ResponseLog] - [FINE] - 1 (2, 13) wants to move LEFT
+21/09/2014 09:16:05.519 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 45
+21/09/2014 09:16:05.520 - ResponseLog] - [FINE] - 0 (6, 2) wants to move UP
+21/09/2014 09:16:05.520 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 45
+21/09/2014 09:16:05.520 - ResponseLog] - [FINE] - 1 (1, 13) wants to move UP
+21/09/2014 09:16:05.583 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 46
+21/09/2014 09:16:05.583 - ResponseLog] - [FINE] - 0 (6, 1) wants to move RIGHT
+21/09/2014 09:16:05.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 46
+21/09/2014 09:16:05.584 - ResponseLog] - [FINE] - 1 (1, 12) wants to move UP
+21/09/2014 09:16:05.646 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 47
+21/09/2014 09:16:05.647 - ResponseLog] - [FINE] - 0 (7, 1) wants to move RIGHT
+21/09/2014 09:16:05.647 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 47
+21/09/2014 09:16:05.648 - ResponseLog] - [FINE] - 1 (1, 11) wants to move UP
+21/09/2014 09:16:05.720 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 48
+21/09/2014 09:16:05.721 - ResponseLog] - [FINE] - 0 (8, 1) wants to move RIGHT
+21/09/2014 09:16:05.721 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 48
+21/09/2014 09:16:05.722 - ResponseLog] - [FINE] - 1 (1, 10) wants to move UP
+21/09/2014 09:16:05.797 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 49
+21/09/2014 09:16:05.828 - ResponseLog] - [FINE] - 0 (9, 1) wants to move DOWN
+21/09/2014 09:16:05.828 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 49
+21/09/2014 09:16:05.829 - ResponseLog] - [FINE] - 1 (1, 9) wants to move UP
+21/09/2014 09:16:05.885 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 50
+21/09/2014 09:16:05.886 - ResponseLog] - [FINE] - 0 (9, 2) wants to move RIGHT
+21/09/2014 09:16:05.887 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 50
+21/09/2014 09:16:05.887 - ResponseLog] - [FINE] - 1 (1, 8) wants to move UP
+21/09/2014 09:16:05.971 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 51
+21/09/2014 09:16:05.972 - ResponseLog] - [FINE] - 0 (10, 2) wants to move RIGHT
+21/09/2014 09:16:05.972 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 51
+21/09/2014 09:16:05.973 - ResponseLog] - [FINE] - 1 (1, 7) wants to move UP
+21/09/2014 09:16:06.050 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 52
+21/09/2014 09:16:06.051 - ResponseLog] - [FINE] - 0 (11, 2) wants to move RIGHT
+21/09/2014 09:16:06.051 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 52
+21/09/2014 09:16:06.052 - ResponseLog] - [FINE] - 1 (1, 6) wants to move UP
+21/09/2014 09:16:06.141 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 53
+21/09/2014 09:16:06.141 - ResponseLog] - [FINE] - 0 (12, 2) wants to move RIGHT
+21/09/2014 09:16:06.142 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 53
+21/09/2014 09:16:06.142 - ResponseLog] - [FINE] - 1 (1, 5) wants to move UP
+21/09/2014 09:16:06.235 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 54
+21/09/2014 09:16:06.235 - ResponseLog] - [FINE] - 0 (13, 2) wants to move RIGHT
+21/09/2014 09:16:06.236 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 54
+21/09/2014 09:16:06.236 - ResponseLog] - [FINE] - 1 (1, 4) wants to move UP
+21/09/2014 09:16:06.330 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 55
+21/09/2014 09:16:06.330 - ResponseLog] - [FINE] - 0 (14, 2) wants to move RIGHT
+21/09/2014 09:16:06.331 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 55
+21/09/2014 09:16:06.331 - ResponseLog] - [FINE] - 1 (1, 3) wants to move UP
+21/09/2014 09:16:06.426 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 56
+21/09/2014 09:16:06.427 - ResponseLog] - [FINE] - 0 (15, 2) wants to move RIGHT
+21/09/2014 09:16:06.427 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 56
+21/09/2014 09:16:06.427 - ResponseLog] - [FINE] - 1 (1, 2) wants to move UP
+21/09/2014 09:16:06.519 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 57
+21/09/2014 09:16:06.519 - ResponseLog] - [FINE] - 0 (16, 2) wants to move RIGHT
+21/09/2014 09:16:06.520 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 57
+21/09/2014 09:16:06.520 - ResponseLog] - [FINE] - 1 (1, 1) wants to move RIGHT
+21/09/2014 09:16:06.614 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 58
+21/09/2014 09:16:06.614 - ResponseLog] - [FINE] - 0 (17, 2) wants to move RIGHT
+21/09/2014 09:16:06.615 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 58
+21/09/2014 09:16:06.615 - ResponseLog] - [FINE] - 1 (2, 1) wants to move RIGHT
+21/09/2014 09:16:06.710 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 59
+21/09/2014 09:16:06.711 - ResponseLog] - [FINE] - 0 (18, 2) wants to move RIGHT
+21/09/2014 09:16:06.711 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 59
+21/09/2014 09:16:06.711 - ResponseLog] - [FINE] - 1 (3, 1) wants to move RIGHT
+21/09/2014 09:16:06.803 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 60
+21/09/2014 09:16:06.804 - ResponseLog] - [FINE] - 0 (19, 2) wants to move RIGHT
+21/09/2014 09:16:06.804 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 60
+21/09/2014 09:16:06.805 - ResponseLog] - [FINE] - 1 (4, 1) wants to move RIGHT
+21/09/2014 09:16:06.892 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_DOWN for turn 61
+21/09/2014 09:16:06.892 - ResponseLog] - [FINE] - 0 (20, 2) wants to move DOWN
+21/09/2014 09:16:06.892 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 61
+21/09/2014 09:16:06.893 - ResponseLog] - [FINE] - 1 (5, 1) wants to move RIGHT
+21/09/2014 09:16:06.990 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 62
+21/09/2014 09:16:06.991 - ResponseLog] - [FINE] - 0 (20, 3) wants to move DOWN
+21/09/2014 09:16:06.991 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 62
+21/09/2014 09:16:06.991 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.093 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 63
+21/09/2014 09:16:07.093 - ResponseLog] - [FINE] - 0 (20, 4) wants to move DOWN
+21/09/2014 09:16:07.094 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 63
+21/09/2014 09:16:07.094 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.200 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 64
+21/09/2014 09:16:07.201 - ResponseLog] - [FINE] - 0 (20, 5) wants to move LEFT
+21/09/2014 09:16:07.201 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 64
+21/09/2014 09:16:07.201 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.307 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 65
+21/09/2014 09:16:07.308 - ResponseLog] - [FINE] - 0 (19, 5) wants to move DOWN
+21/09/2014 09:16:07.308 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 65
+21/09/2014 09:16:07.309 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.425 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 66
+21/09/2014 09:16:07.425 - ResponseLog] - [FINE] - 0 (19, 6) wants to move LEFT
+21/09/2014 09:16:07.426 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 66
+21/09/2014 09:16:07.426 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.525 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 67
+21/09/2014 09:16:07.525 - ResponseLog] - [FINE] - 0 (18, 6) wants to move DOWN
+21/09/2014 09:16:07.526 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 67
+21/09/2014 09:16:07.526 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.644 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 68
+21/09/2014 09:16:07.645 - ResponseLog] - [FINE] - 0 (18, 7) wants to move LEFT
+21/09/2014 09:16:07.645 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 68
+21/09/2014 09:16:07.645 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.740 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 69
+21/09/2014 09:16:07.740 - ResponseLog] - [FINE] - 0 (17, 7) wants to move DOWN
+21/09/2014 09:16:07.741 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 69
+21/09/2014 09:16:07.741 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.850 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 70
+21/09/2014 09:16:07.850 - ResponseLog] - [FINE] - 0 (17, 8) wants to move LEFT
+21/09/2014 09:16:07.850 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 70
+21/09/2014 09:16:07.851 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:07.935 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 71
+21/09/2014 09:16:07.936 - ResponseLog] - [FINE] - 0 (16, 8) wants to move LEFT
+21/09/2014 09:16:07.936 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 71
+21/09/2014 09:16:07.936 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.031 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 72
+21/09/2014 09:16:08.031 - ResponseLog] - [FINE] - 0 (15, 8) wants to move LEFT
+21/09/2014 09:16:08.032 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 72
+21/09/2014 09:16:08.032 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.131 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 73
+21/09/2014 09:16:08.131 - ResponseLog] - [FINE] - 0 (14, 8) wants to move DOWN
+21/09/2014 09:16:08.131 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 73
+21/09/2014 09:16:08.132 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.219 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 74
+21/09/2014 09:16:08.220 - ResponseLog] - [FINE] - 0 (14, 9) wants to move LEFT
+21/09/2014 09:16:08.220 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 74
+21/09/2014 09:16:08.221 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.307 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 75
+21/09/2014 09:16:08.308 - ResponseLog] - [FINE] - 0 (13, 9) wants to move LEFT
+21/09/2014 09:16:08.308 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 75
+21/09/2014 09:16:08.309 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.401 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 76
+21/09/2014 09:16:08.402 - ResponseLog] - [FINE] - 0 (12, 9) wants to move LEFT
+21/09/2014 09:16:08.402 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 76
+21/09/2014 09:16:08.402 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.487 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 77
+21/09/2014 09:16:08.487 - ResponseLog] - [FINE] - 0 (11, 9) wants to move LEFT
+21/09/2014 09:16:08.488 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 77
+21/09/2014 09:16:08.488 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.577 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 78
+21/09/2014 09:16:08.578 - ResponseLog] - [FINE] - 0 (10, 9) wants to move LEFT
+21/09/2014 09:16:08.578 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 78
+21/09/2014 09:16:08.579 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.666 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 79
+21/09/2014 09:16:08.666 - ResponseLog] - [FINE] - 0 (9, 9) wants to move DOWN
+21/09/2014 09:16:08.667 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 79
+21/09/2014 09:16:08.667 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.729 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 80
+21/09/2014 09:16:08.730 - ResponseLog] - [FINE] - 0 (9, 10) wants to move RIGHT
+21/09/2014 09:16:08.730 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 80
+21/09/2014 09:16:08.731 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.786 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 81
+21/09/2014 09:16:08.786 - ResponseLog] - [FINE] - 0 (10, 10) wants to move RIGHT
+21/09/2014 09:16:08.787 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 81
+21/09/2014 09:16:08.787 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.844 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 82
+21/09/2014 09:16:08.844 - ResponseLog] - [FINE] - 0 (11, 10) wants to move RIGHT
+21/09/2014 09:16:08.845 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 82
+21/09/2014 09:16:08.845 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.902 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 83
+21/09/2014 09:16:08.902 - ResponseLog] - [FINE] - 0 (12, 10) wants to move RIGHT
+21/09/2014 09:16:08.903 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 83
+21/09/2014 09:16:08.903 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:08.960 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 84
+21/09/2014 09:16:08.960 - ResponseLog] - [FINE] - 0 (13, 10) wants to move RIGHT
+21/09/2014 09:16:08.961 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 84
+21/09/2014 09:16:08.961 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.017 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 85
+21/09/2014 09:16:09.018 - ResponseLog] - [FINE] - 0 (14, 10) wants to move RIGHT
+21/09/2014 09:16:09.018 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 85
+21/09/2014 09:16:09.019 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.074 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 86
+21/09/2014 09:16:09.074 - ResponseLog] - [FINE] - 0 (15, 10) wants to move UP
+21/09/2014 09:16:09.075 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 86
+21/09/2014 09:16:09.075 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.131 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 87
+21/09/2014 09:16:09.132 - ResponseLog] - [FINE] - 0 (15, 9) wants to move RIGHT
+21/09/2014 09:16:09.132 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 87
+21/09/2014 09:16:09.133 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.196 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 88
+21/09/2014 09:16:09.196 - ResponseLog] - [FINE] - 0 (16, 9) wants to move RIGHT
+21/09/2014 09:16:09.197 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 88
+21/09/2014 09:16:09.197 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.272 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 89
+21/09/2014 09:16:09.273 - ResponseLog] - [FINE] - 0 (17, 9) wants to move RIGHT
+21/09/2014 09:16:09.273 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 89
+21/09/2014 09:16:09.273 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.354 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 90
+21/09/2014 09:16:09.355 - ResponseLog] - [FINE] - 0 (18, 9) wants to move RIGHT
+21/09/2014 09:16:09.355 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 90
+21/09/2014 09:16:09.356 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.444 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 91
+21/09/2014 09:16:09.445 - ResponseLog] - [FINE] - 0 (19, 9) wants to move RIGHT
+21/09/2014 09:16:09.445 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 91
+21/09/2014 09:16:09.446 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.536 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_DOWN for turn 92
+21/09/2014 09:16:09.536 - ResponseLog] - [FINE] - 0 (20, 9) wants to move DOWN
+21/09/2014 09:16:09.537 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 92
+21/09/2014 09:16:09.538 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.615 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 93
+21/09/2014 09:16:09.615 - ResponseLog] - [FINE] - 0 (20, 10) wants to move DOWN
+21/09/2014 09:16:09.615 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 93
+21/09/2014 09:16:09.616 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.676 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 94
+21/09/2014 09:16:09.676 - ResponseLog] - [FINE] - 0 (20, 11) wants to move RIGHT
+21/09/2014 09:16:09.677 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 94
+21/09/2014 09:16:09.677 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.740 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 95
+21/09/2014 09:16:09.740 - ResponseLog] - [FINE] - 0 (21, 11) wants to move DOWN
+21/09/2014 09:16:09.741 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 95
+21/09/2014 09:16:09.741 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.803 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 96
+21/09/2014 09:16:09.817 - ResponseLog] - [FINE] - 0 (21, 12) wants to move DOWN
+21/09/2014 09:16:09.818 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 96
+21/09/2014 09:16:09.818 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.876 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 97
+21/09/2014 09:16:09.876 - ResponseLog] - [FINE] - 0 (21, 13) wants to move DOWN
+21/09/2014 09:16:09.877 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 97
+21/09/2014 09:16:09.878 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:09.954 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 98
+21/09/2014 09:16:09.954 - ResponseLog] - [FINE] - 0 (21, 14) wants to move DOWN
+21/09/2014 09:16:09.955 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 98
+21/09/2014 09:16:09.955 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.035 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 99
+21/09/2014 09:16:10.036 - ResponseLog] - [FINE] - 0 (21, 15) wants to move LEFT
+21/09/2014 09:16:10.036 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 99
+21/09/2014 09:16:10.036 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.127 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_LEFT for turn 100
+21/09/2014 09:16:10.128 - ResponseLog] - [FINE] - 0 (20, 15) wants to move LEFT
+21/09/2014 09:16:10.128 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 100
+21/09/2014 09:16:10.129 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.234 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 101
+21/09/2014 09:16:10.234 - ResponseLog] - [FINE] - 0 (19, 15) wants to move LEFT
+21/09/2014 09:16:10.235 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 101
+21/09/2014 09:16:10.235 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.343 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 102
+21/09/2014 09:16:10.344 - ResponseLog] - [FINE] - 0 (18, 15) wants to move LEFT
+21/09/2014 09:16:10.344 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 102
+21/09/2014 09:16:10.345 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.451 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 103
+21/09/2014 09:16:10.451 - ResponseLog] - [FINE] - 0 (17, 15) wants to move LEFT
+21/09/2014 09:16:10.451 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 103
+21/09/2014 09:16:10.452 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.554 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 104
+21/09/2014 09:16:10.554 - ResponseLog] - [FINE] - 0 (16, 15) wants to move LEFT
+21/09/2014 09:16:10.554 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 104
+21/09/2014 09:16:10.555 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.641 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 105
+21/09/2014 09:16:10.642 - ResponseLog] - [FINE] - 0 (15, 15) wants to move UP
+21/09/2014 09:16:10.642 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 105
+21/09/2014 09:16:10.643 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.710 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 106
+21/09/2014 09:16:10.711 - ResponseLog] - [FINE] - 0 (15, 14) wants to move LEFT
+21/09/2014 09:16:10.711 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 106
+21/09/2014 09:16:10.712 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.777 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 107
+21/09/2014 09:16:10.778 - ResponseLog] - [FINE] - 0 (14, 14) wants to move LEFT
+21/09/2014 09:16:10.778 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 107
+21/09/2014 09:16:10.779 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.858 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 108
+21/09/2014 09:16:10.859 - ResponseLog] - [FINE] - 0 (13, 14) wants to move LEFT
+21/09/2014 09:16:10.859 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 108
+21/09/2014 09:16:10.859 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.932 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 109
+21/09/2014 09:16:10.933 - ResponseLog] - [FINE] - 0 (12, 14) wants to move LEFT
+21/09/2014 09:16:10.933 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 109
+21/09/2014 09:16:10.934 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:10.996 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 110
+21/09/2014 09:16:10.997 - ResponseLog] - [FINE] - 0 (11, 14) wants to move LEFT
+21/09/2014 09:16:10.997 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 110
+21/09/2014 09:16:10.998 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.066 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 111
+21/09/2014 09:16:11.066 - ResponseLog] - [FINE] - 0 (10, 14) wants to move LEFT
+21/09/2014 09:16:11.066 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 111
+21/09/2014 09:16:11.067 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.143 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 112
+21/09/2014 09:16:11.144 - ResponseLog] - [FINE] - 0 (9, 14) wants to move LEFT
+21/09/2014 09:16:11.145 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 112
+21/09/2014 09:16:11.145 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.225 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 113
+21/09/2014 09:16:11.226 - ResponseLog] - [FINE] - 0 (8, 14) wants to move DOWN
+21/09/2014 09:16:11.226 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 113
+21/09/2014 09:16:11.226 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.320 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 114
+21/09/2014 09:16:11.321 - ResponseLog] - [FINE] - 0 (8, 15) wants to move LEFT
+21/09/2014 09:16:11.321 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 114
+21/09/2014 09:16:11.321 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.400 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 115
+21/09/2014 09:16:11.401 - ResponseLog] - [FINE] - 0 (7, 15) wants to move LEFT
+21/09/2014 09:16:11.401 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 115
+21/09/2014 09:16:11.402 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.478 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 116
+21/09/2014 09:16:11.479 - ResponseLog] - [FINE] - 0 (6, 15) wants to move LEFT
+21/09/2014 09:16:11.479 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 116
+21/09/2014 09:16:11.480 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.568 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 117
+21/09/2014 09:16:11.569 - ResponseLog] - [FINE] - 0 (5, 15) wants to move LEFT
+21/09/2014 09:16:11.569 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 117
+21/09/2014 09:16:11.569 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.660 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 118
+21/09/2014 09:16:11.661 - ResponseLog] - [FINE] - 0 (4, 15) wants to move LEFT
+21/09/2014 09:16:11.661 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 118
+21/09/2014 09:16:11.661 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.752 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 119
+21/09/2014 09:16:11.753 - ResponseLog] - [FINE] - 0 (3, 15) wants to move LEFT
+21/09/2014 09:16:11.753 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 119
+21/09/2014 09:16:11.754 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.838 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 120
+21/09/2014 09:16:11.839 - ResponseLog] - [FINE] - 0 (2, 15) wants to move DOWN
+21/09/2014 09:16:11.839 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 120
+21/09/2014 09:16:11.839 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:11.928 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 121
+21/09/2014 09:16:11.929 - ResponseLog] - [FINE] - 0 (2, 16) wants to move DOWN
+21/09/2014 09:16:11.929 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 121
+21/09/2014 09:16:11.929 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.019 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 122
+21/09/2014 09:16:12.020 - ResponseLog] - [FINE] - 0 (2, 17) wants to move DOWN
+21/09/2014 09:16:12.020 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 122
+21/09/2014 09:16:12.021 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.118 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 123
+21/09/2014 09:16:12.118 - ResponseLog] - [FINE] - 0 (2, 18) wants to move DOWN
+21/09/2014 09:16:12.119 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 123
+21/09/2014 09:16:12.119 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.210 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 124
+21/09/2014 09:16:12.211 - ResponseLog] - [FINE] - 0 (2, 19) wants to move DOWN
+21/09/2014 09:16:12.211 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 124
+21/09/2014 09:16:12.211 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.297 - ResponseLog] - [FINE] - arkady responded with move ACTIVATE_POWERUP_MOVE_RIGHT for turn 125
+21/09/2014 09:16:12.298 - ResponseLog] - [FINE] - 0 (2, 20) wants to move RIGHT
+21/09/2014 09:16:12.299 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 125
+21/09/2014 09:16:12.300 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.393 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 126
+21/09/2014 09:16:12.394 - ResponseLog] - [FINE] - 0 (3, 20) wants to move UP
+21/09/2014 09:16:12.394 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 126
+21/09/2014 09:16:12.395 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.479 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 127
+21/09/2014 09:16:12.479 - ResponseLog] - [FINE] - 0 (3, 19) wants to move UP
+21/09/2014 09:16:12.480 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 127
+21/09/2014 09:16:12.480 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.566 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 128
+21/09/2014 09:16:12.567 - ResponseLog] - [FINE] - 0 (3, 18) wants to move UP
+21/09/2014 09:16:12.567 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 128
+21/09/2014 09:16:12.567 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.646 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 129
+21/09/2014 09:16:12.646 - ResponseLog] - [FINE] - 0 (3, 17) wants to move UP
+21/09/2014 09:16:12.647 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 129
+21/09/2014 09:16:12.647 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.711 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 130
+21/09/2014 09:16:12.712 - ResponseLog] - [FINE] - 0 (3, 16) wants to move RIGHT
+21/09/2014 09:16:12.712 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 130
+21/09/2014 09:16:12.713 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.784 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 131
+21/09/2014 09:16:12.785 - ResponseLog] - [FINE] - 0 (4, 16) wants to move RIGHT
+21/09/2014 09:16:12.785 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 131
+21/09/2014 09:16:12.785 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.858 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 132
+21/09/2014 09:16:12.858 - ResponseLog] - [FINE] - 0 (5, 16) wants to move DOWN
+21/09/2014 09:16:12.859 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 132
+21/09/2014 09:16:12.859 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:12.955 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 133
+21/09/2014 09:16:12.956 - ResponseLog] - [FINE] - 0 (5, 17) wants to move RIGHT
+21/09/2014 09:16:12.956 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 133
+21/09/2014 09:16:12.957 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.048 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 134
+21/09/2014 09:16:13.049 - ResponseLog] - [FINE] - 0 (6, 17) wants to move RIGHT
+21/09/2014 09:16:13.049 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 134
+21/09/2014 09:16:13.050 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.136 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 135
+21/09/2014 09:16:13.136 - ResponseLog] - [FINE] - 0 (7, 17) wants to move RIGHT
+21/09/2014 09:16:13.136 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 135
+21/09/2014 09:16:13.137 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.226 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 136
+21/09/2014 09:16:13.226 - ResponseLog] - [FINE] - 0 (8, 17) wants to move DOWN
+21/09/2014 09:16:13.227 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 136
+21/09/2014 09:16:13.227 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.319 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 137
+21/09/2014 09:16:13.319 - ResponseLog] - [FINE] - 0 (8, 18) wants to move RIGHT
+21/09/2014 09:16:13.320 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 137
+21/09/2014 09:16:13.320 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.409 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 138
+21/09/2014 09:16:13.409 - ResponseLog] - [FINE] - 0 (9, 18) wants to move RIGHT
+21/09/2014 09:16:13.409 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 138
+21/09/2014 09:16:13.410 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.491 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 139
+21/09/2014 09:16:13.492 - ResponseLog] - [FINE] - 0 (10, 18) wants to move DOWN
+21/09/2014 09:16:13.492 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 139
+21/09/2014 09:16:13.492 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.570 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 140
+21/09/2014 09:16:13.570 - ResponseLog] - [FINE] - 0 (10, 19) wants to move DOWN
+21/09/2014 09:16:13.571 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 140
+21/09/2014 09:16:13.571 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.655 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 141
+21/09/2014 09:16:13.656 - ResponseLog] - [FINE] - 0 (10, 20) wants to move LEFT
+21/09/2014 09:16:13.656 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 141
+21/09/2014 09:16:13.656 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.735 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 142
+21/09/2014 09:16:13.736 - ResponseLog] - [FINE] - 0 (9, 20) wants to move LEFT
+21/09/2014 09:16:13.736 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 142
+21/09/2014 09:16:13.737 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.822 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 143
+21/09/2014 09:16:13.822 - ResponseLog] - [FINE] - 0 (8, 20) wants to move LEFT
+21/09/2014 09:16:13.823 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 143
+21/09/2014 09:16:13.823 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:13.914 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 144
+21/09/2014 09:16:13.915 - ResponseLog] - [FINE] - 0 (7, 20) wants to move LEFT
+21/09/2014 09:16:13.915 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 144
+21/09/2014 09:16:13.916 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.003 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 145
+21/09/2014 09:16:14.004 - ResponseLog] - [FINE] - 0 (6, 20) wants to move LEFT
+21/09/2014 09:16:14.004 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 145
+21/09/2014 09:16:14.005 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.094 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 146
+21/09/2014 09:16:14.095 - ResponseLog] - [FINE] - 0 (5, 20) wants to move UP
+21/09/2014 09:16:14.095 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 146
+21/09/2014 09:16:14.095 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.178 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 147
+21/09/2014 09:16:14.178 - ResponseLog] - [FINE] - 0 (5, 19) wants to move RIGHT
+21/09/2014 09:16:14.179 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 147
+21/09/2014 09:16:14.179 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.247 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 148
+21/09/2014 09:16:14.248 - ResponseLog] - [FINE] - 0 (6, 19) wants to move UP
+21/09/2014 09:16:14.248 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 148
+21/09/2014 09:16:14.249 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.311 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 149
+21/09/2014 09:16:14.311 - ResponseLog] - [FINE] - 0 (6, 18) wants to move LEFT
+21/09/2014 09:16:14.312 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 149
+21/09/2014 09:16:14.312 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.373 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 150
+21/09/2014 09:16:14.373 - ResponseLog] - [FINE] - 0 (5, 18) wants to move LEFT
+21/09/2014 09:16:14.374 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 150
+21/09/2014 09:16:14.374 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.432 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 151
+21/09/2014 09:16:14.432 - ResponseLog] - [FINE] - 0 (4, 18) wants to move DOWN
+21/09/2014 09:16:14.433 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 151
+21/09/2014 09:16:14.433 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.490 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 152
+21/09/2014 09:16:14.490 - ResponseLog] - [FINE] - 0 (4, 19) wants to move DOWN
+21/09/2014 09:16:14.490 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 152
+21/09/2014 09:16:14.491 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.551 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 153
+21/09/2014 09:16:14.552 - ResponseLog] - [FINE] - 0 (4, 20) wants to move DOWN
+21/09/2014 09:16:14.553 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 153
+21/09/2014 09:16:14.553 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.613 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 154
+21/09/2014 09:16:14.614 - ResponseLog] - [FINE] - 0 (4, 21) wants to move RIGHT
+21/09/2014 09:16:14.614 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 154
+21/09/2014 09:16:14.615 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.670 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 155
+21/09/2014 09:16:14.671 - ResponseLog] - [FINE] - 0 (5, 21) wants to move RIGHT
+21/09/2014 09:16:14.671 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 155
+21/09/2014 09:16:14.671 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.727 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 156
+21/09/2014 09:16:14.727 - ResponseLog] - [FINE] - 0 (6, 21) wants to move RIGHT
+21/09/2014 09:16:14.728 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 156
+21/09/2014 09:16:14.728 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.784 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 157
+21/09/2014 09:16:14.784 - ResponseLog] - [FINE] - 0 (7, 21) wants to move RIGHT
+21/09/2014 09:16:14.785 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 157
+21/09/2014 09:16:14.785 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.840 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 158
+21/09/2014 09:16:14.841 - ResponseLog] - [FINE] - 0 (8, 21) wants to move RIGHT
+21/09/2014 09:16:14.841 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 158
+21/09/2014 09:16:14.842 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.896 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 159
+21/09/2014 09:16:14.896 - ResponseLog] - [FINE] - 0 (9, 21) wants to move RIGHT
+21/09/2014 09:16:14.897 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 159
+21/09/2014 09:16:14.897 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:14.960 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 160
+21/09/2014 09:16:14.961 - ResponseLog] - [FINE] - 0 (10, 21) wants to move RIGHT
+21/09/2014 09:16:14.961 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 160
+21/09/2014 09:16:14.961 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.028 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 161
+21/09/2014 09:16:15.028 - ResponseLog] - [FINE] - 0 (11, 21) wants to move RIGHT
+21/09/2014 09:16:15.029 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 161
+21/09/2014 09:16:15.029 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.104 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 162
+21/09/2014 09:16:15.105 - ResponseLog] - [FINE] - 0 (12, 21) wants to move RIGHT
+21/09/2014 09:16:15.105 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 162
+21/09/2014 09:16:15.106 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.178 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 163
+21/09/2014 09:16:15.179 - ResponseLog] - [FINE] - 0 (13, 21) wants to move UP
+21/09/2014 09:16:15.179 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 163
+21/09/2014 09:16:15.180 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.263 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 164
+21/09/2014 09:16:15.263 - ResponseLog] - [FINE] - 0 (13, 20) wants to move UP
+21/09/2014 09:16:15.263 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 164
+21/09/2014 09:16:15.264 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.346 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 165
+21/09/2014 09:16:15.347 - ResponseLog] - [FINE] - 0 (13, 19) wants to move UP
+21/09/2014 09:16:15.347 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 165
+21/09/2014 09:16:15.348 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.439 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 166
+21/09/2014 09:16:15.440 - ResponseLog] - [FINE] - 0 (13, 18) wants to move UP
+21/09/2014 09:16:15.440 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 166
+21/09/2014 09:16:15.441 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.538 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 167
+21/09/2014 09:16:15.538 - ResponseLog] - [FINE] - 0 (13, 17) wants to move LEFT
+21/09/2014 09:16:15.538 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 167
+21/09/2014 09:16:15.539 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.665 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 168
+21/09/2014 09:16:15.666 - ResponseLog] - [FINE] - 0 (12, 17) wants to move DOWN
+21/09/2014 09:16:15.666 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 168
+21/09/2014 09:16:15.667 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.727 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 169
+21/09/2014 09:16:15.727 - ResponseLog] - [FINE] - 0 (12, 18) wants to move LEFT
+21/09/2014 09:16:15.728 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 169
+21/09/2014 09:16:15.728 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.787 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 170
+21/09/2014 09:16:15.787 - ResponseLog] - [FINE] - 0 (11, 18) wants to move UP
+21/09/2014 09:16:15.788 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 170
+21/09/2014 09:16:15.788 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.856 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 171
+21/09/2014 09:16:15.857 - ResponseLog] - [FINE] - 0 (11, 17) wants to move UP
+21/09/2014 09:16:15.857 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 171
+21/09/2014 09:16:15.857 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.916 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 172
+21/09/2014 09:16:15.917 - ResponseLog] - [FINE] - 0 (11, 16) wants to move RIGHT
+21/09/2014 09:16:15.917 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 172
+21/09/2014 09:16:15.917 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:15.983 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 173
+21/09/2014 09:16:15.984 - ResponseLog] - [FINE] - 0 (12, 16) wants to move UP
+21/09/2014 09:16:15.984 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 173
+21/09/2014 09:16:15.985 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.040 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 174
+21/09/2014 09:16:16.041 - ResponseLog] - [FINE] - 0 (12, 15) wants to move RIGHT
+21/09/2014 09:16:16.041 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 174
+21/09/2014 09:16:16.041 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.098 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 175
+21/09/2014 09:16:16.099 - ResponseLog] - [FINE] - 0 (13, 15) wants to move DOWN
+21/09/2014 09:16:16.099 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 175
+21/09/2014 09:16:16.100 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.159 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 176
+21/09/2014 09:16:16.159 - ResponseLog] - [FINE] - 0 (13, 16) wants to move RIGHT
+21/09/2014 09:16:16.160 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 176
+21/09/2014 09:16:16.160 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.229 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 177
+21/09/2014 09:16:16.229 - ResponseLog] - [FINE] - 0 (14, 16) wants to move RIGHT
+21/09/2014 09:16:16.230 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 177
+21/09/2014 09:16:16.230 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.305 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 178
+21/09/2014 09:16:16.306 - ResponseLog] - [FINE] - 0 (15, 16) wants to move DOWN
+21/09/2014 09:16:16.306 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 178
+21/09/2014 09:16:16.307 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.392 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 179
+21/09/2014 09:16:16.393 - ResponseLog] - [FINE] - 0 (15, 17) wants to move RIGHT
+21/09/2014 09:16:16.393 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 179
+21/09/2014 09:16:16.394 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.476 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 180
+21/09/2014 09:16:16.477 - ResponseLog] - [FINE] - 0 (16, 17) wants to move RIGHT
+21/09/2014 09:16:16.477 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 180
+21/09/2014 09:16:16.478 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.564 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 181
+21/09/2014 09:16:16.564 - ResponseLog] - [FINE] - 0 (17, 17) wants to move RIGHT
+21/09/2014 09:16:16.564 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 181
+21/09/2014 09:16:16.565 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.653 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 182
+21/09/2014 09:16:16.654 - ResponseLog] - [FINE] - 0 (18, 17) wants to move RIGHT
+21/09/2014 09:16:16.654 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 182
+21/09/2014 09:16:16.655 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.741 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 183
+21/09/2014 09:16:16.742 - ResponseLog] - [FINE] - 0 (19, 17) wants to move RIGHT
+21/09/2014 09:16:16.742 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 183
+21/09/2014 09:16:16.742 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.827 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 184
+21/09/2014 09:16:16.827 - ResponseLog] - [FINE] - 0 (20, 17) wants to move DOWN
+21/09/2014 09:16:16.828 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 184
+21/09/2014 09:16:16.828 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:16.917 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 185
+21/09/2014 09:16:16.918 - ResponseLog] - [FINE] - 0 (20, 18) wants to move DOWN
+21/09/2014 09:16:16.918 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 185
+21/09/2014 09:16:16.918 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.007 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 186
+21/09/2014 09:16:17.007 - ResponseLog] - [FINE] - 0 (20, 19) wants to move LEFT
+21/09/2014 09:16:17.008 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 186
+21/09/2014 09:16:17.008 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.090 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 187
+21/09/2014 09:16:17.091 - ResponseLog] - [FINE] - 0 (19, 19) wants to move LEFT
+21/09/2014 09:16:17.092 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 187
+21/09/2014 09:16:17.092 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.177 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 188
+21/09/2014 09:16:17.178 - ResponseLog] - [FINE] - 0 (18, 19) wants to move LEFT
+21/09/2014 09:16:17.178 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 188
+21/09/2014 09:16:17.178 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.261 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 189
+21/09/2014 09:16:17.261 - ResponseLog] - [FINE] - 0 (17, 19) wants to move DOWN
+21/09/2014 09:16:17.262 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 189
+21/09/2014 09:16:17.262 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.345 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 190
+21/09/2014 09:16:17.345 - ResponseLog] - [FINE] - 0 (17, 20) wants to move LEFT
+21/09/2014 09:16:17.346 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 190
+21/09/2014 09:16:17.346 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.411 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 191
+21/09/2014 09:16:17.411 - ResponseLog] - [FINE] - 0 (16, 20) wants to move UP
+21/09/2014 09:16:17.412 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 191
+21/09/2014 09:16:17.412 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.470 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 192
+21/09/2014 09:16:17.470 - ResponseLog] - [FINE] - 0 (16, 19) wants to move UP
+21/09/2014 09:16:17.470 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 192
+21/09/2014 09:16:17.471 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.533 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 193
+21/09/2014 09:16:17.533 - ResponseLog] - [FINE] - 0 (16, 18) wants to move LEFT
+21/09/2014 09:16:17.533 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 193
+21/09/2014 09:16:17.534 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.595 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 194
+21/09/2014 09:16:17.595 - ResponseLog] - [FINE] - 0 (15, 18) wants to move LEFT
+21/09/2014 09:16:17.596 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 194
+21/09/2014 09:16:17.596 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.654 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 195
+21/09/2014 09:16:17.654 - ResponseLog] - [FINE] - 0 (14, 18) wants to move DOWN
+21/09/2014 09:16:17.655 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 195
+21/09/2014 09:16:17.655 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.710 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 196
+21/09/2014 09:16:17.711 - ResponseLog] - [FINE] - 0 (14, 19) wants to move DOWN
+21/09/2014 09:16:17.711 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 196
+21/09/2014 09:16:17.712 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.768 - ResponseLog] - [FINE] - arkady responded with move MOVE_DOWN for turn 197
+21/09/2014 09:16:17.769 - ResponseLog] - [FINE] - 0 (14, 20) wants to move DOWN
+21/09/2014 09:16:17.769 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 197
+21/09/2014 09:16:17.769 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.824 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 198
+21/09/2014 09:16:17.825 - ResponseLog] - [FINE] - 0 (14, 21) wants to move RIGHT
+21/09/2014 09:16:17.825 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 198
+21/09/2014 09:16:17.825 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.880 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 199
+21/09/2014 09:16:17.880 - ResponseLog] - [FINE] - 0 (15, 21) wants to move RIGHT
+21/09/2014 09:16:17.880 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 199
+21/09/2014 09:16:17.881 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.937 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 200
+21/09/2014 09:16:17.938 - ResponseLog] - [FINE] - 0 (16, 21) wants to move RIGHT
+21/09/2014 09:16:17.938 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 200
+21/09/2014 09:16:17.938 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:17.998 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 201
+21/09/2014 09:16:17.998 - ResponseLog] - [FINE] - 0 (17, 21) wants to move RIGHT
+21/09/2014 09:16:17.999 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 201
+21/09/2014 09:16:17.999 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.064 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 202
+21/09/2014 09:16:18.065 - ResponseLog] - [FINE] - 0 (18, 21) wants to move RIGHT
+21/09/2014 09:16:18.065 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 202
+21/09/2014 09:16:18.065 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.133 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 203
+21/09/2014 09:16:18.134 - ResponseLog] - [FINE] - 0 (19, 21) wants to move RIGHT
+21/09/2014 09:16:18.134 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 203
+21/09/2014 09:16:18.135 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.198 - ResponseLog] - [FINE] - arkady responded with move MOVE_RIGHT for turn 204
+21/09/2014 09:16:18.199 - ResponseLog] - [FINE] - 0 (20, 21) wants to move RIGHT
+21/09/2014 09:16:18.199 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 204
+21/09/2014 09:16:18.200 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.258 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 205
+21/09/2014 09:16:18.258 - ResponseLog] - [FINE] - 0 (21, 21) wants to move UP
+21/09/2014 09:16:18.259 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 205
+21/09/2014 09:16:18.259 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.319 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 206
+21/09/2014 09:16:18.319 - ResponseLog] - [FINE] - 0 (21, 20) wants to move UP
+21/09/2014 09:16:18.319 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 206
+21/09/2014 09:16:18.320 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.375 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 207
+21/09/2014 09:16:18.376 - ResponseLog] - [FINE] - 0 (21, 19) wants to move UP
+21/09/2014 09:16:18.376 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 207
+21/09/2014 09:16:18.377 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.432 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 208
+21/09/2014 09:16:18.432 - ResponseLog] - [FINE] - 0 (21, 18) wants to move UP
+21/09/2014 09:16:18.433 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 208
+21/09/2014 09:16:18.433 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.488 - ResponseLog] - [FINE] - arkady responded with move MOVE_UP for turn 209
+21/09/2014 09:16:18.489 - ResponseLog] - [FINE] - 0 (21, 17) wants to move UP
+21/09/2014 09:16:18.489 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 209
+21/09/2014 09:16:18.489 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.545 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 210
+21/09/2014 09:16:18.546 - ResponseLog] - [FINE] - 0 (21, 16) wants to move LEFT
+21/09/2014 09:16:18.546 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 210
+21/09/2014 09:16:18.546 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.603 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 211
+21/09/2014 09:16:18.603 - ResponseLog] - [FINE] - 0 (20, 16) wants to move LEFT
+21/09/2014 09:16:18.603 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 211
+21/09/2014 09:16:18.604 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.659 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 212
+21/09/2014 09:16:18.660 - ResponseLog] - [FINE] - 0 (19, 16) wants to move LEFT
+21/09/2014 09:16:18.660 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 212
+21/09/2014 09:16:18.660 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.715 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 213
+21/09/2014 09:16:18.715 - ResponseLog] - [FINE] - 0 (18, 16) wants to move LEFT
+21/09/2014 09:16:18.716 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 213
+21/09/2014 09:16:18.716 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.768 - ResponseLog] - [FINE] - arkady responded with move MOVE_LEFT for turn 214
+21/09/2014 09:16:18.769 - ResponseLog] - [FINE] - 0 (17, 16) wants to move LEFT
+21/09/2014 09:16:18.769 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 214
+21/09/2014 09:16:18.769 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.819 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 215
+21/09/2014 09:16:18.820 - ResponseLog] - [FINE] - 0 (16, 16) wants to move LEFT
+21/09/2014 09:16:18.820 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 215
+21/09/2014 09:16:18.821 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 09:16:18.826 - GameLog] - [FINE] - Player greedy left
+21/09/2014 09:16:18.871 - GameLog] - [FINE] - Player arkady left
+21/09/2014 09:27:20.202 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\arkady.greedy_37.xml
+21/09/2014 09:27:29.189 - GameLog] - [FINE] - A new game is starting
+21/09/2014 09:27:29.353 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 1
+21/09/2014 09:27:29.353 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 09:27:29.354 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 1
+21/09/2014 09:27:29.354 - ResponseLog] - [FINE] - 1 (19, 11) wants to move LEFT
+21/09/2014 09:27:29.420 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 2
+21/09/2014 09:27:29.420 - ResponseLog] - [FINE] - 0 (4, 11) wants to move UP
+21/09/2014 09:27:29.421 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 2
+21/09/2014 09:27:29.421 - ResponseLog] - [FINE] - 1 (18, 11) wants to move LEFT
+21/09/2014 09:27:29.493 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 3
+21/09/2014 09:27:29.493 - ResponseLog] - [FINE] - 0 (4, 10) wants to move UP
+21/09/2014 09:27:29.493 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 3
+21/09/2014 09:27:29.494 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 09:27:29.560 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 4
+21/09/2014 09:27:29.561 - ResponseLog] - [FINE] - 0 (4, 9) wants to move LEFT
+21/09/2014 09:27:29.561 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 4
+21/09/2014 09:27:29.561 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 09:27:29.635 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 5
+21/09/2014 09:27:29.636 - ResponseLog] - [FINE] - 0 (3, 9) wants to move LEFT
+21/09/2014 09:27:29.636 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 5
+21/09/2014 09:27:29.636 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 09:27:29.704 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 6
+21/09/2014 09:27:29.705 - ResponseLog] - [FINE] - 0 (2, 9) wants to move LEFT
+21/09/2014 09:27:29.705 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 6
+21/09/2014 09:27:29.705 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 09:27:29.781 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 7
+21/09/2014 09:27:29.782 - ResponseLog] - [FINE] - 0 (1, 9) wants to move UP
+21/09/2014 09:27:29.783 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 7
+21/09/2014 09:27:29.783 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 09:27:29.879 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 8
+21/09/2014 09:27:29.880 - ResponseLog] - [FINE] - 0 (1, 8) wants to move UP
+21/09/2014 09:27:29.880 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 8
+21/09/2014 09:27:29.880 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 09:27:29.954 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 9
+21/09/2014 09:27:29.954 - ResponseLog] - [FINE] - 0 (1, 7) wants to move UP
+21/09/2014 09:27:29.955 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 9
+21/09/2014 09:27:29.955 - ResponseLog] - [FINE] - 1 (11, 11) wants to move LEFT
+21/09/2014 09:27:30.028 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 10
+21/09/2014 09:27:30.028 - ResponseLog] - [FINE] - 0 (1, 6) wants to move UP
+21/09/2014 09:27:30.028 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 10
+21/09/2014 09:27:30.029 - ResponseLog] - [FINE] - 1 (10, 11) wants to move LEFT
+21/09/2014 09:27:30.101 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 11
+21/09/2014 09:27:30.102 - ResponseLog] - [FINE] - 0 (1, 5) wants to move UP
+21/09/2014 09:27:30.102 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 11
+21/09/2014 09:27:30.103 - ResponseLog] - [FINE] - 1 (9, 11) wants to move LEFT
+21/09/2014 09:27:30.174 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 12
+21/09/2014 09:27:30.175 - ResponseLog] - [FINE] - 0 (1, 4) wants to move UP
+21/09/2014 09:27:30.175 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 12
+21/09/2014 09:27:30.176 - ResponseLog] - [FINE] - 1 (8, 11) wants to move LEFT
+21/09/2014 09:27:30.254 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 13
+21/09/2014 09:27:30.255 - ResponseLog] - [FINE] - 0 (1, 3) wants to move UP
+21/09/2014 09:27:30.255 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 13
+21/09/2014 09:27:30.255 - ResponseLog] - [FINE] - 1 (7, 11) wants to move LEFT
+21/09/2014 09:27:30.332 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 14
+21/09/2014 09:27:30.332 - ResponseLog] - [FINE] - 0 (1, 2) wants to move UP
+21/09/2014 09:27:30.333 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 14
+21/09/2014 09:27:30.333 - ResponseLog] - [FINE] - 1 (6, 11) wants to move LEFT
+21/09/2014 09:27:30.407 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 15
+21/09/2014 09:27:30.407 - ResponseLog] - [FINE] - 0 (1, 1) wants to move RIGHT
+21/09/2014 09:27:30.408 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 15
+21/09/2014 09:27:30.408 - ResponseLog] - [FINE] - 1 (5, 11) wants to move LEFT
+21/09/2014 09:27:30.482 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 16
+21/09/2014 09:27:30.482 - ResponseLog] - [FINE] - 0 (2, 1) wants to move RIGHT
+21/09/2014 09:27:30.483 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 16
+21/09/2014 09:27:30.483 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.562 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 17
+21/09/2014 09:27:30.562 - ResponseLog] - [FINE] - 0 (3, 1) wants to move RIGHT
+21/09/2014 09:27:30.563 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 17
+21/09/2014 09:27:30.563 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.634 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 18
+21/09/2014 09:27:30.635 - ResponseLog] - [FINE] - 0 (4, 1) wants to move RIGHT
+21/09/2014 09:27:30.635 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 18
+21/09/2014 09:27:30.635 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.705 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 19
+21/09/2014 09:27:30.706 - ResponseLog] - [FINE] - 0 (5, 1) wants to move RIGHT
+21/09/2014 09:27:30.706 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 19
+21/09/2014 09:27:30.706 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.778 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 20
+21/09/2014 09:27:30.779 - ResponseLog] - [FINE] - 0 (6, 1) wants to move RIGHT
+21/09/2014 09:27:30.779 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 20
+21/09/2014 09:27:30.780 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.854 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 21
+21/09/2014 09:27:30.855 - ResponseLog] - [FINE] - 0 (7, 1) wants to move RIGHT
+21/09/2014 09:27:30.855 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 21
+21/09/2014 09:27:30.855 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.924 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 22
+21/09/2014 09:27:30.925 - ResponseLog] - [FINE] - 0 (8, 1) wants to move RIGHT
+21/09/2014 09:27:30.925 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 22
+21/09/2014 09:27:30.925 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:30.993 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 23
+21/09/2014 09:27:30.994 - ResponseLog] - [FINE] - 0 (9, 1) wants to move RIGHT
+21/09/2014 09:27:30.994 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 23
+21/09/2014 09:27:30.994 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.063 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 24
+21/09/2014 09:27:31.064 - ResponseLog] - [FINE] - 0 (10, 1) wants to move RIGHT
+21/09/2014 09:27:31.064 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 24
+21/09/2014 09:27:31.064 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.138 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 25
+21/09/2014 09:27:31.138 - ResponseLog] - [FINE] - 0 (11, 1) wants to move RIGHT
+21/09/2014 09:27:31.139 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 25
+21/09/2014 09:27:31.139 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.211 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 26
+21/09/2014 09:27:31.212 - ResponseLog] - [FINE] - 0 (12, 1) wants to move RIGHT
+21/09/2014 09:27:31.212 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 26
+21/09/2014 09:27:31.212 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.282 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 27
+21/09/2014 09:27:31.282 - ResponseLog] - [FINE] - 0 (13, 1) wants to move RIGHT
+21/09/2014 09:27:31.283 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 27
+21/09/2014 09:27:31.283 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.353 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 28
+21/09/2014 09:27:31.354 - ResponseLog] - [FINE] - 0 (14, 1) wants to move RIGHT
+21/09/2014 09:27:31.354 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 28
+21/09/2014 09:27:31.354 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.423 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 29
+21/09/2014 09:27:31.424 - ResponseLog] - [FINE] - 0 (15, 1) wants to move RIGHT
+21/09/2014 09:27:31.424 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 29
+21/09/2014 09:27:31.424 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.494 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 30
+21/09/2014 09:27:31.494 - ResponseLog] - [FINE] - 0 (16, 1) wants to move RIGHT
+21/09/2014 09:27:31.495 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 30
+21/09/2014 09:27:31.495 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.565 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 31
+21/09/2014 09:27:31.565 - ResponseLog] - [FINE] - 0 (17, 1) wants to move RIGHT
+21/09/2014 09:27:31.565 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 31
+21/09/2014 09:27:31.566 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.641 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 32
+21/09/2014 09:27:31.642 - ResponseLog] - [FINE] - 0 (18, 1) wants to move RIGHT
+21/09/2014 09:27:31.642 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 32
+21/09/2014 09:27:31.642 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.712 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 33
+21/09/2014 09:27:31.712 - ResponseLog] - [FINE] - 0 (19, 1) wants to move RIGHT
+21/09/2014 09:27:31.713 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 33
+21/09/2014 09:27:31.713 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.863 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 34
+21/09/2014 09:27:31.863 - ResponseLog] - [FINE] - 0 (20, 1) wants to move RIGHT
+21/09/2014 09:27:31.864 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 34
+21/09/2014 09:27:31.864 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:31.933 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 35
+21/09/2014 09:27:31.933 - ResponseLog] - [FINE] - 0 (21, 1) wants to move DOWN
+21/09/2014 09:27:31.934 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 35
+21/09/2014 09:27:31.934 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.005 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 36
+21/09/2014 09:27:32.005 - ResponseLog] - [FINE] - 0 (21, 2) wants to move LEFT
+21/09/2014 09:27:32.005 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 36
+21/09/2014 09:27:32.006 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.079 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 37
+21/09/2014 09:27:32.079 - ResponseLog] - [FINE] - 0 (20, 2) wants to move LEFT
+21/09/2014 09:27:32.079 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 37
+21/09/2014 09:27:32.080 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.152 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 38
+21/09/2014 09:27:32.152 - ResponseLog] - [FINE] - 0 (19, 2) wants to move LEFT
+21/09/2014 09:27:32.153 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 38
+21/09/2014 09:27:32.153 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.224 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 39
+21/09/2014 09:27:32.224 - ResponseLog] - [FINE] - 0 (18, 2) wants to move LEFT
+21/09/2014 09:27:32.225 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 39
+21/09/2014 09:27:32.225 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.292 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 40
+21/09/2014 09:27:32.293 - ResponseLog] - [FINE] - 0 (17, 2) wants to move DOWN
+21/09/2014 09:27:32.293 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 40
+21/09/2014 09:27:32.294 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.362 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 41
+21/09/2014 09:27:32.363 - ResponseLog] - [FINE] - 0 (17, 3) wants to move LEFT
+21/09/2014 09:27:32.363 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 41
+21/09/2014 09:27:32.363 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.433 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 42
+21/09/2014 09:27:32.433 - ResponseLog] - [FINE] - 0 (16, 3) wants to move LEFT
+21/09/2014 09:27:32.434 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 42
+21/09/2014 09:27:32.434 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.502 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 43
+21/09/2014 09:27:32.502 - ResponseLog] - [FINE] - 0 (15, 3) wants to move LEFT
+21/09/2014 09:27:32.503 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 43
+21/09/2014 09:27:32.503 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.576 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 44
+21/09/2014 09:27:32.577 - ResponseLog] - [FINE] - 0 (14, 3) wants to move LEFT
+21/09/2014 09:27:32.577 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 44
+21/09/2014 09:27:32.578 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.649 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 45
+21/09/2014 09:27:32.650 - ResponseLog] - [FINE] - 0 (13, 3) wants to move LEFT
+21/09/2014 09:27:32.650 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 45
+21/09/2014 09:27:32.650 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.724 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 46
+21/09/2014 09:27:32.724 - ResponseLog] - [FINE] - 0 (12, 3) wants to move LEFT
+21/09/2014 09:27:32.724 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 46
+21/09/2014 09:27:32.725 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.794 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 47
+21/09/2014 09:27:32.795 - ResponseLog] - [FINE] - 0 (11, 3) wants to move LEFT
+21/09/2014 09:27:32.795 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 47
+21/09/2014 09:27:32.796 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.865 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 48
+21/09/2014 09:27:32.866 - ResponseLog] - [FINE] - 0 (10, 3) wants to move LEFT
+21/09/2014 09:27:32.866 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 48
+21/09/2014 09:27:32.866 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:32.936 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 49
+21/09/2014 09:27:32.937 - ResponseLog] - [FINE] - 0 (9, 3) wants to move LEFT
+21/09/2014 09:27:32.937 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 49
+21/09/2014 09:27:32.937 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.007 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 50
+21/09/2014 09:27:33.007 - ResponseLog] - [FINE] - 0 (8, 3) wants to move LEFT
+21/09/2014 09:27:33.008 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 50
+21/09/2014 09:27:33.008 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.079 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 51
+21/09/2014 09:27:33.080 - ResponseLog] - [FINE] - 0 (7, 3) wants to move LEFT
+21/09/2014 09:27:33.080 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 51
+21/09/2014 09:27:33.081 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.152 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 52
+21/09/2014 09:27:33.153 - ResponseLog] - [FINE] - 0 (6, 3) wants to move LEFT
+21/09/2014 09:27:33.153 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 52
+21/09/2014 09:27:33.153 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.223 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 53
+21/09/2014 09:27:33.224 - ResponseLog] - [FINE] - 0 (5, 3) wants to move LEFT
+21/09/2014 09:27:33.224 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 53
+21/09/2014 09:27:33.225 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.293 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 54
+21/09/2014 09:27:33.293 - ResponseLog] - [FINE] - 0 (4, 3) wants to move LEFT
+21/09/2014 09:27:33.293 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 54
+21/09/2014 09:27:33.294 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.364 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 55
+21/09/2014 09:27:33.364 - ResponseLog] - [FINE] - 0 (3, 3) wants to move LEFT
+21/09/2014 09:27:33.365 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 55
+21/09/2014 09:27:33.365 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.434 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 56
+21/09/2014 09:27:33.435 - ResponseLog] - [FINE] - 0 (2, 3) wants to move DOWN
+21/09/2014 09:27:33.435 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 56
+21/09/2014 09:27:33.436 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.505 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 57
+21/09/2014 09:27:33.506 - ResponseLog] - [FINE] - 0 (2, 4) wants to move RIGHT
+21/09/2014 09:27:33.506 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 57
+21/09/2014 09:27:33.507 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.576 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 58
+21/09/2014 09:27:33.576 - ResponseLog] - [FINE] - 0 (3, 4) wants to move RIGHT
+21/09/2014 09:27:33.577 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 58
+21/09/2014 09:27:33.577 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.646 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 59
+21/09/2014 09:27:33.646 - ResponseLog] - [FINE] - 0 (4, 4) wants to move RIGHT
+21/09/2014 09:27:33.647 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 59
+21/09/2014 09:27:33.647 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.716 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 60
+21/09/2014 09:27:33.716 - ResponseLog] - [FINE] - 0 (5, 4) wants to move RIGHT
+21/09/2014 09:27:33.716 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 60
+21/09/2014 09:27:33.717 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.805 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 61
+21/09/2014 09:27:33.806 - ResponseLog] - [FINE] - 0 (6, 4) wants to move RIGHT
+21/09/2014 09:27:33.807 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 61
+21/09/2014 09:27:33.807 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.876 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 62
+21/09/2014 09:27:33.877 - ResponseLog] - [FINE] - 0 (7, 4) wants to move RIGHT
+21/09/2014 09:27:33.877 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 62
+21/09/2014 09:27:33.877 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:33.947 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 63
+21/09/2014 09:27:33.947 - ResponseLog] - [FINE] - 0 (8, 4) wants to move RIGHT
+21/09/2014 09:27:33.948 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 63
+21/09/2014 09:27:33.948 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.019 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 64
+21/09/2014 09:27:34.020 - ResponseLog] - [FINE] - 0 (9, 4) wants to move RIGHT
+21/09/2014 09:27:34.020 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 64
+21/09/2014 09:27:34.021 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.087 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 65
+21/09/2014 09:27:34.087 - ResponseLog] - [FINE] - 0 (10, 4) wants to move RIGHT
+21/09/2014 09:27:34.088 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 65
+21/09/2014 09:27:34.088 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.157 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 66
+21/09/2014 09:27:34.158 - ResponseLog] - [FINE] - 0 (11, 4) wants to move RIGHT
+21/09/2014 09:27:34.158 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 66
+21/09/2014 09:27:34.159 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.228 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 67
+21/09/2014 09:27:34.228 - ResponseLog] - [FINE] - 0 (12, 4) wants to move RIGHT
+21/09/2014 09:27:34.229 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 67
+21/09/2014 09:27:34.229 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.299 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 68
+21/09/2014 09:27:34.299 - ResponseLog] - [FINE] - 0 (13, 4) wants to move RIGHT
+21/09/2014 09:27:34.299 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 68
+21/09/2014 09:27:34.300 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.369 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 69
+21/09/2014 09:27:34.370 - ResponseLog] - [FINE] - 0 (14, 4) wants to move RIGHT
+21/09/2014 09:27:34.370 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 69
+21/09/2014 09:27:34.371 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.443 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 70
+21/09/2014 09:27:34.443 - ResponseLog] - [FINE] - 0 (15, 4) wants to move RIGHT
+21/09/2014 09:27:34.443 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 70
+21/09/2014 09:27:34.444 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.522 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 71
+21/09/2014 09:27:34.523 - ResponseLog] - [FINE] - 0 (16, 4) wants to move RIGHT
+21/09/2014 09:27:34.523 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 71
+21/09/2014 09:27:34.524 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.591 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 72
+21/09/2014 09:27:34.592 - ResponseLog] - [FINE] - 0 (17, 4) wants to move RIGHT
+21/09/2014 09:27:34.593 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 72
+21/09/2014 09:27:34.593 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.661 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 73
+21/09/2014 09:27:34.662 - ResponseLog] - [FINE] - 0 (18, 4) wants to move UP
+21/09/2014 09:27:34.663 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 73
+21/09/2014 09:27:34.663 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.730 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 74
+21/09/2014 09:27:34.731 - ResponseLog] - [FINE] - 0 (18, 3) wants to move RIGHT
+21/09/2014 09:27:34.731 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 74
+21/09/2014 09:27:34.731 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.799 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 75
+21/09/2014 09:27:34.799 - ResponseLog] - [FINE] - 0 (19, 3) wants to move RIGHT
+21/09/2014 09:27:34.800 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 75
+21/09/2014 09:27:34.800 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.868 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 76
+21/09/2014 09:27:34.868 - ResponseLog] - [FINE] - 0 (20, 3) wants to move RIGHT
+21/09/2014 09:27:34.868 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 76
+21/09/2014 09:27:34.869 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:34.936 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 77
+21/09/2014 09:27:34.937 - ResponseLog] - [FINE] - 0 (21, 3) wants to move DOWN
+21/09/2014 09:27:34.937 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 77
+21/09/2014 09:27:34.938 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.005 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 78
+21/09/2014 09:27:35.005 - ResponseLog] - [FINE] - 0 (21, 4) wants to move LEFT
+21/09/2014 09:27:35.006 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 78
+21/09/2014 09:27:35.006 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.074 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 79
+21/09/2014 09:27:35.075 - ResponseLog] - [FINE] - 0 (20, 4) wants to move LEFT
+21/09/2014 09:27:35.075 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 79
+21/09/2014 09:27:35.076 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.142 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 80
+21/09/2014 09:27:35.143 - ResponseLog] - [FINE] - 0 (19, 4) wants to move DOWN
+21/09/2014 09:27:35.143 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 80
+21/09/2014 09:27:35.143 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.211 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 81
+21/09/2014 09:27:35.212 - ResponseLog] - [FINE] - 0 (19, 5) wants to move LEFT
+21/09/2014 09:27:35.212 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 81
+21/09/2014 09:27:35.213 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.281 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 82
+21/09/2014 09:27:35.281 - ResponseLog] - [FINE] - 0 (18, 5) wants to move LEFT
+21/09/2014 09:27:35.282 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 82
+21/09/2014 09:27:35.282 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.349 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 83
+21/09/2014 09:27:35.350 - ResponseLog] - [FINE] - 0 (17, 5) wants to move LEFT
+21/09/2014 09:27:35.350 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 83
+21/09/2014 09:27:35.351 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.418 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 84
+21/09/2014 09:27:35.419 - ResponseLog] - [FINE] - 0 (16, 5) wants to move LEFT
+21/09/2014 09:27:35.419 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 84
+21/09/2014 09:27:35.420 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.487 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 85
+21/09/2014 09:27:35.487 - ResponseLog] - [FINE] - 0 (15, 5) wants to move LEFT
+21/09/2014 09:27:35.487 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 85
+21/09/2014 09:27:35.488 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.555 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 86
+21/09/2014 09:27:35.555 - ResponseLog] - [FINE] - 0 (14, 5) wants to move LEFT
+21/09/2014 09:27:35.556 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 86
+21/09/2014 09:27:35.556 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.629 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 87
+21/09/2014 09:27:35.630 - ResponseLog] - [FINE] - 0 (13, 5) wants to move LEFT
+21/09/2014 09:27:35.630 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 87
+21/09/2014 09:27:35.631 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.697 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 88
+21/09/2014 09:27:35.698 - ResponseLog] - [FINE] - 0 (12, 5) wants to move LEFT
+21/09/2014 09:27:35.698 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 88
+21/09/2014 09:27:35.699 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.765 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 89
+21/09/2014 09:27:35.806 - ResponseLog] - [FINE] - 0 (11, 5) wants to move LEFT
+21/09/2014 09:27:35.806 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 89
+21/09/2014 09:27:35.807 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.834 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 90
+21/09/2014 09:27:35.834 - ResponseLog] - [FINE] - 0 (10, 5) wants to move LEFT
+21/09/2014 09:27:35.834 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 90
+21/09/2014 09:27:35.835 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.902 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 91
+21/09/2014 09:27:35.903 - ResponseLog] - [FINE] - 0 (9, 5) wants to move LEFT
+21/09/2014 09:27:35.903 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 91
+21/09/2014 09:27:35.904 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:35.971 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 92
+21/09/2014 09:27:35.972 - ResponseLog] - [FINE] - 0 (8, 5) wants to move LEFT
+21/09/2014 09:27:35.973 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 92
+21/09/2014 09:27:35.973 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.039 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 93
+21/09/2014 09:27:36.040 - ResponseLog] - [FINE] - 0 (7, 5) wants to move LEFT
+21/09/2014 09:27:36.040 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 93
+21/09/2014 09:27:36.041 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.106 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 94
+21/09/2014 09:27:36.107 - ResponseLog] - [FINE] - 0 (6, 5) wants to move LEFT
+21/09/2014 09:27:36.107 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 94
+21/09/2014 09:27:36.107 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.175 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 95
+21/09/2014 09:27:36.176 - ResponseLog] - [FINE] - 0 (5, 5) wants to move LEFT
+21/09/2014 09:27:36.176 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 95
+21/09/2014 09:27:36.176 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.242 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 96
+21/09/2014 09:27:36.243 - ResponseLog] - [FINE] - 0 (4, 5) wants to move LEFT
+21/09/2014 09:27:36.243 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 96
+21/09/2014 09:27:36.244 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.311 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 97
+21/09/2014 09:27:36.312 - ResponseLog] - [FINE] - 0 (3, 5) wants to move LEFT
+21/09/2014 09:27:36.312 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 97
+21/09/2014 09:27:36.312 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.380 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 98
+21/09/2014 09:27:36.380 - ResponseLog] - [FINE] - 0 (2, 5) wants to move DOWN
+21/09/2014 09:27:36.380 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 98
+21/09/2014 09:27:36.381 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.448 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 99
+21/09/2014 09:27:36.448 - ResponseLog] - [FINE] - 0 (2, 6) wants to move RIGHT
+21/09/2014 09:27:36.449 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 99
+21/09/2014 09:27:36.449 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.517 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 100
+21/09/2014 09:27:36.517 - ResponseLog] - [FINE] - 0 (3, 6) wants to move RIGHT
+21/09/2014 09:27:36.518 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 100
+21/09/2014 09:27:36.518 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 101
+21/09/2014 09:27:36.585 - ResponseLog] - [FINE] - 0 (4, 6) wants to move RIGHT
+21/09/2014 09:27:36.585 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 101
+21/09/2014 09:27:36.586 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.652 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 102
+21/09/2014 09:27:36.652 - ResponseLog] - [FINE] - 0 (5, 6) wants to move RIGHT
+21/09/2014 09:27:36.653 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 102
+21/09/2014 09:27:36.653 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.721 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 103
+21/09/2014 09:27:36.721 - ResponseLog] - [FINE] - 0 (6, 6) wants to move RIGHT
+21/09/2014 09:27:36.722 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 103
+21/09/2014 09:27:36.722 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.790 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 104
+21/09/2014 09:27:36.791 - ResponseLog] - [FINE] - 0 (7, 6) wants to move RIGHT
+21/09/2014 09:27:36.791 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 104
+21/09/2014 09:27:36.792 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.859 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 105
+21/09/2014 09:27:36.859 - ResponseLog] - [FINE] - 0 (8, 6) wants to move RIGHT
+21/09/2014 09:27:36.860 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 105
+21/09/2014 09:27:36.860 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.928 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 106
+21/09/2014 09:27:36.929 - ResponseLog] - [FINE] - 0 (9, 6) wants to move RIGHT
+21/09/2014 09:27:36.929 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 106
+21/09/2014 09:27:36.929 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:36.996 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 107
+21/09/2014 09:27:36.997 - ResponseLog] - [FINE] - 0 (10, 6) wants to move RIGHT
+21/09/2014 09:27:36.997 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 107
+21/09/2014 09:27:36.998 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.065 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 108
+21/09/2014 09:27:37.065 - ResponseLog] - [FINE] - 0 (11, 6) wants to move RIGHT
+21/09/2014 09:27:37.066 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 108
+21/09/2014 09:27:37.066 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.134 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 109
+21/09/2014 09:27:37.135 - ResponseLog] - [FINE] - 0 (12, 6) wants to move RIGHT
+21/09/2014 09:27:37.135 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 109
+21/09/2014 09:27:37.135 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.203 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 110
+21/09/2014 09:27:37.203 - ResponseLog] - [FINE] - 0 (13, 6) wants to move RIGHT
+21/09/2014 09:27:37.204 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 110
+21/09/2014 09:27:37.204 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.272 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 111
+21/09/2014 09:27:37.272 - ResponseLog] - [FINE] - 0 (14, 6) wants to move RIGHT
+21/09/2014 09:27:37.272 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 111
+21/09/2014 09:27:37.273 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.340 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 112
+21/09/2014 09:27:37.340 - ResponseLog] - [FINE] - 0 (15, 6) wants to move RIGHT
+21/09/2014 09:27:37.341 - ResponseLog] - [FINE] - arkady responded with move SAME_DIRECTION for turn 112
+21/09/2014 09:27:37.341 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
+21/09/2014 09:27:37.401 - GameLog] - [FINE] - Player greedy left
+21/09/2014 09:27:37.402 - ResponseLog] - [FINE] - Player arkady did not respond on turn: 113
+21/09/2014 09:27:37.403 - GameLog] - [FINE] - Player arkady left
+21/09/2014 09:27:37.404 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 113
+21/09/2014 09:27:37.404 - ResponseLog] - [FINE] - 0 (16, 6) wants to move RIGHT
+21/09/2014 09:27:37.405 - ResponseLog] - [FINE] - 1 responded with move TIMEOUT_SAME_DIRECTION for turn 112
+21/09/2014 09:27:37.405 - ResponseLog] - [FINE] - 1 (4, 11) wants to move LEFT
