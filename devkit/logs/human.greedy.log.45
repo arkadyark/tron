@@ -1,0 +1,1576 @@
+21/09/2014 01:40:43.677 - GameLog] - [FINE] - A new game is starting
+21/09/2014 01:40:43.811 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 1
+21/09/2014 01:40:43.811 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 01:40:43.812 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 1
+21/09/2014 01:40:43.813 - ResponseLog] - [FINE] - 1 (19, 11) wants to move LEFT
+21/09/2014 01:40:43.921 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 2
+21/09/2014 01:40:43.923 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 01:40:43.923 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 2
+21/09/2014 01:40:43.924 - ResponseLog] - [FINE] - 1 (18, 11) wants to move LEFT
+21/09/2014 01:40:44.030 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 3
+21/09/2014 01:40:44.031 - ResponseLog] - [FINE] - 0 (5, 11) wants to move RIGHT
+21/09/2014 01:40:44.032 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 3
+21/09/2014 01:40:44.032 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 01:40:44.141 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 4
+21/09/2014 01:40:44.142 - ResponseLog] - [FINE] - 0 (6, 11) wants to move RIGHT
+21/09/2014 01:40:44.142 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 4
+21/09/2014 01:40:44.143 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 01:40:44.251 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 5
+21/09/2014 01:40:44.251 - ResponseLog] - [FINE] - 0 (7, 11) wants to move RIGHT
+21/09/2014 01:40:44.252 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 5
+21/09/2014 01:40:44.253 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 01:40:44.359 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 6
+21/09/2014 01:40:44.360 - ResponseLog] - [FINE] - 0 (8, 11) wants to move RIGHT
+21/09/2014 01:40:44.360 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 6
+21/09/2014 01:40:44.361 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 01:40:44.468 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 7
+21/09/2014 01:40:44.469 - ResponseLog] - [FINE] - 0 (9, 11) wants to move RIGHT
+21/09/2014 01:40:44.469 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 7
+21/09/2014 01:40:44.470 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 01:40:44.579 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 8
+21/09/2014 01:40:44.580 - ResponseLog] - [FINE] - 0 (10, 11) wants to move RIGHT
+21/09/2014 01:40:44.580 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 8
+21/09/2014 01:40:44.581 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 01:40:44.683 - GameLog] - [FINE] - Player greedy left
+21/09/2014 01:40:46.793 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\human.greedy_46.xml
+21/09/2014 01:40:47.940 - GameLog] - [FINE] - A new game is starting
+21/09/2014 01:40:48.085 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 1
+21/09/2014 01:40:48.085 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 01:40:48.086 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 1
+21/09/2014 01:40:48.087 - ResponseLog] - [FINE] - 1 (19, 11) wants to move LEFT
+21/09/2014 01:40:48.192 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 2
+21/09/2014 01:40:48.193 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 01:40:48.194 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 2
+21/09/2014 01:40:48.194 - ResponseLog] - [FINE] - 1 (18, 11) wants to move LEFT
+21/09/2014 01:40:48.300 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 3
+21/09/2014 01:40:48.301 - ResponseLog] - [FINE] - 0 (5, 11) wants to move RIGHT
+21/09/2014 01:40:48.301 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 3
+21/09/2014 01:40:48.302 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 01:40:48.410 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 4
+21/09/2014 01:40:48.411 - ResponseLog] - [FINE] - 0 (6, 11) wants to move RIGHT
+21/09/2014 01:40:48.412 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 4
+21/09/2014 01:40:48.412 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 01:40:48.519 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 5
+21/09/2014 01:40:48.520 - ResponseLog] - [FINE] - 0 (7, 11) wants to move RIGHT
+21/09/2014 01:40:48.521 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 5
+21/09/2014 01:40:48.521 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 01:40:48.628 - ResponseLog] - [FINE] - human responded with move MOVE_UP for turn 6
+21/09/2014 01:40:48.628 - ResponseLog] - [FINE] - 0 (8, 11) wants to move UP
+21/09/2014 01:40:48.629 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 6
+21/09/2014 01:40:48.630 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 01:40:48.737 - ResponseLog] - [FINE] - human responded with move MOVE_UP for turn 7
+21/09/2014 01:40:48.738 - ResponseLog] - [FINE] - 0 (8, 10) wants to move UP
+21/09/2014 01:40:48.738 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 7
+21/09/2014 01:40:48.739 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 01:40:48.850 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 8
+21/09/2014 01:40:49.082 - ResponseLog] - [FINE] - 0 (8, 9) wants to move UP
+21/09/2014 01:40:49.083 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 8
+21/09/2014 01:40:49.084 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 01:40:49.194 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 9
+21/09/2014 01:40:49.195 - ResponseLog] - [FINE] - 0 (8, 8) wants to move UP
+21/09/2014 01:40:49.196 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 9
+21/09/2014 01:40:49.196 - ResponseLog] - [FINE] - 1 (11, 11) wants to move LEFT
+21/09/2014 01:40:49.311 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 10
+21/09/2014 01:40:49.311 - ResponseLog] - [FINE] - 0 (8, 7) wants to move UP
+21/09/2014 01:40:49.312 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 10
+21/09/2014 01:40:49.312 - ResponseLog] - [FINE] - 1 (10, 11) wants to move LEFT
+21/09/2014 01:40:49.423 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 11
+21/09/2014 01:40:49.424 - ResponseLog] - [FINE] - 0 (8, 6) wants to move UP
+21/09/2014 01:40:49.424 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 11
+21/09/2014 01:40:49.425 - ResponseLog] - [FINE] - 1 (9, 11) wants to move LEFT
+21/09/2014 01:40:49.526 - GameLog] - [FINE] - Player greedy left
+21/09/2014 01:41:13.067 - GameLog] - [FINE] - C:\Users\Christopher\Documents\tron\devkit\grades\human.greedy_47.xml
+21/09/2014 01:41:14.757 - GameLog] - [FINE] - A new game is starting
+21/09/2014 01:41:15.003 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 1
+21/09/2014 01:41:15.004 - ResponseLog] - [FINE] - 0 (3, 11) wants to move RIGHT
+21/09/2014 01:41:15.005 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 1
+21/09/2014 01:41:15.005 - ResponseLog] - [FINE] - 1 (19, 11) wants to move LEFT
+21/09/2014 01:41:15.130 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 2
+21/09/2014 01:41:15.131 - ResponseLog] - [FINE] - 0 (4, 11) wants to move RIGHT
+21/09/2014 01:41:15.131 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 2
+21/09/2014 01:41:15.132 - ResponseLog] - [FINE] - 1 (18, 11) wants to move LEFT
+21/09/2014 01:41:15.267 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 3
+21/09/2014 01:41:15.267 - ResponseLog] - [FINE] - 0 (5, 11) wants to move RIGHT
+21/09/2014 01:41:15.268 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 3
+21/09/2014 01:41:15.269 - ResponseLog] - [FINE] - 1 (17, 11) wants to move LEFT
+21/09/2014 01:41:15.399 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 4
+21/09/2014 01:41:15.400 - ResponseLog] - [FINE] - 0 (6, 11) wants to move RIGHT
+21/09/2014 01:41:15.401 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 4
+21/09/2014 01:41:15.401 - ResponseLog] - [FINE] - 1 (16, 11) wants to move LEFT
+21/09/2014 01:41:15.526 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 5
+21/09/2014 01:41:15.527 - ResponseLog] - [FINE] - 0 (7, 11) wants to move RIGHT
+21/09/2014 01:41:15.528 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 5
+21/09/2014 01:41:15.528 - ResponseLog] - [FINE] - 1 (15, 11) wants to move LEFT
+21/09/2014 01:41:15.663 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 6
+21/09/2014 01:41:15.664 - ResponseLog] - [FINE] - 0 (8, 11) wants to move RIGHT
+21/09/2014 01:41:15.665 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 6
+21/09/2014 01:41:15.665 - ResponseLog] - [FINE] - 1 (14, 11) wants to move LEFT
+21/09/2014 01:41:15.827 - ResponseLog] - [FINE] - human responded with move MOVE_UP for turn 7
+21/09/2014 01:41:15.828 - ResponseLog] - [FINE] - 0 (9, 11) wants to move UP
+21/09/2014 01:41:15.828 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 7
+21/09/2014 01:41:15.829 - ResponseLog] - [FINE] - 1 (13, 11) wants to move LEFT
+21/09/2014 01:41:15.954 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 8
+21/09/2014 01:41:15.955 - ResponseLog] - [FINE] - 0 (9, 10) wants to move UP
+21/09/2014 01:41:15.956 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 8
+21/09/2014 01:41:15.956 - ResponseLog] - [FINE] - 1 (12, 11) wants to move LEFT
+21/09/2014 01:41:16.083 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 9
+21/09/2014 01:41:16.084 - ResponseLog] - [FINE] - 0 (9, 9) wants to move UP
+21/09/2014 01:41:16.084 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 9
+21/09/2014 01:41:16.085 - ResponseLog] - [FINE] - 1 (11, 11) wants to move LEFT
+21/09/2014 01:41:16.204 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 10
+21/09/2014 01:41:16.205 - ResponseLog] - [FINE] - 0 (9, 8) wants to move UP
+21/09/2014 01:41:16.207 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 10
+21/09/2014 01:41:16.207 - ResponseLog] - [FINE] - 1 (10, 11) wants to move UP
+21/09/2014 01:41:16.335 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 11
+21/09/2014 01:41:16.335 - ResponseLog] - [FINE] - 0 (9, 7) wants to move UP
+21/09/2014 01:41:16.336 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 11
+21/09/2014 01:41:16.336 - ResponseLog] - [FINE] - 1 (10, 10) wants to move LEFT
+21/09/2014 01:41:16.456 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 12
+21/09/2014 01:41:16.457 - ResponseLog] - [FINE] - 0 (9, 6) wants to move UP
+21/09/2014 01:41:16.458 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 12
+21/09/2014 01:41:16.458 - ResponseLog] - [FINE] - 1 (9, 10) wants to move LEFT
+21/09/2014 01:41:16.577 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 13
+21/09/2014 01:41:16.578 - ResponseLog] - [FINE] - 0 (9, 5) wants to move UP
+21/09/2014 01:41:16.578 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 13
+21/09/2014 01:41:16.579 - ResponseLog] - [FINE] - 1 (8, 10) wants to move LEFT
+21/09/2014 01:41:16.721 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 14
+21/09/2014 01:41:16.722 - ResponseLog] - [FINE] - 0 (9, 4) wants to move UP
+21/09/2014 01:41:16.723 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 14
+21/09/2014 01:41:16.723 - ResponseLog] - [FINE] - 1 (7, 10) wants to move LEFT
+21/09/2014 01:41:16.844 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 15
+21/09/2014 01:41:16.844 - ResponseLog] - [FINE] - 0 (9, 3) wants to move UP
+21/09/2014 01:41:16.845 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 15
+21/09/2014 01:41:16.845 - ResponseLog] - [FINE] - 1 (6, 10) wants to move LEFT
+21/09/2014 01:41:16.957 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 16
+21/09/2014 01:41:16.958 - ResponseLog] - [FINE] - 0 (9, 2) wants to move UP
+21/09/2014 01:41:16.958 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 16
+21/09/2014 01:41:16.959 - ResponseLog] - [FINE] - 1 (5, 10) wants to move UP
+21/09/2014 01:41:17.106 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 17
+21/09/2014 01:41:17.107 - ResponseLog] - [FINE] - 0 (9, 1) wants to move UP
+21/09/2014 01:41:17.107 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 17
+21/09/2014 01:41:17.108 - ResponseLog] - [FINE] - 1 (5, 9) wants to move LEFT
+21/09/2014 01:41:17.247 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 18
+21/09/2014 01:41:17.248 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.248 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 18
+21/09/2014 01:41:17.249 - ResponseLog] - [FINE] - 1 (4, 9) wants to move LEFT
+21/09/2014 01:41:17.379 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 19
+21/09/2014 01:41:17.379 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.380 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 19
+21/09/2014 01:41:17.380 - ResponseLog] - [FINE] - 1 (3, 9) wants to move LEFT
+21/09/2014 01:41:17.511 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 20
+21/09/2014 01:41:17.511 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.512 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 20
+21/09/2014 01:41:17.513 - ResponseLog] - [FINE] - 1 (2, 9) wants to move LEFT
+21/09/2014 01:41:17.635 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 21
+21/09/2014 01:41:17.636 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.636 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 21
+21/09/2014 01:41:17.637 - ResponseLog] - [FINE] - 1 (1, 9) wants to move UP
+21/09/2014 01:41:17.757 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 22
+21/09/2014 01:41:17.758 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.759 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 22
+21/09/2014 01:41:17.759 - ResponseLog] - [FINE] - 1 (1, 8) wants to move UP
+21/09/2014 01:41:17.939 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 23
+21/09/2014 01:41:17.940 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:17.941 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 23
+21/09/2014 01:41:17.941 - ResponseLog] - [FINE] - 1 (1, 7) wants to move UP
+21/09/2014 01:41:18.052 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 24
+21/09/2014 01:41:18.053 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.053 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 24
+21/09/2014 01:41:18.054 - ResponseLog] - [FINE] - 1 (1, 6) wants to move UP
+21/09/2014 01:41:18.173 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 25
+21/09/2014 01:41:18.174 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.175 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 25
+21/09/2014 01:41:18.175 - ResponseLog] - [FINE] - 1 (1, 5) wants to move UP
+21/09/2014 01:41:18.308 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 26
+21/09/2014 01:41:18.308 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.309 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 26
+21/09/2014 01:41:18.309 - ResponseLog] - [FINE] - 1 (1, 4) wants to move UP
+21/09/2014 01:41:18.421 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 27
+21/09/2014 01:41:18.422 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.422 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 27
+21/09/2014 01:41:18.423 - ResponseLog] - [FINE] - 1 (1, 3) wants to move UP
+21/09/2014 01:41:18.541 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 28
+21/09/2014 01:41:18.542 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.543 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 28
+21/09/2014 01:41:18.543 - ResponseLog] - [FINE] - 1 (1, 2) wants to move UP
+21/09/2014 01:41:18.688 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 29
+21/09/2014 01:41:18.689 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.689 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 29
+21/09/2014 01:41:18.690 - ResponseLog] - [FINE] - 1 (1, 1) wants to move RIGHT
+21/09/2014 01:41:18.810 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 30
+21/09/2014 01:41:18.882 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:18.883 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 30
+21/09/2014 01:41:18.884 - ResponseLog] - [FINE] - 1 (2, 1) wants to move RIGHT
+21/09/2014 01:41:19.050 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 31
+21/09/2014 01:41:19.051 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.052 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 31
+21/09/2014 01:41:19.052 - ResponseLog] - [FINE] - 1 (3, 1) wants to move RIGHT
+21/09/2014 01:41:19.208 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 32
+21/09/2014 01:41:19.209 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.210 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 32
+21/09/2014 01:41:19.210 - ResponseLog] - [FINE] - 1 (4, 1) wants to move RIGHT
+21/09/2014 01:41:19.330 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 33
+21/09/2014 01:41:19.331 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.331 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 33
+21/09/2014 01:41:19.332 - ResponseLog] - [FINE] - 1 (5, 1) wants to move RIGHT
+21/09/2014 01:41:19.450 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 34
+21/09/2014 01:41:19.451 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.451 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 34
+21/09/2014 01:41:19.452 - ResponseLog] - [FINE] - 1 (6, 1) wants to move RIGHT
+21/09/2014 01:41:19.598 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 35
+21/09/2014 01:41:19.599 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.599 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 35
+21/09/2014 01:41:19.600 - ResponseLog] - [FINE] - 1 (7, 1) wants to move RIGHT
+21/09/2014 01:41:19.710 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 36
+21/09/2014 01:41:19.711 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.712 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 36
+21/09/2014 01:41:19.713 - ResponseLog] - [FINE] - 1 (8, 1) wants to move DOWN
+21/09/2014 01:41:19.833 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 37
+21/09/2014 01:41:19.833 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:19.834 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 37
+21/09/2014 01:41:19.834 - ResponseLog] - [FINE] - 1 (8, 2) wants to move LEFT
+21/09/2014 01:41:20.016 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 38
+21/09/2014 01:41:20.017 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.018 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 38
+21/09/2014 01:41:20.019 - ResponseLog] - [FINE] - 1 (7, 2) wants to move LEFT
+21/09/2014 01:41:20.141 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 39
+21/09/2014 01:41:20.141 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.142 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 39
+21/09/2014 01:41:20.142 - ResponseLog] - [FINE] - 1 (6, 2) wants to move LEFT
+21/09/2014 01:41:20.261 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 40
+21/09/2014 01:41:20.262 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.263 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 40
+21/09/2014 01:41:20.264 - ResponseLog] - [FINE] - 1 (5, 2) wants to move LEFT
+21/09/2014 01:41:20.409 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 41
+21/09/2014 01:41:20.410 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.411 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 41
+21/09/2014 01:41:20.411 - ResponseLog] - [FINE] - 1 (4, 2) wants to move LEFT
+21/09/2014 01:41:20.529 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 42
+21/09/2014 01:41:20.530 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.530 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 42
+21/09/2014 01:41:20.531 - ResponseLog] - [FINE] - 1 (3, 2) wants to move DOWN
+21/09/2014 01:41:20.649 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 43
+21/09/2014 01:41:20.650 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.651 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 43
+21/09/2014 01:41:20.651 - ResponseLog] - [FINE] - 1 (3, 3) wants to move RIGHT
+21/09/2014 01:41:20.801 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 44
+21/09/2014 01:41:20.814 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.815 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 44
+21/09/2014 01:41:20.815 - ResponseLog] - [FINE] - 1 (4, 3) wants to move RIGHT
+21/09/2014 01:41:20.936 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 45
+21/09/2014 01:41:20.937 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:20.938 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 45
+21/09/2014 01:41:20.938 - ResponseLog] - [FINE] - 1 (5, 3) wants to move RIGHT
+21/09/2014 01:41:21.060 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 46
+21/09/2014 01:41:21.061 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.062 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 46
+21/09/2014 01:41:21.062 - ResponseLog] - [FINE] - 1 (6, 3) wants to move RIGHT
+21/09/2014 01:41:21.217 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 47
+21/09/2014 01:41:21.217 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.218 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 47
+21/09/2014 01:41:21.218 - ResponseLog] - [FINE] - 1 (7, 3) wants to move DOWN
+21/09/2014 01:41:21.339 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 48
+21/09/2014 01:41:21.340 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.340 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 48
+21/09/2014 01:41:21.341 - ResponseLog] - [FINE] - 1 (7, 4) wants to move LEFT
+21/09/2014 01:41:21.463 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 49
+21/09/2014 01:41:21.464 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.464 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 49
+21/09/2014 01:41:21.465 - ResponseLog] - [FINE] - 1 (6, 4) wants to move LEFT
+21/09/2014 01:41:21.582 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 50
+21/09/2014 01:41:21.583 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 50
+21/09/2014 01:41:21.584 - ResponseLog] - [FINE] - 1 (5, 4) wants to move LEFT
+21/09/2014 01:41:21.704 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 51
+21/09/2014 01:41:21.705 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.706 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 51
+21/09/2014 01:41:21.706 - ResponseLog] - [FINE] - 1 (4, 4) wants to move LEFT
+21/09/2014 01:41:21.893 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 52
+21/09/2014 01:41:21.895 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:21.895 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 52
+21/09/2014 01:41:21.896 - ResponseLog] - [FINE] - 1 (3, 4) wants to move LEFT
+21/09/2014 01:41:22.008 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 53
+21/09/2014 01:41:22.008 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.009 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 53
+21/09/2014 01:41:22.009 - ResponseLog] - [FINE] - 1 (2, 4) wants to move DOWN
+21/09/2014 01:41:22.121 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 54
+21/09/2014 01:41:22.122 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.123 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 54
+21/09/2014 01:41:22.123 - ResponseLog] - [FINE] - 1 (2, 5) wants to move RIGHT
+21/09/2014 01:41:22.268 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 55
+21/09/2014 01:41:22.269 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.269 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 55
+21/09/2014 01:41:22.270 - ResponseLog] - [FINE] - 1 (3, 5) wants to move RIGHT
+21/09/2014 01:41:22.389 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 56
+21/09/2014 01:41:22.391 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.391 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 56
+21/09/2014 01:41:22.392 - ResponseLog] - [FINE] - 1 (4, 5) wants to move RIGHT
+21/09/2014 01:41:22.513 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 57
+21/09/2014 01:41:22.514 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.515 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 57
+21/09/2014 01:41:22.515 - ResponseLog] - [FINE] - 1 (5, 5) wants to move RIGHT
+21/09/2014 01:41:22.633 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 58
+21/09/2014 01:41:22.634 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.635 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 58
+21/09/2014 01:41:22.635 - ResponseLog] - [FINE] - 1 (6, 5) wants to move RIGHT
+21/09/2014 01:41:22.754 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 59
+21/09/2014 01:41:22.927 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:22.927 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 59
+21/09/2014 01:41:22.928 - ResponseLog] - [FINE] - 1 (7, 5) wants to move RIGHT
+21/09/2014 01:41:23.069 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 60
+21/09/2014 01:41:23.070 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.070 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 60
+21/09/2014 01:41:23.071 - ResponseLog] - [FINE] - 1 (8, 5) wants to move DOWN
+21/09/2014 01:41:23.190 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 61
+21/09/2014 01:41:23.191 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.192 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 61
+21/09/2014 01:41:23.192 - ResponseLog] - [FINE] - 1 (8, 6) wants to move LEFT
+21/09/2014 01:41:23.311 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 62
+21/09/2014 01:41:23.311 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.312 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 62
+21/09/2014 01:41:23.313 - ResponseLog] - [FINE] - 1 (7, 6) wants to move LEFT
+21/09/2014 01:41:23.460 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 63
+21/09/2014 01:41:23.461 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.462 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 63
+21/09/2014 01:41:23.462 - ResponseLog] - [FINE] - 1 (6, 6) wants to move LEFT
+21/09/2014 01:41:23.582 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 64
+21/09/2014 01:41:23.583 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.583 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 64
+21/09/2014 01:41:23.584 - ResponseLog] - [FINE] - 1 (5, 6) wants to move LEFT
+21/09/2014 01:41:23.703 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 65
+21/09/2014 01:41:23.704 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.704 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 65
+21/09/2014 01:41:23.705 - ResponseLog] - [FINE] - 1 (4, 6) wants to move LEFT
+21/09/2014 01:41:23.853 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 66
+21/09/2014 01:41:23.854 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.855 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 66
+21/09/2014 01:41:23.855 - ResponseLog] - [FINE] - 1 (3, 6) wants to move DOWN
+21/09/2014 01:41:23.980 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 67
+21/09/2014 01:41:23.981 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:23.982 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 67
+21/09/2014 01:41:23.982 - ResponseLog] - [FINE] - 1 (3, 7) wants to move LEFT
+21/09/2014 01:41:24.092 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 68
+21/09/2014 01:41:24.093 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.094 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 68
+21/09/2014 01:41:24.094 - ResponseLog] - [FINE] - 1 (2, 7) wants to move DOWN
+21/09/2014 01:41:24.242 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 69
+21/09/2014 01:41:24.243 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.243 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 69
+21/09/2014 01:41:24.244 - ResponseLog] - [FINE] - 1 (2, 8) wants to move RIGHT
+21/09/2014 01:41:24.353 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 70
+21/09/2014 01:41:24.354 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.355 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 70
+21/09/2014 01:41:24.355 - ResponseLog] - [FINE] - 1 (3, 8) wants to move RIGHT
+21/09/2014 01:41:24.474 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 71
+21/09/2014 01:41:24.475 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.475 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 71
+21/09/2014 01:41:24.476 - ResponseLog] - [FINE] - 1 (4, 8) wants to move UP
+21/09/2014 01:41:24.630 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 72
+21/09/2014 01:41:24.631 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.632 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 72
+21/09/2014 01:41:24.632 - ResponseLog] - [FINE] - 1 (4, 7) wants to move RIGHT
+21/09/2014 01:41:24.744 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 73
+21/09/2014 01:41:24.745 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.746 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 73
+21/09/2014 01:41:24.746 - ResponseLog] - [FINE] - 1 (5, 7) wants to move DOWN
+21/09/2014 01:41:24.858 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 74
+21/09/2014 01:41:24.858 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:24.859 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 74
+21/09/2014 01:41:24.860 - ResponseLog] - [FINE] - 1 (5, 8) wants to move RIGHT
+21/09/2014 01:41:25.028 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 75
+21/09/2014 01:41:25.029 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.029 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 75
+21/09/2014 01:41:25.030 - ResponseLog] - [FINE] - 1 (6, 8) wants to move RIGHT
+21/09/2014 01:41:25.161 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 76
+21/09/2014 01:41:25.162 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.162 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 76
+21/09/2014 01:41:25.163 - ResponseLog] - [FINE] - 1 (7, 8) wants to move UP
+21/09/2014 01:41:25.273 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 77
+21/09/2014 01:41:25.274 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.275 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 77
+21/09/2014 01:41:25.275 - ResponseLog] - [FINE] - 1 (7, 7) wants to move RIGHT
+21/09/2014 01:41:25.386 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 78
+21/09/2014 01:41:25.387 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.387 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 78
+21/09/2014 01:41:25.388 - ResponseLog] - [FINE] - 1 (8, 7) wants to move DOWN
+21/09/2014 01:41:25.557 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 79
+21/09/2014 01:41:25.558 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.558 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 79
+21/09/2014 01:41:25.559 - ResponseLog] - [FINE] - 1 (8, 8) wants to move RIGHT
+21/09/2014 01:41:25.679 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 80
+21/09/2014 01:41:25.679 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.680 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 80
+21/09/2014 01:41:25.681 - ResponseLog] - [FINE] - 1 (9, 8) wants to move RIGHT
+21/09/2014 01:41:25.810 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 81
+21/09/2014 01:41:25.811 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.811 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 81
+21/09/2014 01:41:25.812 - ResponseLog] - [FINE] - 1 (10, 8) wants to move UP
+21/09/2014 01:41:25.953 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 82
+21/09/2014 01:41:25.954 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:25.955 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 82
+21/09/2014 01:41:25.956 - ResponseLog] - [FINE] - 1 (10, 7) wants to move UP
+21/09/2014 01:41:26.075 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 83
+21/09/2014 01:41:26.076 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.076 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 83
+21/09/2014 01:41:26.077 - ResponseLog] - [FINE] - 1 (10, 6) wants to move UP
+21/09/2014 01:41:26.188 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 84
+21/09/2014 01:41:26.189 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.189 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 84
+21/09/2014 01:41:26.190 - ResponseLog] - [FINE] - 1 (10, 5) wants to move RIGHT
+21/09/2014 01:41:26.357 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 85
+21/09/2014 01:41:26.358 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.359 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 85
+21/09/2014 01:41:26.359 - ResponseLog] - [FINE] - 1 (11, 5) wants to move UP
+21/09/2014 01:41:26.479 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 86
+21/09/2014 01:41:26.480 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.481 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 86
+21/09/2014 01:41:26.481 - ResponseLog] - [FINE] - 1 (11, 4) wants to move UP
+21/09/2014 01:41:26.607 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 87
+21/09/2014 01:41:26.607 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.608 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 87
+21/09/2014 01:41:26.609 - ResponseLog] - [FINE] - 1 (11, 3) wants to move LEFT
+21/09/2014 01:41:26.719 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 88
+21/09/2014 01:41:26.720 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.720 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 88
+21/09/2014 01:41:26.721 - ResponseLog] - [FINE] - 1 (10, 3) wants to move UP
+21/09/2014 01:41:26.889 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 89
+21/09/2014 01:41:26.889 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:26.890 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 89
+21/09/2014 01:41:26.890 - ResponseLog] - [FINE] - 1 (10, 2) wants to move UP
+21/09/2014 01:41:27.001 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 90
+21/09/2014 01:41:27.002 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.003 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 90
+21/09/2014 01:41:27.003 - ResponseLog] - [FINE] - 1 (10, 1) wants to move RIGHT
+21/09/2014 01:41:27.123 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 91
+21/09/2014 01:41:27.124 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.124 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 91
+21/09/2014 01:41:27.125 - ResponseLog] - [FINE] - 1 (11, 1) wants to move RIGHT
+21/09/2014 01:41:27.279 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 92
+21/09/2014 01:41:27.279 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.280 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 92
+21/09/2014 01:41:27.281 - ResponseLog] - [FINE] - 1 (12, 1) wants to move RIGHT
+21/09/2014 01:41:27.398 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 93
+21/09/2014 01:41:27.399 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.400 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 93
+21/09/2014 01:41:27.400 - ResponseLog] - [FINE] - 1 (13, 1) wants to move RIGHT
+21/09/2014 01:41:27.522 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 94
+21/09/2014 01:41:27.522 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.523 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 94
+21/09/2014 01:41:27.524 - ResponseLog] - [FINE] - 1 (14, 1) wants to move RIGHT
+21/09/2014 01:41:27.641 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 95
+21/09/2014 01:41:27.642 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.643 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 95
+21/09/2014 01:41:27.644 - ResponseLog] - [FINE] - 1 (15, 1) wants to move RIGHT
+21/09/2014 01:41:27.761 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 96
+21/09/2014 01:41:27.762 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.763 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 96
+21/09/2014 01:41:27.764 - ResponseLog] - [FINE] - 1 (16, 1) wants to move RIGHT
+21/09/2014 01:41:27.936 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 97
+21/09/2014 01:41:27.937 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:27.938 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 97
+21/09/2014 01:41:27.938 - ResponseLog] - [FINE] - 1 (17, 1) wants to move RIGHT
+21/09/2014 01:41:28.060 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 98
+21/09/2014 01:41:28.061 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.061 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 98
+21/09/2014 01:41:28.062 - ResponseLog] - [FINE] - 1 (18, 1) wants to move RIGHT
+21/09/2014 01:41:28.179 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 99
+21/09/2014 01:41:28.180 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.181 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 99
+21/09/2014 01:41:28.181 - ResponseLog] - [FINE] - 1 (19, 1) wants to move RIGHT
+21/09/2014 01:41:28.328 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 100
+21/09/2014 01:41:28.328 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.329 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 100
+21/09/2014 01:41:28.329 - ResponseLog] - [FINE] - 1 (20, 1) wants to move RIGHT
+21/09/2014 01:41:28.440 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 101
+21/09/2014 01:41:28.442 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.442 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 101
+21/09/2014 01:41:28.443 - ResponseLog] - [FINE] - 1 (21, 1) wants to move DOWN
+21/09/2014 01:41:28.563 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 102
+21/09/2014 01:41:28.564 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.565 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 102
+21/09/2014 01:41:28.567 - ResponseLog] - [FINE] - 1 (21, 2) wants to move LEFT
+21/09/2014 01:41:28.719 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 103
+21/09/2014 01:41:28.719 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.720 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 103
+21/09/2014 01:41:28.721 - ResponseLog] - [FINE] - 1 (20, 2) wants to move LEFT
+21/09/2014 01:41:28.839 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 104
+21/09/2014 01:41:28.841 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.841 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 104
+21/09/2014 01:41:28.842 - ResponseLog] - [FINE] - 1 (19, 2) wants to move LEFT
+21/09/2014 01:41:28.960 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 105
+21/09/2014 01:41:28.961 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:28.962 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 105
+21/09/2014 01:41:28.962 - ResponseLog] - [FINE] - 1 (18, 2) wants to move LEFT
+21/09/2014 01:41:29.080 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 106
+21/09/2014 01:41:29.081 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.081 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 106
+21/09/2014 01:41:29.082 - ResponseLog] - [FINE] - 1 (17, 2) wants to move LEFT
+21/09/2014 01:41:29.259 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 107
+21/09/2014 01:41:29.260 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.261 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 107
+21/09/2014 01:41:29.262 - ResponseLog] - [FINE] - 1 (16, 2) wants to move LEFT
+21/09/2014 01:41:29.381 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 108
+21/09/2014 01:41:29.382 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.382 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 108
+21/09/2014 01:41:29.383 - ResponseLog] - [FINE] - 1 (15, 2) wants to move LEFT
+21/09/2014 01:41:29.502 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 109
+21/09/2014 01:41:29.503 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.503 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 109
+21/09/2014 01:41:29.504 - ResponseLog] - [FINE] - 1 (14, 2) wants to move LEFT
+21/09/2014 01:41:29.622 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 110
+21/09/2014 01:41:29.623 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.624 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 110
+21/09/2014 01:41:29.625 - ResponseLog] - [FINE] - 1 (13, 2) wants to move LEFT
+21/09/2014 01:41:29.793 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 111
+21/09/2014 01:41:29.794 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.795 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 111
+21/09/2014 01:41:29.795 - ResponseLog] - [FINE] - 1 (12, 2) wants to move DOWN
+21/09/2014 01:41:29.916 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 112
+21/09/2014 01:41:29.917 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:29.918 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 112
+21/09/2014 01:41:29.918 - ResponseLog] - [FINE] - 1 (12, 3) wants to move RIGHT
+21/09/2014 01:41:30.051 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 113
+21/09/2014 01:41:30.052 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.053 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 113
+21/09/2014 01:41:30.054 - ResponseLog] - [FINE] - 1 (13, 3) wants to move RIGHT
+21/09/2014 01:41:30.172 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 114
+21/09/2014 01:41:30.173 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.174 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 114
+21/09/2014 01:41:30.175 - ResponseLog] - [FINE] - 1 (14, 3) wants to move RIGHT
+21/09/2014 01:41:30.293 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 115
+21/09/2014 01:41:30.294 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.294 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 115
+21/09/2014 01:41:30.295 - ResponseLog] - [FINE] - 1 (15, 3) wants to move RIGHT
+21/09/2014 01:41:30.461 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 116
+21/09/2014 01:41:30.462 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.462 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 116
+21/09/2014 01:41:30.463 - ResponseLog] - [FINE] - 1 (16, 3) wants to move RIGHT
+21/09/2014 01:41:30.582 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 117
+21/09/2014 01:41:30.583 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.584 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 117
+21/09/2014 01:41:30.584 - ResponseLog] - [FINE] - 1 (17, 3) wants to move RIGHT
+21/09/2014 01:41:30.702 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 118
+21/09/2014 01:41:30.703 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.704 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 118
+21/09/2014 01:41:30.705 - ResponseLog] - [FINE] - 1 (18, 3) wants to move RIGHT
+21/09/2014 01:41:30.830 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 119
+21/09/2014 01:41:30.831 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:30.832 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 119
+21/09/2014 01:41:30.832 - ResponseLog] - [FINE] - 1 (19, 3) wants to move RIGHT
+21/09/2014 01:41:31.001 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 120
+21/09/2014 01:41:31.002 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.003 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 120
+21/09/2014 01:41:31.003 - ResponseLog] - [FINE] - 1 (20, 3) wants to move RIGHT
+21/09/2014 01:41:31.115 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 121
+21/09/2014 01:41:31.116 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.116 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 121
+21/09/2014 01:41:31.117 - ResponseLog] - [FINE] - 1 (21, 3) wants to move DOWN
+21/09/2014 01:41:31.235 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 122
+21/09/2014 01:41:31.236 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.237 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 122
+21/09/2014 01:41:31.238 - ResponseLog] - [FINE] - 1 (21, 4) wants to move LEFT
+21/09/2014 01:41:31.389 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 123
+21/09/2014 01:41:31.390 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.391 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 123
+21/09/2014 01:41:31.392 - ResponseLog] - [FINE] - 1 (20, 4) wants to move LEFT
+21/09/2014 01:41:31.511 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 124
+21/09/2014 01:41:31.512 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.512 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 124
+21/09/2014 01:41:31.513 - ResponseLog] - [FINE] - 1 (19, 4) wants to move LEFT
+21/09/2014 01:41:31.630 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 125
+21/09/2014 01:41:31.631 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.632 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 125
+21/09/2014 01:41:31.633 - ResponseLog] - [FINE] - 1 (18, 4) wants to move LEFT
+21/09/2014 01:41:31.750 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 126
+21/09/2014 01:41:31.751 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.752 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 126
+21/09/2014 01:41:31.752 - ResponseLog] - [FINE] - 1 (17, 4) wants to move LEFT
+21/09/2014 01:41:31.943 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 127
+21/09/2014 01:41:31.944 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:31.945 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 127
+21/09/2014 01:41:31.946 - ResponseLog] - [FINE] - 1 (16, 4) wants to move LEFT
+21/09/2014 01:41:32.066 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 128
+21/09/2014 01:41:32.067 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.068 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 128
+21/09/2014 01:41:32.068 - ResponseLog] - [FINE] - 1 (15, 4) wants to move LEFT
+21/09/2014 01:41:32.186 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 129
+21/09/2014 01:41:32.187 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.188 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 129
+21/09/2014 01:41:32.188 - ResponseLog] - [FINE] - 1 (14, 4) wants to move LEFT
+21/09/2014 01:41:32.349 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 130
+21/09/2014 01:41:32.350 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.352 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 130
+21/09/2014 01:41:32.353 - ResponseLog] - [FINE] - 1 (13, 4) wants to move LEFT
+21/09/2014 01:41:32.464 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 131
+21/09/2014 01:41:32.464 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.465 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 131
+21/09/2014 01:41:32.466 - ResponseLog] - [FINE] - 1 (12, 4) wants to move DOWN
+21/09/2014 01:41:32.592 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 132
+21/09/2014 01:41:32.592 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.593 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 132
+21/09/2014 01:41:32.593 - ResponseLog] - [FINE] - 1 (12, 5) wants to move LEFT
+21/09/2014 01:41:32.738 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 133
+21/09/2014 01:41:32.739 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.740 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 133
+21/09/2014 01:41:32.740 - ResponseLog] - [FINE] - 1 (11, 5) wants to move LEFT
+21/09/2014 01:41:32.852 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 134
+21/09/2014 01:41:32.879 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:32.880 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 134
+21/09/2014 01:41:32.880 - ResponseLog] - [FINE] - 1 (10, 5) wants to move DOWN
+21/09/2014 01:41:33.001 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 135
+21/09/2014 01:41:33.002 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.003 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 135
+21/09/2014 01:41:33.003 - ResponseLog] - [FINE] - 1 (10, 6) wants to move RIGHT
+21/09/2014 01:41:33.150 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 136
+21/09/2014 01:41:33.151 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.151 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 136
+21/09/2014 01:41:33.152 - ResponseLog] - [FINE] - 1 (11, 6) wants to move RIGHT
+21/09/2014 01:41:33.272 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 137
+21/09/2014 01:41:33.273 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.274 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 137
+21/09/2014 01:41:33.274 - ResponseLog] - [FINE] - 1 (12, 6) wants to move RIGHT
+21/09/2014 01:41:33.404 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 138
+21/09/2014 01:41:33.404 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.405 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 138
+21/09/2014 01:41:33.405 - ResponseLog] - [FINE] - 1 (13, 6) wants to move UP
+21/09/2014 01:41:33.516 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 139
+21/09/2014 01:41:33.517 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.517 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 139
+21/09/2014 01:41:33.518 - ResponseLog] - [FINE] - 1 (13, 5) wants to move RIGHT
+21/09/2014 01:41:33.637 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 140
+21/09/2014 01:41:33.638 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.639 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 140
+21/09/2014 01:41:33.639 - ResponseLog] - [FINE] - 1 (14, 5) wants to move RIGHT
+21/09/2014 01:41:33.816 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 141
+21/09/2014 01:41:33.816 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.817 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 141
+21/09/2014 01:41:33.818 - ResponseLog] - [FINE] - 1 (15, 5) wants to move RIGHT
+21/09/2014 01:41:33.936 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 142
+21/09/2014 01:41:33.937 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:33.938 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 142
+21/09/2014 01:41:33.938 - ResponseLog] - [FINE] - 1 (16, 5) wants to move RIGHT
+21/09/2014 01:41:34.058 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 143
+21/09/2014 01:41:34.059 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.060 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 143
+21/09/2014 01:41:34.060 - ResponseLog] - [FINE] - 1 (17, 5) wants to move RIGHT
+21/09/2014 01:41:34.179 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 144
+21/09/2014 01:41:34.180 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.181 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 144
+21/09/2014 01:41:34.183 - ResponseLog] - [FINE] - 1 (18, 5) wants to move RIGHT
+21/09/2014 01:41:34.301 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 145
+21/09/2014 01:41:34.302 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.303 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 145
+21/09/2014 01:41:34.304 - ResponseLog] - [FINE] - 1 (19, 5) wants to move RIGHT
+21/09/2014 01:41:34.474 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 146
+21/09/2014 01:41:34.475 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.476 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 146
+21/09/2014 01:41:34.477 - ResponseLog] - [FINE] - 1 (20, 5) wants to move RIGHT
+21/09/2014 01:41:34.587 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 147
+21/09/2014 01:41:34.588 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.589 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 147
+21/09/2014 01:41:34.589 - ResponseLog] - [FINE] - 1 (21, 5) wants to move DOWN
+21/09/2014 01:41:34.708 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 148
+21/09/2014 01:41:34.709 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.709 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 148
+21/09/2014 01:41:34.710 - ResponseLog] - [FINE] - 1 (21, 6) wants to move LEFT
+21/09/2014 01:41:34.870 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 149
+21/09/2014 01:41:34.871 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.871 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 149
+21/09/2014 01:41:34.872 - ResponseLog] - [FINE] - 1 (20, 6) wants to move LEFT
+21/09/2014 01:41:34.993 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 150
+21/09/2014 01:41:34.994 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:34.995 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 150
+21/09/2014 01:41:34.995 - ResponseLog] - [FINE] - 1 (19, 6) wants to move LEFT
+21/09/2014 01:41:35.114 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 151
+21/09/2014 01:41:35.115 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.116 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 151
+21/09/2014 01:41:35.116 - ResponseLog] - [FINE] - 1 (18, 6) wants to move LEFT
+21/09/2014 01:41:35.235 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 152
+21/09/2014 01:41:35.236 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.237 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 152
+21/09/2014 01:41:35.238 - ResponseLog] - [FINE] - 1 (17, 6) wants to move LEFT
+21/09/2014 01:41:35.407 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 153
+21/09/2014 01:41:35.407 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.408 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 153
+21/09/2014 01:41:35.408 - ResponseLog] - [FINE] - 1 (16, 6) wants to move LEFT
+21/09/2014 01:41:35.528 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 154
+21/09/2014 01:41:35.529 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.529 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 154
+21/09/2014 01:41:35.530 - ResponseLog] - [FINE] - 1 (15, 6) wants to move LEFT
+21/09/2014 01:41:35.640 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 155
+21/09/2014 01:41:35.640 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.641 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 155
+21/09/2014 01:41:35.642 - ResponseLog] - [FINE] - 1 (14, 6) wants to move DOWN
+21/09/2014 01:41:35.766 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 156
+21/09/2014 01:41:35.767 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.768 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 156
+21/09/2014 01:41:35.768 - ResponseLog] - [FINE] - 1 (14, 7) wants to move LEFT
+21/09/2014 01:41:35.946 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 157
+21/09/2014 01:41:35.947 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:35.947 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 157
+21/09/2014 01:41:35.948 - ResponseLog] - [FINE] - 1 (13, 7) wants to move LEFT
+21/09/2014 01:41:36.059 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 158
+21/09/2014 01:41:36.059 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.060 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 158
+21/09/2014 01:41:36.061 - ResponseLog] - [FINE] - 1 (12, 7) wants to move DOWN
+21/09/2014 01:41:36.189 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 159
+21/09/2014 01:41:36.190 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.191 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 159
+21/09/2014 01:41:36.191 - ResponseLog] - [FINE] - 1 (12, 8) wants to move LEFT
+21/09/2014 01:41:36.340 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 160
+21/09/2014 01:41:36.341 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.342 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 160
+21/09/2014 01:41:36.342 - ResponseLog] - [FINE] - 1 (11, 8) wants to move LEFT
+21/09/2014 01:41:36.461 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 161
+21/09/2014 01:41:36.461 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.462 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 161
+21/09/2014 01:41:36.462 - ResponseLog] - [FINE] - 1 (10, 8) wants to move DOWN
+21/09/2014 01:41:36.580 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 162
+21/09/2014 01:41:36.581 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.581 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 162
+21/09/2014 01:41:36.582 - ResponseLog] - [FINE] - 1 (10, 9) wants to move RIGHT
+21/09/2014 01:41:36.728 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 163
+21/09/2014 01:41:36.729 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.729 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 163
+21/09/2014 01:41:36.730 - ResponseLog] - [FINE] - 1 (11, 9) wants to move RIGHT
+21/09/2014 01:41:36.850 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 164
+21/09/2014 01:41:36.876 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:36.877 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 164
+21/09/2014 01:41:36.878 - ResponseLog] - [FINE] - 1 (12, 9) wants to move RIGHT
+21/09/2014 01:41:37.006 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 165
+21/09/2014 01:41:37.006 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.007 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 165
+21/09/2014 01:41:37.008 - ResponseLog] - [FINE] - 1 (13, 9) wants to move UP
+21/09/2014 01:41:37.117 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 166
+21/09/2014 01:41:37.118 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.119 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 166
+21/09/2014 01:41:37.120 - ResponseLog] - [FINE] - 1 (13, 8) wants to move RIGHT
+21/09/2014 01:41:37.239 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 167
+21/09/2014 01:41:37.240 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.241 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 167
+21/09/2014 01:41:37.241 - ResponseLog] - [FINE] - 1 (14, 8) wants to move RIGHT
+21/09/2014 01:41:37.422 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 168
+21/09/2014 01:41:37.423 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.423 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 168
+21/09/2014 01:41:37.424 - ResponseLog] - [FINE] - 1 (15, 8) wants to move UP
+21/09/2014 01:41:37.534 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 169
+21/09/2014 01:41:37.535 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.535 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 169
+21/09/2014 01:41:37.536 - ResponseLog] - [FINE] - 1 (15, 7) wants to move RIGHT
+21/09/2014 01:41:37.653 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 170
+21/09/2014 01:41:37.654 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.655 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 170
+21/09/2014 01:41:37.655 - ResponseLog] - [FINE] - 1 (16, 7) wants to move RIGHT
+21/09/2014 01:41:37.810 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 171
+21/09/2014 01:41:37.811 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.812 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 171
+21/09/2014 01:41:37.812 - ResponseLog] - [FINE] - 1 (17, 7) wants to move RIGHT
+21/09/2014 01:41:37.931 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 172
+21/09/2014 01:41:37.931 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:37.932 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 172
+21/09/2014 01:41:37.932 - ResponseLog] - [FINE] - 1 (18, 7) wants to move RIGHT
+21/09/2014 01:41:38.050 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 173
+21/09/2014 01:41:38.050 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.051 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 173
+21/09/2014 01:41:38.052 - ResponseLog] - [FINE] - 1 (19, 7) wants to move RIGHT
+21/09/2014 01:41:38.171 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 174
+21/09/2014 01:41:38.172 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.173 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 174
+21/09/2014 01:41:38.173 - ResponseLog] - [FINE] - 1 (20, 7) wants to move RIGHT
+21/09/2014 01:41:38.284 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 175
+21/09/2014 01:41:38.285 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.286 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 175
+21/09/2014 01:41:38.287 - ResponseLog] - [FINE] - 1 (21, 7) wants to move DOWN
+21/09/2014 01:41:38.465 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 176
+21/09/2014 01:41:38.466 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.466 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 176
+21/09/2014 01:41:38.467 - ResponseLog] - [FINE] - 1 (21, 8) wants to move LEFT
+21/09/2014 01:41:38.586 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 177
+21/09/2014 01:41:38.587 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.588 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 177
+21/09/2014 01:41:38.588 - ResponseLog] - [FINE] - 1 (20, 8) wants to move LEFT
+21/09/2014 01:41:38.708 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 178
+21/09/2014 01:41:38.708 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.709 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 178
+21/09/2014 01:41:38.709 - ResponseLog] - [FINE] - 1 (19, 8) wants to move LEFT
+21/09/2014 01:41:38.859 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 179
+21/09/2014 01:41:38.860 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.860 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 179
+21/09/2014 01:41:38.861 - ResponseLog] - [FINE] - 1 (18, 8) wants to move LEFT
+21/09/2014 01:41:38.980 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 180
+21/09/2014 01:41:38.981 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:38.981 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 180
+21/09/2014 01:41:38.982 - ResponseLog] - [FINE] - 1 (17, 8) wants to move LEFT
+21/09/2014 01:41:39.092 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 181
+21/09/2014 01:41:39.092 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.093 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 181
+21/09/2014 01:41:39.094 - ResponseLog] - [FINE] - 1 (16, 8) wants to move DOWN
+21/09/2014 01:41:39.253 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 182
+21/09/2014 01:41:39.254 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.255 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 182
+21/09/2014 01:41:39.255 - ResponseLog] - [FINE] - 1 (16, 9) wants to move LEFT
+21/09/2014 01:41:39.371 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 183
+21/09/2014 01:41:39.372 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.373 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 183
+21/09/2014 01:41:39.374 - ResponseLog] - [FINE] - 1 (15, 9) wants to move LEFT
+21/09/2014 01:41:39.485 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 184
+21/09/2014 01:41:39.486 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.486 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 184
+21/09/2014 01:41:39.487 - ResponseLog] - [FINE] - 1 (14, 9) wants to move DOWN
+21/09/2014 01:41:39.637 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 185
+21/09/2014 01:41:39.638 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.638 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 185
+21/09/2014 01:41:39.639 - ResponseLog] - [FINE] - 1 (14, 10) wants to move RIGHT
+21/09/2014 01:41:39.750 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 186
+21/09/2014 01:41:39.751 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.752 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 186
+21/09/2014 01:41:39.752 - ResponseLog] - [FINE] - 1 (15, 10) wants to move RIGHT
+21/09/2014 01:41:39.890 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 187
+21/09/2014 01:41:39.891 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:39.891 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 187
+21/09/2014 01:41:39.892 - ResponseLog] - [FINE] - 1 (16, 10) wants to move RIGHT
+21/09/2014 01:41:40.010 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 188
+21/09/2014 01:41:40.010 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.011 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 188
+21/09/2014 01:41:40.012 - ResponseLog] - [FINE] - 1 (17, 10) wants to move UP
+21/09/2014 01:41:40.121 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 189
+21/09/2014 01:41:40.122 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.123 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 189
+21/09/2014 01:41:40.124 - ResponseLog] - [FINE] - 1 (17, 9) wants to move RIGHT
+21/09/2014 01:41:40.298 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 190
+21/09/2014 01:41:40.299 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.299 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 190
+21/09/2014 01:41:40.300 - ResponseLog] - [FINE] - 1 (18, 9) wants to move RIGHT
+21/09/2014 01:41:40.418 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 191
+21/09/2014 01:41:40.419 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.419 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 191
+21/09/2014 01:41:40.420 - ResponseLog] - [FINE] - 1 (19, 9) wants to move RIGHT
+21/09/2014 01:41:40.537 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 192
+21/09/2014 01:41:40.538 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.539 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 192
+21/09/2014 01:41:40.539 - ResponseLog] - [FINE] - 1 (20, 9) wants to move RIGHT
+21/09/2014 01:41:40.677 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 193
+21/09/2014 01:41:40.678 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.679 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 193
+21/09/2014 01:41:40.679 - ResponseLog] - [FINE] - 1 (21, 9) wants to move DOWN
+21/09/2014 01:41:40.800 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 194
+21/09/2014 01:41:40.931 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:40.932 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 194
+21/09/2014 01:41:40.933 - ResponseLog] - [FINE] - 1 (21, 10) wants to move LEFT
+21/09/2014 01:41:41.077 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 195
+21/09/2014 01:41:41.077 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.078 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 195
+21/09/2014 01:41:41.078 - ResponseLog] - [FINE] - 1 (20, 10) wants to move DOWN
+21/09/2014 01:41:41.199 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 196
+21/09/2014 01:41:41.199 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.200 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 196
+21/09/2014 01:41:41.201 - ResponseLog] - [FINE] - 1 (20, 11) wants to move RIGHT
+21/09/2014 01:41:41.311 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 197
+21/09/2014 01:41:41.312 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.313 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 197
+21/09/2014 01:41:41.313 - ResponseLog] - [FINE] - 1 (21, 11) wants to move DOWN
+21/09/2014 01:41:41.468 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 198
+21/09/2014 01:41:41.469 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.470 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 198
+21/09/2014 01:41:41.470 - ResponseLog] - [FINE] - 1 (21, 12) wants to move LEFT
+21/09/2014 01:41:41.587 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 199
+21/09/2014 01:41:41.588 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.588 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 199
+21/09/2014 01:41:41.589 - ResponseLog] - [FINE] - 1 (20, 12) wants to move LEFT
+21/09/2014 01:41:41.698 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 200
+21/09/2014 01:41:41.698 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.699 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 200
+21/09/2014 01:41:41.699 - ResponseLog] - [FINE] - 1 (19, 12) wants to move DOWN
+21/09/2014 01:41:41.893 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 201
+21/09/2014 01:41:41.895 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:41.895 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 201
+21/09/2014 01:41:41.896 - ResponseLog] - [FINE] - 1 (19, 13) wants to move LEFT
+21/09/2014 01:41:42.015 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 202
+21/09/2014 01:41:42.015 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.016 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 202
+21/09/2014 01:41:42.016 - ResponseLog] - [FINE] - 1 (18, 13) wants to move LEFT
+21/09/2014 01:41:42.141 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 203
+21/09/2014 01:41:42.142 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.143 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 203
+21/09/2014 01:41:42.143 - ResponseLog] - [FINE] - 1 (17, 13) wants to move LEFT
+21/09/2014 01:41:42.269 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 204
+21/09/2014 01:41:42.269 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.270 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 204
+21/09/2014 01:41:42.271 - ResponseLog] - [FINE] - 1 (16, 13) wants to move LEFT
+21/09/2014 01:41:42.428 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 205
+21/09/2014 01:41:42.429 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.429 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 205
+21/09/2014 01:41:42.430 - ResponseLog] - [FINE] - 1 (15, 13) wants to move LEFT
+21/09/2014 01:41:42.558 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 206
+21/09/2014 01:41:42.558 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.559 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 206
+21/09/2014 01:41:42.559 - ResponseLog] - [FINE] - 1 (14, 13) wants to move LEFT
+21/09/2014 01:41:42.684 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 207
+21/09/2014 01:41:42.685 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.685 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 207
+21/09/2014 01:41:42.686 - ResponseLog] - [FINE] - 1 (13, 13) wants to move LEFT
+21/09/2014 01:41:42.810 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 208
+21/09/2014 01:41:42.927 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:42.928 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 208
+21/09/2014 01:41:42.929 - ResponseLog] - [FINE] - 1 (12, 13) wants to move LEFT
+21/09/2014 01:41:43.090 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 209
+21/09/2014 01:41:43.091 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.092 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 209
+21/09/2014 01:41:43.093 - ResponseLog] - [FINE] - 1 (11, 13) wants to move LEFT
+21/09/2014 01:41:43.220 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 210
+21/09/2014 01:41:43.221 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.222 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 210
+21/09/2014 01:41:43.223 - ResponseLog] - [FINE] - 1 (10, 13) wants to move LEFT
+21/09/2014 01:41:43.348 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 211
+21/09/2014 01:41:43.349 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.349 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 211
+21/09/2014 01:41:43.350 - ResponseLog] - [FINE] - 1 (9, 13) wants to move LEFT
+21/09/2014 01:41:43.475 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 212
+21/09/2014 01:41:43.476 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.476 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 212
+21/09/2014 01:41:43.476 - ResponseLog] - [FINE] - 1 (8, 13) wants to move LEFT
+21/09/2014 01:41:43.631 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 213
+21/09/2014 01:41:43.632 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.632 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 213
+21/09/2014 01:41:43.633 - ResponseLog] - [FINE] - 1 (7, 13) wants to move LEFT
+21/09/2014 01:41:43.756 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 214
+21/09/2014 01:41:43.757 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.758 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 214
+21/09/2014 01:41:43.758 - ResponseLog] - [FINE] - 1 (6, 13) wants to move LEFT
+21/09/2014 01:41:43.888 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 215
+21/09/2014 01:41:43.890 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:43.891 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 215
+21/09/2014 01:41:43.891 - ResponseLog] - [FINE] - 1 (5, 13) wants to move LEFT
+21/09/2014 01:41:44.019 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 216
+21/09/2014 01:41:44.020 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.021 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 216
+21/09/2014 01:41:44.022 - ResponseLog] - [FINE] - 1 (4, 13) wants to move LEFT
+21/09/2014 01:41:44.173 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 217
+21/09/2014 01:41:44.174 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.175 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 217
+21/09/2014 01:41:44.176 - ResponseLog] - [FINE] - 1 (3, 13) wants to move LEFT
+21/09/2014 01:41:44.302 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 218
+21/09/2014 01:41:44.303 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.303 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 218
+21/09/2014 01:41:44.304 - ResponseLog] - [FINE] - 1 (2, 13) wants to move LEFT
+21/09/2014 01:41:44.422 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 219
+21/09/2014 01:41:44.423 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.424 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 219
+21/09/2014 01:41:44.425 - ResponseLog] - [FINE] - 1 (1, 13) wants to move DOWN
+21/09/2014 01:41:44.542 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 220
+21/09/2014 01:41:44.543 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.544 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 220
+21/09/2014 01:41:44.544 - ResponseLog] - [FINE] - 1 (1, 14) wants to move RIGHT
+21/09/2014 01:41:44.702 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 221
+21/09/2014 01:41:44.702 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.703 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 221
+21/09/2014 01:41:44.704 - ResponseLog] - [FINE] - 1 (2, 14) wants to move RIGHT
+21/09/2014 01:41:44.824 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 222
+21/09/2014 01:41:44.831 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.832 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 222
+21/09/2014 01:41:44.832 - ResponseLog] - [FINE] - 1 (3, 14) wants to move RIGHT
+21/09/2014 01:41:44.949 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 223
+21/09/2014 01:41:44.950 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:44.950 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 223
+21/09/2014 01:41:44.951 - ResponseLog] - [FINE] - 1 (4, 14) wants to move RIGHT
+21/09/2014 01:41:45.090 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 224
+21/09/2014 01:41:45.091 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.091 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 224
+21/09/2014 01:41:45.092 - ResponseLog] - [FINE] - 1 (5, 14) wants to move RIGHT
+21/09/2014 01:41:45.210 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 225
+21/09/2014 01:41:45.211 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.211 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 225
+21/09/2014 01:41:45.212 - ResponseLog] - [FINE] - 1 (6, 14) wants to move RIGHT
+21/09/2014 01:41:45.330 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 226
+21/09/2014 01:41:45.331 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.331 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 226
+21/09/2014 01:41:45.332 - ResponseLog] - [FINE] - 1 (7, 14) wants to move RIGHT
+21/09/2014 01:41:45.485 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 227
+21/09/2014 01:41:45.486 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.487 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 227
+21/09/2014 01:41:45.488 - ResponseLog] - [FINE] - 1 (8, 14) wants to move RIGHT
+21/09/2014 01:41:45.606 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 228
+21/09/2014 01:41:45.607 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.608 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 228
+21/09/2014 01:41:45.608 - ResponseLog] - [FINE] - 1 (9, 14) wants to move RIGHT
+21/09/2014 01:41:45.729 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 229
+21/09/2014 01:41:45.730 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.730 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 229
+21/09/2014 01:41:45.731 - ResponseLog] - [FINE] - 1 (10, 14) wants to move RIGHT
+21/09/2014 01:41:45.895 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 230
+21/09/2014 01:41:45.896 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:45.897 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 230
+21/09/2014 01:41:45.897 - ResponseLog] - [FINE] - 1 (11, 14) wants to move RIGHT
+21/09/2014 01:41:46.016 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 231
+21/09/2014 01:41:46.017 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.018 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 231
+21/09/2014 01:41:46.018 - ResponseLog] - [FINE] - 1 (12, 14) wants to move RIGHT
+21/09/2014 01:41:46.136 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 232
+21/09/2014 01:41:46.137 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.138 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 232
+21/09/2014 01:41:46.139 - ResponseLog] - [FINE] - 1 (13, 14) wants to move RIGHT
+21/09/2014 01:41:46.294 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 233
+21/09/2014 01:41:46.295 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.295 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 233
+21/09/2014 01:41:46.296 - ResponseLog] - [FINE] - 1 (14, 14) wants to move RIGHT
+21/09/2014 01:41:46.416 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 234
+21/09/2014 01:41:46.417 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.417 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 234
+21/09/2014 01:41:46.418 - ResponseLog] - [FINE] - 1 (15, 14) wants to move RIGHT
+21/09/2014 01:41:46.530 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 235
+21/09/2014 01:41:46.531 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.531 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 235
+21/09/2014 01:41:46.532 - ResponseLog] - [FINE] - 1 (16, 14) wants to move RIGHT
+21/09/2014 01:41:46.685 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 236
+21/09/2014 01:41:46.685 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.686 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 236
+21/09/2014 01:41:46.687 - ResponseLog] - [FINE] - 1 (17, 14) wants to move RIGHT
+21/09/2014 01:41:46.805 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 237
+21/09/2014 01:41:46.884 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:46.885 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 237
+21/09/2014 01:41:46.886 - ResponseLog] - [FINE] - 1 (18, 14) wants to move RIGHT
+21/09/2014 01:41:47.063 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 238
+21/09/2014 01:41:47.064 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.065 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 238
+21/09/2014 01:41:47.066 - ResponseLog] - [FINE] - 1 (19, 14) wants to move RIGHT
+21/09/2014 01:41:47.190 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 239
+21/09/2014 01:41:47.191 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.192 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 239
+21/09/2014 01:41:47.193 - ResponseLog] - [FINE] - 1 (20, 14) wants to move UP
+21/09/2014 01:41:47.303 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 240
+21/09/2014 01:41:47.304 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.304 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 240
+21/09/2014 01:41:47.305 - ResponseLog] - [FINE] - 1 (20, 13) wants to move RIGHT
+21/09/2014 01:41:47.455 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 241
+21/09/2014 01:41:47.456 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.457 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 241
+21/09/2014 01:41:47.457 - ResponseLog] - [FINE] - 1 (21, 13) wants to move DOWN
+21/09/2014 01:41:47.568 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 242
+21/09/2014 01:41:47.569 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.570 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 242
+21/09/2014 01:41:47.571 - ResponseLog] - [FINE] - 1 (21, 14) wants to move DOWN
+21/09/2014 01:41:47.689 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 243
+21/09/2014 01:41:47.690 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.690 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 243
+21/09/2014 01:41:47.691 - ResponseLog] - [FINE] - 1 (21, 15) wants to move LEFT
+21/09/2014 01:41:47.837 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 244
+21/09/2014 01:41:47.838 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.838 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 244
+21/09/2014 01:41:47.839 - ResponseLog] - [FINE] - 1 (20, 15) wants to move LEFT
+21/09/2014 01:41:47.956 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 245
+21/09/2014 01:41:47.957 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:47.958 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 245
+21/09/2014 01:41:47.959 - ResponseLog] - [FINE] - 1 (19, 15) wants to move LEFT
+21/09/2014 01:41:48.076 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 246
+21/09/2014 01:41:48.077 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.077 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 246
+21/09/2014 01:41:48.078 - ResponseLog] - [FINE] - 1 (18, 15) wants to move LEFT
+21/09/2014 01:41:48.189 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 247
+21/09/2014 01:41:48.190 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.190 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 247
+21/09/2014 01:41:48.191 - ResponseLog] - [FINE] - 1 (17, 15) wants to move DOWN
+21/09/2014 01:41:48.316 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 248
+21/09/2014 01:41:48.317 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.318 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 248
+21/09/2014 01:41:48.318 - ResponseLog] - [FINE] - 1 (17, 16) wants to move LEFT
+21/09/2014 01:41:48.482 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 249
+21/09/2014 01:41:48.483 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.484 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 249
+21/09/2014 01:41:48.485 - ResponseLog] - [FINE] - 1 (16, 16) wants to move LEFT
+21/09/2014 01:41:48.608 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 250
+21/09/2014 01:41:48.609 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.609 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 250
+21/09/2014 01:41:48.610 - ResponseLog] - [FINE] - 1 (15, 16) wants to move LEFT
+21/09/2014 01:41:48.737 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 251
+21/09/2014 01:41:48.738 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.739 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 251
+21/09/2014 01:41:48.739 - ResponseLog] - [FINE] - 1 (14, 16) wants to move LEFT
+21/09/2014 01:41:48.865 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 252
+21/09/2014 01:41:48.899 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:48.900 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 252
+21/09/2014 01:41:48.901 - ResponseLog] - [FINE] - 1 (13, 16) wants to move LEFT
+21/09/2014 01:41:49.025 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 253
+21/09/2014 01:41:49.026 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.027 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 253
+21/09/2014 01:41:49.028 - ResponseLog] - [FINE] - 1 (12, 16) wants to move LEFT
+21/09/2014 01:41:49.175 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 254
+21/09/2014 01:41:49.176 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.176 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 254
+21/09/2014 01:41:49.177 - ResponseLog] - [FINE] - 1 (11, 16) wants to move LEFT
+21/09/2014 01:41:49.303 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 255
+21/09/2014 01:41:49.304 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.304 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 255
+21/09/2014 01:41:49.305 - ResponseLog] - [FINE] - 1 (10, 16) wants to move LEFT
+21/09/2014 01:41:49.429 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 256
+21/09/2014 01:41:49.430 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.431 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 256
+21/09/2014 01:41:49.431 - ResponseLog] - [FINE] - 1 (9, 16) wants to move LEFT
+21/09/2014 01:41:49.556 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 257
+21/09/2014 01:41:49.557 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.558 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 257
+21/09/2014 01:41:49.558 - ResponseLog] - [FINE] - 1 (8, 16) wants to move LEFT
+21/09/2014 01:41:49.719 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 258
+21/09/2014 01:41:49.720 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.720 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 258
+21/09/2014 01:41:49.721 - ResponseLog] - [FINE] - 1 (7, 16) wants to move LEFT
+21/09/2014 01:41:49.844 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 259
+21/09/2014 01:41:49.845 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.846 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 259
+21/09/2014 01:41:49.846 - ResponseLog] - [FINE] - 1 (6, 16) wants to move LEFT
+21/09/2014 01:41:49.972 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 260
+21/09/2014 01:41:49.972 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:49.973 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 260
+21/09/2014 01:41:49.973 - ResponseLog] - [FINE] - 1 (5, 16) wants to move LEFT
+21/09/2014 01:41:50.101 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 261
+21/09/2014 01:41:50.102 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.103 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 261
+21/09/2014 01:41:50.103 - ResponseLog] - [FINE] - 1 (4, 16) wants to move LEFT
+21/09/2014 01:41:50.256 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 262
+21/09/2014 01:41:50.257 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.257 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 262
+21/09/2014 01:41:50.258 - ResponseLog] - [FINE] - 1 (3, 16) wants to move LEFT
+21/09/2014 01:41:50.384 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 263
+21/09/2014 01:41:50.385 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.386 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 263
+21/09/2014 01:41:50.386 - ResponseLog] - [FINE] - 1 (2, 16) wants to move LEFT
+21/09/2014 01:41:50.504 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 264
+21/09/2014 01:41:50.505 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.506 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 264
+21/09/2014 01:41:50.507 - ResponseLog] - [FINE] - 1 (1, 16) wants to move DOWN
+21/09/2014 01:41:50.624 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 265
+21/09/2014 01:41:50.624 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.625 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 265
+21/09/2014 01:41:50.625 - ResponseLog] - [FINE] - 1 (1, 17) wants to move RIGHT
+21/09/2014 01:41:50.787 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 266
+21/09/2014 01:41:50.846 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.847 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 266
+21/09/2014 01:41:50.848 - ResponseLog] - [FINE] - 1 (2, 17) wants to move RIGHT
+21/09/2014 01:41:50.965 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 267
+21/09/2014 01:41:50.967 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:50.968 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 267
+21/09/2014 01:41:50.969 - ResponseLog] - [FINE] - 1 (3, 17) wants to move RIGHT
+21/09/2014 01:41:51.087 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 268
+21/09/2014 01:41:51.088 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.089 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 268
+21/09/2014 01:41:51.089 - ResponseLog] - [FINE] - 1 (4, 17) wants to move RIGHT
+21/09/2014 01:41:51.239 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 269
+21/09/2014 01:41:51.239 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.240 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 269
+21/09/2014 01:41:51.240 - ResponseLog] - [FINE] - 1 (5, 17) wants to move RIGHT
+21/09/2014 01:41:51.357 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 270
+21/09/2014 01:41:51.358 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.358 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 270
+21/09/2014 01:41:51.359 - ResponseLog] - [FINE] - 1 (6, 17) wants to move RIGHT
+21/09/2014 01:41:51.478 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 271
+21/09/2014 01:41:51.478 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.479 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 271
+21/09/2014 01:41:51.479 - ResponseLog] - [FINE] - 1 (7, 17) wants to move RIGHT
+21/09/2014 01:41:51.629 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 272
+21/09/2014 01:41:51.630 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.631 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 272
+21/09/2014 01:41:51.631 - ResponseLog] - [FINE] - 1 (8, 17) wants to move RIGHT
+21/09/2014 01:41:51.749 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 273
+21/09/2014 01:41:51.750 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.750 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 273
+21/09/2014 01:41:51.751 - ResponseLog] - [FINE] - 1 (9, 17) wants to move RIGHT
+21/09/2014 01:41:51.885 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 274
+21/09/2014 01:41:51.886 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:51.887 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 274
+21/09/2014 01:41:51.888 - ResponseLog] - [FINE] - 1 (10, 17) wants to move UP
+21/09/2014 01:41:52.005 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 275
+21/09/2014 01:41:52.005 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.006 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 275
+21/09/2014 01:41:52.006 - ResponseLog] - [FINE] - 1 (10, 16) wants to move RIGHT
+21/09/2014 01:41:52.124 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 276
+21/09/2014 01:41:52.125 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.126 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 276
+21/09/2014 01:41:52.127 - ResponseLog] - [FINE] - 1 (11, 16) wants to move RIGHT
+21/09/2014 01:41:52.293 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 277
+21/09/2014 01:41:52.294 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.295 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 277
+21/09/2014 01:41:52.295 - ResponseLog] - [FINE] - 1 (12, 16) wants to move UP
+21/09/2014 01:41:52.405 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 278
+21/09/2014 01:41:52.406 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.406 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 278
+21/09/2014 01:41:52.407 - ResponseLog] - [FINE] - 1 (12, 15) wants to move RIGHT
+21/09/2014 01:41:52.524 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 279
+21/09/2014 01:41:52.524 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.525 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 279
+21/09/2014 01:41:52.525 - ResponseLog] - [FINE] - 1 (13, 15) wants to move RIGHT
+21/09/2014 01:41:52.679 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 280
+21/09/2014 01:41:52.680 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.681 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 280
+21/09/2014 01:41:52.681 - ResponseLog] - [FINE] - 1 (14, 15) wants to move DOWN
+21/09/2014 01:41:52.797 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 281
+21/09/2014 01:41:52.879 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:52.880 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 281
+21/09/2014 01:41:52.880 - ResponseLog] - [FINE] - 1 (14, 16) wants to move LEFT
+21/09/2014 01:41:53.027 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 282
+21/09/2014 01:41:53.027 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.028 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 282
+21/09/2014 01:41:53.028 - ResponseLog] - [FINE] - 1 (13, 16) wants to move DOWN
+21/09/2014 01:41:53.168 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 283
+21/09/2014 01:41:53.169 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.170 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 283
+21/09/2014 01:41:53.171 - ResponseLog] - [FINE] - 1 (13, 17) wants to move LEFT
+21/09/2014 01:41:53.280 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 284
+21/09/2014 01:41:53.281 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.282 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 284
+21/09/2014 01:41:53.282 - ResponseLog] - [FINE] - 1 (12, 17) wants to move LEFT
+21/09/2014 01:41:53.396 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 285
+21/09/2014 01:41:53.396 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.397 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 285
+21/09/2014 01:41:53.398 - ResponseLog] - [FINE] - 1 (11, 17) wants to move DOWN
+21/09/2014 01:41:53.548 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 286
+21/09/2014 01:41:53.549 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.550 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 286
+21/09/2014 01:41:53.550 - ResponseLog] - [FINE] - 1 (11, 18) wants to move LEFT
+21/09/2014 01:41:53.669 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 287
+21/09/2014 01:41:53.669 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.670 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 287
+21/09/2014 01:41:53.671 - ResponseLog] - [FINE] - 1 (10, 18) wants to move LEFT
+21/09/2014 01:41:53.791 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 288
+21/09/2014 01:41:53.792 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.793 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 288
+21/09/2014 01:41:53.795 - ResponseLog] - [FINE] - 1 (9, 18) wants to move LEFT
+21/09/2014 01:41:53.944 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 289
+21/09/2014 01:41:53.944 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:53.945 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 289
+21/09/2014 01:41:53.945 - ResponseLog] - [FINE] - 1 (8, 18) wants to move LEFT
+21/09/2014 01:41:54.063 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 290
+21/09/2014 01:41:54.063 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.064 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 290
+21/09/2014 01:41:54.064 - ResponseLog] - [FINE] - 1 (7, 18) wants to move LEFT
+21/09/2014 01:41:54.183 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 291
+21/09/2014 01:41:54.184 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.184 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 291
+21/09/2014 01:41:54.185 - ResponseLog] - [FINE] - 1 (6, 18) wants to move LEFT
+21/09/2014 01:41:54.329 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 292
+21/09/2014 01:41:54.331 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.331 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 292
+21/09/2014 01:41:54.332 - ResponseLog] - [FINE] - 1 (5, 18) wants to move LEFT
+21/09/2014 01:41:54.448 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 293
+21/09/2014 01:41:54.449 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.450 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 293
+21/09/2014 01:41:54.450 - ResponseLog] - [FINE] - 1 (4, 18) wants to move LEFT
+21/09/2014 01:41:54.570 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 294
+21/09/2014 01:41:54.571 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.572 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 294
+21/09/2014 01:41:54.572 - ResponseLog] - [FINE] - 1 (3, 18) wants to move LEFT
+21/09/2014 01:41:54.719 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 295
+21/09/2014 01:41:54.720 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.720 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 295
+21/09/2014 01:41:54.721 - ResponseLog] - [FINE] - 1 (2, 18) wants to move LEFT
+21/09/2014 01:41:54.830 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 296
+21/09/2014 01:41:54.842 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.843 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 296
+21/09/2014 01:41:54.843 - ResponseLog] - [FINE] - 1 (1, 18) wants to move DOWN
+21/09/2014 01:41:54.963 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 297
+21/09/2014 01:41:54.964 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:54.964 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 297
+21/09/2014 01:41:54.965 - ResponseLog] - [FINE] - 1 (1, 19) wants to move RIGHT
+21/09/2014 01:41:55.110 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 298
+21/09/2014 01:41:55.111 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.112 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 298
+21/09/2014 01:41:55.113 - ResponseLog] - [FINE] - 1 (2, 19) wants to move RIGHT
+21/09/2014 01:41:55.232 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 299
+21/09/2014 01:41:55.232 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.233 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 299
+21/09/2014 01:41:55.233 - ResponseLog] - [FINE] - 1 (3, 19) wants to move RIGHT
+21/09/2014 01:41:55.352 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 300
+21/09/2014 01:41:55.353 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.353 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 300
+21/09/2014 01:41:55.354 - ResponseLog] - [FINE] - 1 (4, 19) wants to move RIGHT
+21/09/2014 01:41:55.506 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 301
+21/09/2014 01:41:55.507 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.508 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 301
+21/09/2014 01:41:55.509 - ResponseLog] - [FINE] - 1 (5, 19) wants to move RIGHT
+21/09/2014 01:41:55.625 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 302
+21/09/2014 01:41:55.626 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.627 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 302
+21/09/2014 01:41:55.628 - ResponseLog] - [FINE] - 1 (6, 19) wants to move RIGHT
+21/09/2014 01:41:55.746 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 303
+21/09/2014 01:41:55.746 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.747 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 303
+21/09/2014 01:41:55.747 - ResponseLog] - [FINE] - 1 (7, 19) wants to move RIGHT
+21/09/2014 01:41:55.910 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 304
+21/09/2014 01:41:55.911 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:55.911 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 304
+21/09/2014 01:41:55.912 - ResponseLog] - [FINE] - 1 (8, 19) wants to move RIGHT
+21/09/2014 01:41:56.028 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 305
+21/09/2014 01:41:56.029 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.030 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 305
+21/09/2014 01:41:56.030 - ResponseLog] - [FINE] - 1 (9, 19) wants to move RIGHT
+21/09/2014 01:41:56.147 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 306
+21/09/2014 01:41:56.148 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.149 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 306
+21/09/2014 01:41:56.149 - ResponseLog] - [FINE] - 1 (10, 19) wants to move RIGHT
+21/09/2014 01:41:56.283 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 307
+21/09/2014 01:41:56.284 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.284 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 307
+21/09/2014 01:41:56.285 - ResponseLog] - [FINE] - 1 (11, 19) wants to move RIGHT
+21/09/2014 01:41:56.401 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 308
+21/09/2014 01:41:56.402 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.403 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 308
+21/09/2014 01:41:56.403 - ResponseLog] - [FINE] - 1 (12, 19) wants to move RIGHT
+21/09/2014 01:41:56.532 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 309
+21/09/2014 01:41:56.533 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.533 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 309
+21/09/2014 01:41:56.534 - ResponseLog] - [FINE] - 1 (13, 19) wants to move RIGHT
+21/09/2014 01:41:56.650 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 310
+21/09/2014 01:41:56.651 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.651 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 310
+21/09/2014 01:41:56.652 - ResponseLog] - [FINE] - 1 (14, 19) wants to move RIGHT
+21/09/2014 01:41:56.777 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 311
+21/09/2014 01:41:56.845 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:56.845 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 311
+21/09/2014 01:41:56.846 - ResponseLog] - [FINE] - 1 (15, 19) wants to move UP
+21/09/2014 01:41:56.999 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 312
+21/09/2014 01:41:57.000 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.001 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 312
+21/09/2014 01:41:57.001 - ResponseLog] - [FINE] - 1 (15, 18) wants to move UP
+21/09/2014 01:41:57.118 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 313
+21/09/2014 01:41:57.119 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.119 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 313
+21/09/2014 01:41:57.120 - ResponseLog] - [FINE] - 1 (15, 17) wants to move RIGHT
+21/09/2014 01:41:57.236 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 314
+21/09/2014 01:41:57.237 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.237 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 314
+21/09/2014 01:41:57.238 - ResponseLog] - [FINE] - 1 (16, 17) wants to move RIGHT
+21/09/2014 01:41:57.386 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 315
+21/09/2014 01:41:57.387 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.388 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 315
+21/09/2014 01:41:57.388 - ResponseLog] - [FINE] - 1 (17, 17) wants to move RIGHT
+21/09/2014 01:41:57.509 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 316
+21/09/2014 01:41:57.510 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.511 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 316
+21/09/2014 01:41:57.512 - ResponseLog] - [FINE] - 1 (18, 17) wants to move UP
+21/09/2014 01:41:57.622 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 317
+21/09/2014 01:41:57.623 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.623 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 317
+21/09/2014 01:41:57.624 - ResponseLog] - [FINE] - 1 (18, 16) wants to move RIGHT
+21/09/2014 01:41:57.754 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 318
+21/09/2014 01:41:57.755 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.755 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 318
+21/09/2014 01:41:57.756 - ResponseLog] - [FINE] - 1 (19, 16) wants to move DOWN
+21/09/2014 01:41:57.899 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 319
+21/09/2014 01:41:57.900 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:57.901 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 319
+21/09/2014 01:41:57.902 - ResponseLog] - [FINE] - 1 (19, 17) wants to move RIGHT
+21/09/2014 01:41:58.022 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 320
+21/09/2014 01:41:58.023 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.023 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 320
+21/09/2014 01:41:58.024 - ResponseLog] - [FINE] - 1 (20, 17) wants to move RIGHT
+21/09/2014 01:41:58.140 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 321
+21/09/2014 01:41:58.141 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.142 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 321
+21/09/2014 01:41:58.143 - ResponseLog] - [FINE] - 1 (21, 17) wants to move DOWN
+21/09/2014 01:41:58.288 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 322
+21/09/2014 01:41:58.289 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.290 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 322
+21/09/2014 01:41:58.290 - ResponseLog] - [FINE] - 1 (21, 18) wants to move LEFT
+21/09/2014 01:41:58.399 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 323
+21/09/2014 01:41:58.400 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.401 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 323
+21/09/2014 01:41:58.401 - ResponseLog] - [FINE] - 1 (20, 18) wants to move LEFT
+21/09/2014 01:41:58.521 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 324
+21/09/2014 01:41:58.522 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.522 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 324
+21/09/2014 01:41:58.523 - ResponseLog] - [FINE] - 1 (19, 18) wants to move LEFT
+21/09/2014 01:41:58.677 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 325
+21/09/2014 01:41:58.677 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.678 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 325
+21/09/2014 01:41:58.678 - ResponseLog] - [FINE] - 1 (18, 18) wants to move LEFT
+21/09/2014 01:41:58.798 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 326
+21/09/2014 01:41:58.830 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.831 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 326
+21/09/2014 01:41:58.832 - ResponseLog] - [FINE] - 1 (17, 18) wants to move LEFT
+21/09/2014 01:41:58.941 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 327
+21/09/2014 01:41:58.942 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:58.943 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 327
+21/09/2014 01:41:58.943 - ResponseLog] - [FINE] - 1 (16, 18) wants to move DOWN
+21/09/2014 01:41:59.072 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 328
+21/09/2014 01:41:59.073 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.074 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 328
+21/09/2014 01:41:59.075 - ResponseLog] - [FINE] - 1 (16, 19) wants to move RIGHT
+21/09/2014 01:41:59.191 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 329
+21/09/2014 01:41:59.192 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.192 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 329
+21/09/2014 01:41:59.193 - ResponseLog] - [FINE] - 1 (17, 19) wants to move RIGHT
+21/09/2014 01:41:59.307 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 330
+21/09/2014 01:41:59.308 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.309 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 330
+21/09/2014 01:41:59.310 - ResponseLog] - [FINE] - 1 (18, 19) wants to move RIGHT
+21/09/2014 01:41:59.443 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 331
+21/09/2014 01:41:59.444 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.444 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 331
+21/09/2014 01:41:59.445 - ResponseLog] - [FINE] - 1 (19, 19) wants to move DOWN
+21/09/2014 01:41:59.572 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 332
+21/09/2014 01:41:59.573 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.574 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 332
+21/09/2014 01:41:59.575 - ResponseLog] - [FINE] - 1 (19, 20) wants to move LEFT
+21/09/2014 01:41:59.692 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 333
+21/09/2014 01:41:59.693 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.694 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 333
+21/09/2014 01:41:59.695 - ResponseLog] - [FINE] - 1 (18, 20) wants to move LEFT
+21/09/2014 01:41:59.811 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 334
+21/09/2014 01:41:59.812 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.813 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 334
+21/09/2014 01:41:59.813 - ResponseLog] - [FINE] - 1 (17, 20) wants to move LEFT
+21/09/2014 01:41:59.963 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 335
+21/09/2014 01:41:59.964 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:41:59.964 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 335
+21/09/2014 01:41:59.965 - ResponseLog] - [FINE] - 1 (16, 20) wants to move LEFT
+21/09/2014 01:42:00.083 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 336
+21/09/2014 01:42:00.084 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.085 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 336
+21/09/2014 01:42:00.086 - ResponseLog] - [FINE] - 1 (15, 20) wants to move LEFT
+21/09/2014 01:42:00.205 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 337
+21/09/2014 01:42:00.206 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.206 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 337
+21/09/2014 01:42:00.207 - ResponseLog] - [FINE] - 1 (14, 20) wants to move LEFT
+21/09/2014 01:42:00.355 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 338
+21/09/2014 01:42:00.356 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.357 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 338
+21/09/2014 01:42:00.358 - ResponseLog] - [FINE] - 1 (13, 20) wants to move LEFT
+21/09/2014 01:42:00.476 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 339
+21/09/2014 01:42:00.477 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.478 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 339
+21/09/2014 01:42:00.478 - ResponseLog] - [FINE] - 1 (12, 20) wants to move LEFT
+21/09/2014 01:42:00.596 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 340
+21/09/2014 01:42:00.597 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.597 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 340
+21/09/2014 01:42:00.598 - ResponseLog] - [FINE] - 1 (11, 20) wants to move LEFT
+21/09/2014 01:42:00.745 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 341
+21/09/2014 01:42:00.746 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.746 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 341
+21/09/2014 01:42:00.747 - ResponseLog] - [FINE] - 1 (10, 20) wants to move LEFT
+21/09/2014 01:42:00.864 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 342
+21/09/2014 01:42:00.884 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:00.885 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 342
+21/09/2014 01:42:00.885 - ResponseLog] - [FINE] - 1 (9, 20) wants to move LEFT
+21/09/2014 01:42:01.003 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 343
+21/09/2014 01:42:01.004 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.005 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 343
+21/09/2014 01:42:01.007 - ResponseLog] - [FINE] - 1 (8, 20) wants to move LEFT
+21/09/2014 01:42:01.126 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 344
+21/09/2014 01:42:01.127 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.128 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 344
+21/09/2014 01:42:01.128 - ResponseLog] - [FINE] - 1 (7, 20) wants to move LEFT
+21/09/2014 01:42:01.245 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 345
+21/09/2014 01:42:01.246 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.247 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 345
+21/09/2014 01:42:01.247 - ResponseLog] - [FINE] - 1 (6, 20) wants to move LEFT
+21/09/2014 01:42:01.402 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 346
+21/09/2014 01:42:01.403 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.403 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 346
+21/09/2014 01:42:01.404 - ResponseLog] - [FINE] - 1 (5, 20) wants to move LEFT
+21/09/2014 01:42:01.520 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 347
+21/09/2014 01:42:01.520 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.521 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 347
+21/09/2014 01:42:01.522 - ResponseLog] - [FINE] - 1 (4, 20) wants to move LEFT
+21/09/2014 01:42:01.639 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 348
+21/09/2014 01:42:01.640 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.640 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 348
+21/09/2014 01:42:01.641 - ResponseLog] - [FINE] - 1 (3, 20) wants to move LEFT
+21/09/2014 01:42:01.797 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 349
+21/09/2014 01:42:01.798 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.798 - ResponseLog] - [FINE] - greedy responded with move MOVE_LEFT for turn 349
+21/09/2014 01:42:01.799 - ResponseLog] - [FINE] - 1 (2, 20) wants to move LEFT
+21/09/2014 01:42:01.907 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 350
+21/09/2014 01:42:01.908 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:01.909 - ResponseLog] - [FINE] - greedy responded with move MOVE_DOWN for turn 350
+21/09/2014 01:42:01.910 - ResponseLog] - [FINE] - 1 (1, 20) wants to move DOWN
+21/09/2014 01:42:02.019 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 351
+21/09/2014 01:42:02.020 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.021 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 351
+21/09/2014 01:42:02.022 - ResponseLog] - [FINE] - 1 (1, 21) wants to move RIGHT
+21/09/2014 01:42:02.163 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 352
+21/09/2014 01:42:02.164 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.164 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 352
+21/09/2014 01:42:02.165 - ResponseLog] - [FINE] - 1 (2, 21) wants to move RIGHT
+21/09/2014 01:42:02.303 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 353
+21/09/2014 01:42:02.304 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.304 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 353
+21/09/2014 01:42:02.305 - ResponseLog] - [FINE] - 1 (3, 21) wants to move RIGHT
+21/09/2014 01:42:02.415 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 354
+21/09/2014 01:42:02.415 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.416 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 354
+21/09/2014 01:42:02.417 - ResponseLog] - [FINE] - 1 (4, 21) wants to move RIGHT
+21/09/2014 01:42:02.526 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 355
+21/09/2014 01:42:02.526 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.527 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 355
+21/09/2014 01:42:02.528 - ResponseLog] - [FINE] - 1 (5, 21) wants to move RIGHT
+21/09/2014 01:42:02.662 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 356
+21/09/2014 01:42:02.663 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.663 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 356
+21/09/2014 01:42:02.664 - ResponseLog] - [FINE] - 1 (6, 21) wants to move RIGHT
+21/09/2014 01:42:02.790 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 357
+21/09/2014 01:42:02.880 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:02.881 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 357
+21/09/2014 01:42:02.881 - ResponseLog] - [FINE] - 1 (7, 21) wants to move RIGHT
+21/09/2014 01:42:03.018 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 358
+21/09/2014 01:42:03.018 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.019 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 358
+21/09/2014 01:42:03.019 - ResponseLog] - [FINE] - 1 (8, 21) wants to move RIGHT
+21/09/2014 01:42:03.132 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 359
+21/09/2014 01:42:03.133 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.133 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 359
+21/09/2014 01:42:03.134 - ResponseLog] - [FINE] - 1 (9, 21) wants to move RIGHT
+21/09/2014 01:42:03.242 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 360
+21/09/2014 01:42:03.243 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.244 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 360
+21/09/2014 01:42:03.244 - ResponseLog] - [FINE] - 1 (10, 21) wants to move RIGHT
+21/09/2014 01:42:03.387 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 361
+21/09/2014 01:42:03.388 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.388 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 361
+21/09/2014 01:42:03.389 - ResponseLog] - [FINE] - 1 (11, 21) wants to move RIGHT
+21/09/2014 01:42:03.516 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 362
+21/09/2014 01:42:03.517 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.517 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 362
+21/09/2014 01:42:03.518 - ResponseLog] - [FINE] - 1 (12, 21) wants to move RIGHT
+21/09/2014 01:42:03.629 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 363
+21/09/2014 01:42:03.630 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.630 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 363
+21/09/2014 01:42:03.631 - ResponseLog] - [FINE] - 1 (13, 21) wants to move RIGHT
+21/09/2014 01:42:03.741 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 364
+21/09/2014 01:42:03.741 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.742 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 364
+21/09/2014 01:42:03.743 - ResponseLog] - [FINE] - 1 (14, 21) wants to move RIGHT
+21/09/2014 01:42:03.909 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 365
+21/09/2014 01:42:03.910 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:03.910 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 365
+21/09/2014 01:42:03.911 - ResponseLog] - [FINE] - 1 (15, 21) wants to move RIGHT
+21/09/2014 01:42:04.022 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 366
+21/09/2014 01:42:04.023 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.024 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 366
+21/09/2014 01:42:04.024 - ResponseLog] - [FINE] - 1 (16, 21) wants to move RIGHT
+21/09/2014 01:42:04.134 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 367
+21/09/2014 01:42:04.134 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.135 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 367
+21/09/2014 01:42:04.135 - ResponseLog] - [FINE] - 1 (17, 21) wants to move RIGHT
+21/09/2014 01:42:04.284 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 368
+21/09/2014 01:42:04.284 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.285 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 368
+21/09/2014 01:42:04.285 - ResponseLog] - [FINE] - 1 (18, 21) wants to move RIGHT
+21/09/2014 01:42:04.418 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 369
+21/09/2014 01:42:04.418 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.419 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 369
+21/09/2014 01:42:04.419 - ResponseLog] - [FINE] - 1 (19, 21) wants to move RIGHT
+21/09/2014 01:42:04.533 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 370
+21/09/2014 01:42:04.534 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.534 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 370
+21/09/2014 01:42:04.535 - ResponseLog] - [FINE] - 1 (20, 21) wants to move UP
+21/09/2014 01:42:04.644 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 371
+21/09/2014 01:42:04.644 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.645 - ResponseLog] - [FINE] - greedy responded with move MOVE_RIGHT for turn 371
+21/09/2014 01:42:04.646 - ResponseLog] - [FINE] - 1 (20, 20) wants to move RIGHT
+21/09/2014 01:42:04.788 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 372
+21/09/2014 01:42:04.935 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:04.936 - ResponseLog] - [FINE] - greedy responded with move MOVE_UP for turn 372
+21/09/2014 01:42:04.937 - ResponseLog] - [FINE] - 1 (21, 20) wants to move UP
+21/09/2014 01:42:05.051 - ResponseLog] - [FINE] - human responded with move SAME_DIRECTION for turn 373
+21/09/2014 01:42:05.052 - ResponseLog] - [FINE] - 0 (9, 0) wants to move UP
+21/09/2014 01:42:05.053 - ResponseLog] - [FINE] - greedy responded with move SAME_DIRECTION for turn 373
+21/09/2014 01:42:05.053 - ResponseLog] - [FINE] - 1 (21, 19) wants to move UP
+21/09/2014 01:42:05.156 - GameLog] - [FINE] - Player greedy left
